@@ -3,14 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-objects.ts" timestamp="1506752751904">
-        <mark key="'" line="88" column="20" />
-        <mark key="[" line="65" column="62" />
-        <mark key="]" line="65" column="62" />
-        <mark key="." line="65" column="62" />
-        <mark key="^" line="65" column="62" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-objects.ts" timestamp="1506794467376">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="77" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506743887213">
+      <file name="/Dummy.txt" timestamp="1506794280834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.js" timestamp="1506749732167">
@@ -40,12 +39,12 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/stat-calculator.spec.ts" timestamp="1506758841553">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="77" column="45" />
-        <mark key="]" line="77" column="46" />
-        <mark key="." line="77" column="46" />
-        <mark key="^" line="77" column="47" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/stat-calculator.spec.ts" timestamp="1506794680811">
+        <mark key="'" line="213" column="0" />
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="33" column="52" />
+        <mark key="^" line="33" column="52" />
+        <mark key="." line="33" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" timestamp="1506757507357">
         <mark key="'" line="14" column="1" />
@@ -68,12 +67,18 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" timestamp="1506758763056">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="40" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" timestamp="1506794614356">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/modifier.ts" timestamp="1506794523613">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/karma.conf.js" timestamp="1506669340351">
         <mark key="'" line="20" column="4" />
@@ -107,12 +112,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" timestamp="1506758865868">
-        <mark key="'" line="11" column="29" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="38" column="38" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" timestamp="1506794322540">
+        <mark key="'" line="13" column="29" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" timestamp="1506758240167">
         <mark key="'" line="40" column="0" />
@@ -139,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/utils/utils.ts" />
-      <jump line="118" column="19" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
       <jump line="124" column="30" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
       <jump line="141" column="1" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
@@ -239,16 +241,18 @@
       <jump line="26" column="23" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/test-utils.ts" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/stat-calculator.spec.ts" />
       <jump line="135" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/stat-calculator.spec.ts" />
+      <jump line="35" column="32" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>((1 + (this.value/100)))</text>
+        <text>(armor - flat armor piercing modifier)</text>
       </register>
       <register name="/" type="4">
-        <text>qwe</text>
+        <text>netAtk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBtb2QgPSBuZXcgTW9kaWZpZXIoKTsKICAgICAgICBtb2QudmFsdWVUeXBlID0gTW9kaWZpZXJWYWx1ZVR5cGUuRmxhdDsKICAgICAgICBtb2QudmFsdWUgPSAxMDsKICAgICAgICBtb2QubW9kaWZpZXJUeXBlID0gTW9kaWZpZXJUeXBlLlBoeXNBdHRrOwo=</text>
@@ -257,37 +261,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0KCJTaG91bGQgcmV0dXJuIHBoeXNBdHRhY2sgLSAoYXJtb3IgLSBmbGF0IGFybW9yIHBpZXJjaW5nIG1vZGlmaWVyKSIsICgpID0+IHsKICAgICAgICBjb25zdCBjb250ZXh0ID0gZ2V0TW9ja0NvbnRleHQoKTsKCiAgICAgICAgY29udGV4dC5wbGF5ZXIud2VhcG9uLnBoeXNBdHRhY2tNYXggPSA1OwogICAgICAgIGNvbnRleHQucGxheWVyLndlYXBvbi5waHlzQXR0YWNrTWluID0gNTsKCiAgICAgICAgY29uc3QgYXJtb3JFcSA9IG5ldyBFcXVpcG1lbnQoKTsKICAgICAgICBhcm1vckVxLnR5cGUgPSBFcXVpcG1lbnRUeXBlLkFybW9yOwogICAgICAgIGFybW9yRXEuYXJtb3IgPSA1OwoKICAgICAgICBjb25zdCBtb2QgPSBuZXcgTW9kaWZpZXIoKTsKICAgICAgICBtb2QudmFsdWVUeXBlID0gTW9kaWZpZXJWYWx1ZVR5cGUuRmxhdDsKICAgICAgICBtb2QudmFsdWUgPSAyOwogICAgICAgIG1vZC5tb2RpZmllclR5cGUgPSBNb2RpZmllclR5cGUuQXJtb3JQaWVyY2luZzsKCiAgICAgICAgY29udGV4dC5wbGF5ZXIud2VhcG9uLnBoeXNBdHRhY2tNYXggPSAxMDsKICAgICAgICBjb250ZXh0LnBsYXllci53ZWFwb24ucGh5c0F0dGFja01pbiA9IDEwOwogICAgICAgIGNvbnRleHQucGxheWVyLndlYXBvbi5tb2RpZmllcnMucHVzaChtb2QpOwogICAgICAgIGNvbnRleHQuZW5lbWllc1swXS5jdHguZXF1aXBtZW50LnB1c2goYXJtb3JFcSk7CgogICAgICAgIGNvbnN0IGNhbGMgPSBzdGF0Q2FsYyh7CiAgICAgICAgICAgIGNhc3RlcjogY29udGV4dC5wbGF5ZXIsCiAgICAgICAgICAgIHRhcmdldDogY29udGV4dC5lbmVtaWVzWzBdCiAgICAgICAgfSk7CgogICAgICAgIGV4cGVjdChjYWxjLnBoeXNpY2FsQXR0YWNrKS50by5iZS5lcSg3KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhcm1vckVxID0gbmV3IEVxdWlwbWVudCgpOwogICAgICAgIGFybW9yRXEudHlwZSA9IEVxdWlwbWVudFR5cGUuQXJtb3I7CiAgICAgICAgYXJtb3JFcS5hcm1vciA9IDU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnBsYXllci53ZWFwb24ubW9kaWZpZXJzLnB1c2gobW9kKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAxMGprMTBqCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2QudmFsdWVUeXBlID0gTW9kaWZpZXJWYWx1ZVR5cGUuRmxhdDsKICAgICAgICBtb2QudmFsdWUgPSAyOwogICAgICAgIG1vZC5tb2RpZmllclR5cGUgPSBNb2RpZmllclR5cGUuQXJtb3JQaWVyY2luZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGl0KCJTaG91bGQgcmV0dXJuIHBoeXNBdHRhY2sgZnJvbSB3ZWFwb24gd2l0aCBubyBtb2RpZmllcnMiLCAoKSA9PiB7CiAgICAgICAgY29uc3QgY29udGV4dCA9IGdldE1vY2tDb250ZXh0KCk7CgogICAgICAgIGNvbnRleHQucGxheWVyLndlYXBvbi5waHlzQXR0YWNrTWF4ID0gNTsKICAgICAgICBjb250ZXh0LnBsYXllci53ZWFwb24ucGh5c0F0dGFja01pbiA9IDU7CgogICAgICAgIGNvbnN0IGNhbGMgPSBzdGF0Q2FsYyh7CiAgICAgICAgICAgIGNhc3RlcjogY29udGV4dC5wbGF5ZXIsCiAgICAgICAgICAgIHRhcmdldDogY29udGV4dC5lbmVtaWVzWzBdCiAgICAgICAgfSk7CgogICAgICAgIGV4cGVjdChjYWxjLnBoeXNpY2FsQXR0YWNrKS50by5iZS5lcSg1KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGl0KCJTaG91bGQgcmV0dXJuIHBoeXNBdHRhY2sgLSAoYXJtb3IgLSBmbGF0IGFybW9yIHBpZXJjaW5nIG1vZGlmaWVyKSIsICgpID0+IHsKICAgICAgICBjb25zdCBjb250ZXh0ID0gZ2V0TW9ja0NvbnRleHQoKTsKCiAgICAgICAgY29udGV4dC5wbGF5ZXIud2VhcG9uLnBoeXNBdHRhY2tNYXggPSA1OwogICAgICAgIGNvbnRleHQucGxheWVyLndlYXBvbi5waHlzQXR0YWNrTWluID0gNTsKCiAgICAgICAgY29uc3QgYXJtb3JFcSA9IG5ldyBFcXVpcG1lbnQoKTsKICAgICAgICBhcm1vckVxLnR5cGUgPSBFcXVpcG1lbnRUeXBlLkFybW9yOwogICAgICAgIGFybW9yRXEuYXJtb3IgPSA1OwoKICAgICAgICBjb25zdCBtb2QgPSBuZXcgTW9kaWZpZXIoKTsKICAgICAgICBtb2QudmFsdWVUeXBlID0gTW9kaWZpZXJWYWx1ZVR5cGUuRmxhdDsKICAgICAgICBtb2QudmFsdWUgPSAyOwogICAgICAgIG1vZC5tb2RpZmllclR5cGUgPSBNb2RpZmllclR5cGUuQXJtb3JQaWVyY2luZzsKCiAgICAgICAgY29udGV4dC5wbGF5ZXIud2VhcG9uLnBoeXNBdHRhY2tNYXggPSAxMDsKICAgICAgICBjb250ZXh0LnBsYXllci53ZWFwb24ucGh5c0F0dGFja01pbiA9IDEwOwogICAgICAgIGNvbnRleHQucGxheWVyLndlYXBvbi5tb2RpZmllcnMucHVzaChtb2QpOwogICAgICAgIGNvbnRleHQuZW5lbWllc1swXS5jdHguZXF1aXBtZW50LnB1c2goYXJtb3JFcSk7CgogICAgICAgIGNvbnN0IGNhbGMgPSBzdGF0Q2FsYyh7CiAgICAgICAgICAgIGNhc3RlcjogY29udGV4dC5wbGF5ZXIsCiAgICAgICAgICAgIHRhcmdldDogY29udGV4dC5lbmVtaWVzWzBdCiAgICAgICAgfSk7CgogICAgICAgIGV4cGVjdChjYWxjLnBoeXNpY2FsQXR0YWNrKS50by5iZS5lcSg3KTsKICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZlbnNlID0gbS5hcHBseU1vZGlmaWVyKGRlZmVuc2UsIC0xKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcihsZXQgaSA9IDA7IGkgPCBwaHlzQXRrTW9kaWZpZXJzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgbSA9IHBoeXNBdGtNb2RpZmllcnNbaV07CiAgICAgICAgbmV0QXRrID0gbS5hcHBseU1vZGlmaWVyKG5ldEF0ayk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBoeXNSZXNpc3RhbmNlTW9kaWZpZXJzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBoeXNBdGtNb2RpZmllcnMgPSBjdHguY2FzdGVyLmdldEFsbE1vZGlmaWVyc09mVHlwZShNb2RpZmllclR5cGUuUGh5c0F0dGspOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFybW9yUGllcmNpbmdNb2RpZmllcnMgPSBjdHguY2FzdGVyLmdldEFsbE1vZGlmaWVyc09mVHlwZShNb2RpZmllclR5cGUuQXJtb3JQaWVyY2luZyk7CiAgICBmb3IobGV0IGkgPSAwOyBpIDwgYXJtb3JQaWVyY2luZ01vZGlmaWVycy5sZW5ndGg7IGkrKykgewogICAgICAgIGNvbnN0IG0gPSBhcm1vclBpZXJjaW5nTW9kaWZpZXJzW2ldOwogICAgICAgIGRlZmVuc2UgPSBtLmFwcGx5TW9kaWZpZXIoZGVmZW5zZSwgLTEpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>qwe</last-search>
+      <last-search>netAtk</last-search>
       <last-offset />
-      <last-pattern>qwe</last-pattern>
+      <last-pattern>netAtk</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -295,7 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
         <entry>IBattle</entry>
         <entry>Battleent</entry>
         <entry>BattleEn</entry>
@@ -315,6 +318,7 @@
         <entry>tat</entry>
         <entry>'</entry>
         <entry>qwe</entry>
+        <entry>netAtk</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
@@ -331,6 +335,7 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>W</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
