@@ -6,6 +6,42 @@
       <file name="/Dummy.txt" timestamp="1506743887213">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.js" timestamp="1506749732167">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+      </file>
+      <file name="/fragment.js" timestamp="1506749561474">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/utils/utils.ts" timestamp="1506743629568">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" timestamp="1506749766396">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/items/equipment.ts" timestamp="1506744600760">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl/karma.conf.js" timestamp="1506669340351">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/aurelia_project/aurelia.json" timestamp="1506744657843">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="118" column="19" />
@@ -18,15 +54,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" timestamp="1506746572636">
-        <mark key="'" line="149" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/utils/utils.ts" timestamp="1506743629568">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" timestamp="1506749872028">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="14" />
+        <mark key="." line="55" column="14" />
+        <mark key="^" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-moves/basic-attack.ts" timestamp="1506744759202">
         <mark key="[" line="7" column="20" />
@@ -37,12 +70,12 @@
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/main.ts" timestamp="1506668335482">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/items/equipment.ts" timestamp="1506744600760">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" timestamp="1506749895317">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" timestamp="1506744527115">
         <mark key="a" line="146" column="2" />
@@ -59,13 +92,6 @@
         <mark key="]" line="61" column="36" />
         <mark key="." line="61" column="36" />
         <mark key="^" line="27" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl/karma.conf.js" timestamp="1506669340351">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-        <mark key="^" line="34" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -129,60 +155,72 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/items/equipment.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/aurelia_project/aurelia.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/test/unit/app.spec.ts" />
-      <jump line="28" column="29" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
       <jump line="30" column="19" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
       <jump line="149" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="28" column="19" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="6" column="7" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="10" column="17" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="11" column="17" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="19" column="36" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="29" column="15" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="51" column="22" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
+      <jump line="65" column="2" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
+      <jump line="61" column="13" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGl2Ywo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>ctx</text>
       </register>
       <register name="/" type="4">
-        <text>submitMo</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmV4cG9ydCBjbGFzcyBCYXR0bGVNb3ZlQ29udGV4dCB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl2Ywo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG1vdmUgPSBtb3Zlc1tpXTsK</text>
+        <text encoding="base64">UHJvbWlzZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbW92ZS5zZXRDb250ZXh0KCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2Nhc3RlciA9IGNhc3RlcjsK</text>
+        <text encoding="base64">ICAgIGl2Ywo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbW92ZS5zZXRDb250ZXh0KHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IG1vdmUgPSBtb3Zlc1tpXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgbW92ZS5zZXRDb250ZXh0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFsdGgK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2Nhc3RlciA9IGNhc3RlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>submitMo</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>submitMo</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -204,18 +242,21 @@
         <entry>setConte</entry>
         <entry>setCon</entry>
         <entry>submitMo</entry>
+        <entry>Promise</entry>
+        <entry>expect</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>w\</entry>
-        <entry>vsp</entry>
         <entry>bd</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>Kw</entry>
         <entry>1</entry>
         <entry>W</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
@@ -246,6 +287,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
