@@ -1,20 +1,16 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
-  <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="z" second-keystroke="shift c" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="z" second-keystroke="c" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
-  <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift ctrl add" />
-    <keyboard-shortcut first-keystroke="shift ctrl equals" />
-    <keyboard-shortcut first-keystroke="z" second-keystroke="shift a" />
-  </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="z" second-keystroke="a" />
-  </action>
-  <action id="RiderUnitTestShowExplorerAction">
-    <keyboard-shortcut first-keystroke="alt u" second-keystroke="s" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="f" />
