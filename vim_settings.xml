@@ -34,8 +34,8 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" timestamp="1506752967998">
-        <mark key="'" line="12" column="14" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" timestamp="1506757478959">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
@@ -48,8 +48,8 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" timestamp="1506753007430">
-        <mark key="'" line="48" column="24" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" timestamp="1506757473320">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="28" column="11" />
         <mark key="]" line="28" column="16" />
         <mark key="." line="28" column="16" />
@@ -122,9 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/test/unit/engine/engine.spec.ts" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-engine.ts" />
@@ -203,7 +200,6 @@
       <jump line="70" column="5" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-objects.ts" />
       <jump line="44" column="12" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
       <jump line="74" column="53" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-objects.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" />
@@ -222,6 +218,10 @@
       <jump line="9" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" />
       <jump line="10" column="40" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" />
       <jump line="76" column="20" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-objects.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" />
+      <jump line="10" column="6" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
