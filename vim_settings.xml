@@ -18,6 +18,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" timestamp="1506746572636">
+        <mark key="'" line="149" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/utils/utils.ts" timestamp="1506743629568">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="8" column="0" />
@@ -126,6 +129,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/items/equipment.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/aurelia_project/aurelia.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl/test/unit/app.spec.ts" />
+      <jump line="28" column="29" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="30" column="19" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
+      <jump line="149" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
