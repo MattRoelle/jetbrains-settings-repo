@@ -10,7 +10,15 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507062254569" />
+      <file name="/Dummy.txt" timestamp="1507151985575">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507152856687">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" timestamp="1507063756206">
         <mark key="'" line="116" column="19" />
         <mark key="[" line="117" column="62" />
@@ -18,12 +26,14 @@
         <mark key="." line="117" column="63" />
         <mark key="^" line="117" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/LockBoxController.cs" timestamp="1507152851329" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/ModifyCustomerInquiryTableInSupportOfSFIntegration.cs" timestamp="1507062184053">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/appsettings.json" timestamp="1507152579526" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryResponseDto.cs" timestamp="1507063001426">
         <mark key="'" line="32" column="20" />
         <mark key="[" line="3" column="0" />
@@ -35,11 +45,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507063530152">
-        <mark key="[" line="104" column="132" />
-        <mark key="]" line="104" column="137" />
-        <mark key="." line="104" column="137" />
-        <mark key="^" line="104" column="137" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507152933551">
+        <mark key="'" line="93" column="21" />
+        <mark key="[" line="105" column="44" />
+        <mark key="]" line="105" column="45" />
+        <mark key="." line="105" column="45" />
+        <mark key="^" line="105" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -62,6 +73,10 @@
       <jump line="74" column="18" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
       <jump line="73" column="20" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
       <jump line="116" column="19" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
+      <jump line="140" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
+      <jump line="84" column="21" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
+      <jump line="85" column="48" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
+      <jump line="93" column="21" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -71,7 +86,7 @@
         <text>Interest</text>
       </register>
       <register name="/" type="4">
-        <text>serviceProv</text>
+        <text>ondCallDate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlLkNvbHVtbigiaXNfIikK</text>
@@ -105,9 +120,9 @@
       </register>
     </registers>
     <search>
-      <last-search>serviceProv</last-search>
+      <last-search>ondCallDate</last-search>
       <last-offset />
-      <last-pattern>serviceProv</last-pattern>
+      <last-pattern>ondCallDate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -115,10 +130,12 @@
       <history-search>
         <entry>raProxy</entry>
         <entry>serviceProv</entry>
+        <entry>ondCallDate</entry>
       </history-search>
       <history-cmd>
-        <entry>split</entry>
         <entry>W</entry>
+        <entry>split</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
