@@ -6,12 +6,25 @@
       <file name="/Dummy.txt" timestamp="1507157912614">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/FinancialCalcServiceProxy.cs" timestamp="1507244884249">
+        <mark key="'" line="168" column="7" />
+        <mark key="[" line="161" column="9" />
+        <mark key="]" line="162" column="7" />
+        <mark key="." line="162" column="7" />
+        <mark key="^" line="162" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" timestamp="1507063756206">
         <mark key="'" line="116" column="19" />
         <mark key="[" line="117" column="62" />
         <mark key="]" line="117" column="63" />
         <mark key="." line="117" column="63" />
         <mark key="^" line="117" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/RAProxy.cs" timestamp="1507245288397">
+        <mark key="[" line="109" column="108" />
+        <mark key="]" line="109" column="107" />
+        <mark key="." line="109" column="107" />
+        <mark key="^" line="109" column="107" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/ModifyCustomerInquiryTableInSupportOfSFIntegration.cs" timestamp="1507062184053">
         <mark key="[" line="5" column="4" />
@@ -43,6 +56,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/IFinancialCalcServiceProxy.cs" timestamp="1507244796762">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="33" column="99" />
+        <mark key="]" line="33" column="105" />
+        <mark key="." line="33" column="105" />
+        <mark key="^" line="33" column="105" />
+      </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/IFinancialCalcService.cs" timestamp="1507156612616">
         <mark key="'" line="8" column="21" />
         <mark key="[" line="32" column="0" />
@@ -57,8 +77,8 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" timestamp="1507237539435">
-        <mark key="'" line="169" column="49" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" timestamp="1507244653434">
+        <mark key="'" line="948" column="45" />
         <mark key="[" line="630" column="0" />
         <mark key="]" line="655" column="60" />
         <mark key="." line="646" column="71" />
@@ -83,6 +103,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Controllers/AssessmentCalculatorController.cs" timestamp="1507244721970">
+        <mark key="'" line="125" column="7" />
+        <mark key="[" line="117" column="9" />
+        <mark key="]" line="118" column="7" />
+        <mark key="." line="118" column="7" />
+        <mark key="^" line="118" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryResponseDto.cs" timestamp="1507063001426">
         <mark key="'" line="32" column="20" />
         <mark key="[" line="3" column="0" />
@@ -101,11 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
-      <jump line="45" column="28" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
-      <jump line="52" column="23" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
-      <jump line="65" column="33" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
-      <jump line="46" column="11" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
       <jump line="93" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
       <jump line="32" column="20" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryResponseDto.cs" />
       <jump line="95" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
@@ -198,65 +220,72 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="659" column="44" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="637" column="40" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
+      <jump line="948" column="45" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Controllers/AssessmentCalculatorController.cs" />
+      <jump line="116" column="31" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Controllers/AssessmentCalculatorController.cs" />
+      <jump line="125" column="7" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Controllers/AssessmentCalculatorController.cs" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/IFinancialCalcServiceProxy.cs" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/FinancialCalcServiceProxy.cs" />
+      <jump line="156" column="7" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/FinancialCalcServiceProxy.cs" />
+      <jump line="168" column="7" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/FinancialCalcServiceProxy.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GitUniversalTargetMonthlyPayment</text>
+        <text>AnnualPayment</text>
       </register>
       <register name="-" type="4">
-        <text>GitUniversalTargetMonthlyPayment</text>
+        <text>AnnualPayment</text>
       </register>
       <register name="/" type="4">
-        <text>throw new Invalid</text>
+        <text>Annual</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdE1ldGhvZF0KICAgICAgICBwdWJsaWMgdm9pZCBQcmVfQ0FQSV9UYXJnZXRfTW9udGhseV9QYXltZW50KCkKICAgICAgICB7CiAgICAgICAgICAgIGNvbnRhaW5lci5SZWdpc3RlcjxJRmluYW5jaWFsQ2FsY1NlcnZpY2UsIEZpbmFuY2lhbENhbGNTZXJ2aWNlPigpOwogICAgICAgICAgICB2YXIgc2VydmljZSA9IGNvbnRhaW5lci5HZXRJbnN0YW5jZTxJRmluYW5jaWFsQ2FsY1NlcnZpY2U+KCk7CgogICAgICAgICAgICB2YXIgcHJlcGF5bWVudFN0YXRlbWVudCA9IHNlcnZpY2UuR2V0VW5pdmVyc2FsVGFyZ2V0TW9udGhseVBheW1lbnQoCiAgICAgICAgICAgICAgICBuZXcgVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0bygpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVGF4UGF5bWVudFJlY2lldmVkID0gVGF4UGF5bWVudFJlY2lldmVkLlBhaWRGdWxsWWVhciwKICAgICAgICAgICAgICAgICAgICBUZXJtID0gMjAsCiAgICAgICAgICAgICAgICAgICAgRGlzYnVyc2VtZW50RGF0ZSA9IG5ldyBEYXRlVGltZSgyMDE3LCA0LCA3KSwKICAgICAgICAgICAgICAgICAgICBCb25kQ2FsbERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgOSwgNSksCiAgICAgICAgICAgICAgICAgICAgQm9uZERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNiwgOCwgMzApLAogICAgICAgICAgICAgICAgICAgIFJhdGUgPSA4Ljk5bSwKICAgICAgICAgICAgICAgICAgICBCb25kUmF0ZSA9IDguOTltLAogICAgICAgICAgICAgICAgICAgIEFtZW5kUmVtYWluaW5nQmlsbCA9IEFtZW5kUmVtYWluaW5nQmlsbC5Ob3RBbWVuZGVkLAogICAgICAgICAgICAgICAgICAgIEN1cnJlbnRZZWFySW50ZXJlc3QgPSAxNzg5Ljg4bSwKICAgICAgICAgICAgICAgICAgICBDdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQgPSAwbSwKICAgICAgICAgICAgICAgICAgICBTdXJwbHVzID0gMG0sCiAgICAgICAgICAgICAgICAgICAgUHJpbmNpcGFsQmFsYW5jZSA9IDIwMTkwLjEybSwKICAgICAgICAgICAgICAgICAgICBCb25kUHJpbmNpcGFsQmFsYW5jZSA9IDIwMTkwLjEybSwKICAgICAgICAgICAgICAgICAgICBPbmdvaW5nQWRtaW5GZWUgPSAwbSwKICAgICAgICAgICAgICAgICAgICBFeGNlc3NGYXRlID0gRXhjZXNzRmF0ZS5BcHBseVRvUHJpbmNpcGFsQXRCQ0QsCiAgICAgICAgICAgICAgICAgICAgUHJvZ3JhbUFzc2Vzc21lbnREYXRlcyA9IG1vUHJvZ3JhbUFzc2Vzc21lbnREYXRlcywKICAgICAgICAgICAgICAgICAgICBUYXJnZXRQYXltZW50QW1vdW50ID0gMTAwbQogICAgICAgICAgICAgICAgfSkuRGF0YTsKCiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbCgxMjAwbSwgcHJlcGF5bWVudFN0YXRlbWVudC5Mb2FuUGF5bWVudFNjaGVkdWxlWzFdLlRvdGFsUGF5bWVudC5WYWx1ZSk7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbCg4NzUxLjAybSwgcHJlcGF5bWVudFN0YXRlbWVudC5DcmVkaXRQcmVwYXltZW50QW1vdW50KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsVGFyZ2V0QW5udWFsUGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKDEyMDBtLCBwcmVwYXltZW50U3RhdGVtZW50LkxvYW5QYXltZW50U2NoZWR1bGVbMV0uVG90YWxQYXltZW50LlZhbHVlKTsK</text>
+        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsVGFyZ2V0QW5udWFsUGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsK</text>
+        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsUHJlcGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxQcmVwYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50KAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB2ID0gKGRlY2ltYWwpRmluYW5jaWFsLlBWKChkb3VibGUpUiwgYWRqdXN0ZWRSZW1haW5pbmdUZXJtLCAtKGRvdWJsZSlhbm51YWxQbXQpOwogICAgICAgICAgICB2YXIgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwoKICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxUYXJnZXRBcHBsaWVkUHJpbmNpcGFsKAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFubnVhbFBtdCA9IHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudDsK</text>
+        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxUYXJnZXRBcHBsaWVkUHJpbmNpcGFsKAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJydXRlRm9yY2VGaW5kRG93blBheW1lbnRBbW91bnQocmVxdWVzdCwgcmVzID0+CiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxQcmVwYXltZW50KAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwbXQgPSByZXF1ZXN0LkN1cnJlbnRZZWFyUHJpbmNpcGFsUGF5bWVudCA9PSAwbQogICAgICAgICAgICAgICAgICAgID8gcmVzLkxvYW5QYXltZW50U2NoZWR1bGVbMV0uVG90YWxQYXltZW50LlZhbHVlCiAgICAgICAgICAgICAgICAgICAgOiByZXMuTG9hblBheW1lbnRTY2hlZHVsZVswXS5Ub3RhbFBheW1lbnQuVmFsdWU7CgogICAgICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudC5WYWx1ZSAtIHBtdDsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+IEdldFVuaXZlcnNhbFRhcmdldEFubnVhbFBheW1lbnQoVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgc3RyaW5nIHVyaSA9IChuZXcgUkFRdWVyeVN0cmluZ0J1aWxkZXIoKSkuQ29tcG9zZVVyaSgiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50Iik7CiAgICAgICAgICAgIHZhciByZXRWYWwgPSBhd2FpdCBfaHR0cENsaWVudC5Qb3N0QXN5bmM8VW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0bywgU2VydmljZVJlc3VsdERlZmF1bHREdG88VW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVzcG9uc2VEdG8+Pih1cmksIHJlcXVlc3QpOwogICAgICAgICAgICByZXR1cm4gcmV0VmFsOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBheW1lbnREYXRlcyA9IENhbGN1bGF0ZVBheW1lbnREYXRlcyhyZXF1ZXN0KTsKICAgICAgICAgICAgdmFyIFQgPSBNYXRoLk1heCgxLCByZXF1ZXN0LlRlcm0gLSBwYXltZW50RGF0ZXMuWWVhck9mUHJlcGF5bWVudCk7CiAgICAgICAgICAgIHZhciBSID0gcmVxdWVzdC5SYXRlIC8gMTAwbTsKICAgICAgICAgICAgdmFyIFBQID0gcmVxdWVzdC5DdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQ7CiAgICAgICAgICAgIHZhciBhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPSBNYXRoLk1heChQUCA9PSAwID8gVCA6IFQgKyAxLCAxKTsKCiAgICAgICAgICAgIGlmIChhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPCAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBwdiA9IChkZWNpbWFsKUZpbmFuY2lhbC5QVigoZG91YmxlKVIsIGFkanVzdGVkUmVtYWluaW5nVGVybSwgLShkb3VibGUpYW5udWFsUG10KTsKICAgICAgICAgICAgdmFyIFEgPQogICAgICAgICAgICAgICAgUFAgPT0gMAogICAgICAgICAgICAgICAgICAgID8gMAogICAgICAgICAgICAgICAgICAgIDogUiAvICgoZGVjaW1hbCkgTWF0aC5Qb3coKGRvdWJsZSkgKDEgKyBSKSwgKGRvdWJsZSkgKFQgKyAxKSkgLSAxKTsKCiAgICAgICAgICAgIHZhciBQQnAgPSBNYXRoLk1pbihwdiAvICgxIC0gUSksIHJlcXVlc3QuUHJpbmNpcGFsQmFsYW5jZSk7CiAgICAgICAgICAgIG5ld1JlcXVlc3QuVGFyZ2V0QXBwbGllZFByaW5jaXBhbCA9IE1hdGguUm91bmQocmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlIC0gUEJwLCAyKTsKICAgICAgICAgICAgcmV0dXJuIEdldFRhcmdldEFwcGxpZWRQcmluY2lwYWwobmV3UmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>throw new Invalid</last-search>
+      <last-search>Annual</last-search>
       <last-offset />
-      <last-pattern>throw new Invalid</last-pattern>
+      <last-pattern>Annual</last-pattern>
+      <last-replace>Monthly</last-replace>
+      <last-substitute>Annual</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>serviceProv</entry>
-        <entry>ondCallDate</entry>
         <entry>ayoff</entry>
         <entry>request.Clone</entry>
-        <entry>Universal</entry>
         <entry>deviationFn</entry>
         <entry>BruteForce</entry>
         <entry>MO</entry>
@@ -272,15 +301,21 @@
         <entry>GetTarget</entry>
         <entry>amortiz</entry>
         <entry>throw new Invalid</entry>
+        <entry>Universal</entry>
+        <entry>AppliedPrincipal</entry>
+        <entry>Annual</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>split</entry>
-        <entry>we</entry>
         <entry>qa</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>vsp</entry>
+        <entry encoding="base64">JzwsJz5zL0FwcGxpZWRQcmluY2lwYWwvQW5udWFsUGF5bWVudC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0FubnVhbC9Nb250aGx5L2c=</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
