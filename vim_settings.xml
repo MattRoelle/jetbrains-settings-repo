@@ -19,23 +19,24 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" timestamp="1507237661918">
-        <mark key="[" line="602" column="0" />
-        <mark key="]" line="603" column="13" />
-        <mark key="." line="603" column="13" />
-        <mark key="^" line="603" column="13" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" timestamp="1507240287782">
+        <mark key="'" line="604" column="0" />
+        <mark key="[" line="627" column="96" />
+        <mark key="]" line="627" column="96" />
+        <mark key="." line="627" column="96" />
+        <mark key="^" line="627" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Startup.cs" timestamp="1507230285238">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507237815411">
-        <mark key="'" line="568" column="57" />
-        <mark key="[" line="587" column="0" />
-        <mark key="]" line="587" column="45" />
-        <mark key="^" line="590" column="53" />
-        <mark key="." line="587" column="0" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507240278553">
+        <mark key="'" line="653" column="0" />
+        <mark key="[" line="577" column="48" />
+        <mark key="]" line="577" column="48" />
+        <mark key="." line="577" column="48" />
+        <mark key="^" line="577" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20171003132249_ModifyCustomerInquiryTableInSupportOfSFIntegration.cs" timestamp="1507063764244">
         <mark key="[" line="13" column="0" />
@@ -75,11 +76,11 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" timestamp="1507153320487">
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="45" />
-        <mark key="." line="56" column="45" />
-        <mark key="^" line="56" column="45" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" timestamp="1507239847053">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryResponseDto.cs" timestamp="1507063001426">
         <mark key="'" line="32" column="20" />
@@ -136,7 +137,6 @@
       <jump line="465" column="33" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="472" column="35" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="540" column="34" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
-      <jump line="81" column="46" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="631" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="456" column="57" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="468" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
@@ -160,59 +160,87 @@
       <jump line="108" column="36" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="360" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="612" column="30" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="346" column="16" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="568" column="57" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="12" column="41" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialCalc.Tests.Data/ProgramTestDataFactory.cs" />
       <jump line="169" column="49" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" />
+      <jump line="506" column="45" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="228" column="68" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="274" column="56" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="278" column="61" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="297" column="33" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="116" column="12" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="590" column="15" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="298" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="581" column="62" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="346" column="16" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="520" column="56" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="87" column="12" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="594" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="610" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="81" column="78" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="226" column="20" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="240" column="117" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="245" column="15" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="486" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="579" column="132" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" />
+      <jump line="225" column="18" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="627" column="97" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
+      <jump line="630" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
+      <jump line="235" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="40" column="36" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
+      <jump line="474" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="656" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="604" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld1JlcXVlc3QgPSByZXF1ZXN0LkNsb25lKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWU=</text>
       </register>
       <register name="-" type="4">
-        <text>newREquest</text>
+        <text encoding="base64">IC0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWU=</text>
       </register>
       <register name="/" type="4">
-        <text>MO</text>
+        <text>GetTarget</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdE1ldGhvZF0KICAgICAgICBwdWJsaWMgdm9pZCBQb3N0X0NBUElfVGFyZ2V0X0FwcGxpZWRfUHJpbmNpcGFsKCkKICAgICAgICB7CiAgICAgICAgICAgIGNvbnRhaW5lci5SZWdpc3RlcjxJRmluYW5jaWFsQ2FsY1NlcnZpY2UsIEZpbmFuY2lhbENhbGNTZXJ2aWNlPigpOwogICAgICAgICAgICB2YXIgc2VydmljZSA9IGNvbnRhaW5lci5HZXRJbnN0YW5jZTxJRmluYW5jaWFsQ2FsY1NlcnZpY2U+KCk7CgogICAgICAgICAgICB2YXIgcHJlcGF5bWVudFN0YXRlbWVudCA9IHNlcnZpY2UuR2V0VW5pdmVyc2FsVGFyZ2V0QXBwbGllZFByaW5jaXBhbCgKICAgICAgICAgICAgICAgIG5ldyBVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvKCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBUYXhQYXltZW50UmVjaWV2ZWQgPSBUYXhQYXltZW50UmVjaWV2ZWQuTm90WWV0UGFpZCwKICAgICAgICAgICAgICAgICAgICBUZXJtID0gMjAsCiAgICAgICAgICAgICAgICAgICAgRGlzYnVyc2VtZW50RGF0ZSA9IG5ldyBEYXRlVGltZSgyMDE2LCA5LCAyOSksCiAgICAgICAgICAgICAgICAgICAgQm9uZENhbGxEYXRlID0gbmV3IERhdGVUaW1lKDIwMTcsIDYsIDIpLAogICAgICAgICAgICAgICAgICAgIFJhdGUgPSA4Ljk5bSwKICAgICAgICAgICAgICAgICAgICBCb25kUmF0ZSA9IDUuMjBtLAogICAgICAgICAgICAgICAgICAgIEFtZW5kUmVtYWluaW5nQmlsbCA9IEFtZW5kUmVtYWluaW5nQmlsbC5Ob3RBbWVuZGVkLAogICAgICAgICAgICAgICAgICAgIEN1cnJlbnRZZWFySW50ZXJlc3QgPSAxMDQzLjAzbSwKICAgICAgICAgICAgICAgICAgICBDdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQgPSAyMjcuMDRtLAogICAgICAgICAgICAgICAgICAgIFN1cnBsdXMgPSAwbSwKICAgICAgICAgICAgICAgICAgICBQcmluY2lwYWxCYWxhbmNlID0gMTE2MDIuMjBtLAogICAgICAgICAgICAgICAgICAgIEJvbmRQcmluY2lwYWxCYWxhbmNlID0gMTE2MDIuMjBtLAogICAgICAgICAgICAgICAgICAgIE9uZ29pbmdBZG1pbkZlZSA9IDBtLAogICAgICAgICAgICAgICAgICAgIEV4Y2Vzc0ZhdGUgPSBFeGNlc3NGYXRlLlJlZnVuZFRvSG9tZW93bmVyLAogICAgICAgICAgICAgICAgICAgIERvd25QYXltZW50ID0gMjAwMG0sCiAgICAgICAgICAgICAgICAgICAgUHJvZ3JhbUFzc2Vzc21lbnREYXRlcyA9IG1vUHJvZ3JhbUFzc2Vzc21lbnREYXRlcywKICAgICAgICAgICAgICAgICAgICBUYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gMzAwMG0KICAgICAgICAgICAgICAgIH0pLkRhdGE7CgogICAgICAgICAgICBBc3NlcnQuQXJlRXF1YWwoMzAwMG0sIHByZXBheW1lbnRTdGF0ZW1lbnQuRGViaXRBcHBsaWVkUHJpbmNpcGFsKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld1JlcXVlc3QgPSByZXF1ZXN0LkNsb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBCcnV0ZUZvcmNlRmluZERvd25QYXltZW50QW1vdW50KHJlcXVlc3QsIHJlcyA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcG10ID0gcmVxdWVzdC5DdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQgPT0gMG0KICAgICAgICAgICAgICAgICAgICA/IHJlcy5Mb2FuUGF5bWVudFNjaGVkdWxlWzFdLlRvdGFsUGF5bWVudC5WYWx1ZQogICAgICAgICAgICAgICAgICAgIDogcmVzLkxvYW5QYXltZW50U2NoZWR1bGVbMF0uVG90YWxQYXltZW50LlZhbHVlOwoKICAgICAgICAgICAgICAgIHJldHVybiByZXF1ZXN0LlRhcmdldFBheW1lbnRBbW91bnQuVmFsdWUgLQogICAgICAgICAgICAgICAgICAgICAgICAgICBNYXRoLlJvdW5kKHBtdCAvIDEybSwgMik7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB2ID0gKGRlY2ltYWwpRmluYW5jaWFsLlBWKChkb3VibGUpUiwgYWRqdXN0ZWRSZW1haW5pbmdUZXJtLCAtKGRvdWJsZSlhbm51YWxQbXQpOwogICAgICAgICAgICB2YXIgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwoKICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFubnVhbFBtdCA9IHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKDEwMG0sIE1hdGguUm91bmQocHJlcGF5bWVudFN0YXRlbWVudC5Mb2FuUGF5bWVudFNjaGVkdWxlWzFdLlRvdGFsUGF5bWVudC5WYWx1ZS8xMiwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJydXRlRm9yY2VGaW5kRG93blBheW1lbnRBbW91bnQocmVxdWVzdCwgcmVzID0+CiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYXJnZXRQYXltZW50QW1vdW50ID0gMTAwbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwbXQgPSByZXF1ZXN0LkN1cnJlbnRZZWFyUHJpbmNpcGFsUGF5bWVudCA9PSAwbQogICAgICAgICAgICAgICAgICAgID8gcmVzLkxvYW5QYXltZW50U2NoZWR1bGVbMV0uVG90YWxQYXltZW50LlZhbHVlCiAgICAgICAgICAgICAgICAgICAgOiByZXMuTG9hblBheW1lbnRTY2hlZHVsZVswXS5Ub3RhbFBheW1lbnQuVmFsdWU7CgogICAgICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudC5WYWx1ZSAtIHBtdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByZXBheW1lbnRTdGF0ZW1lbnQgPSBzZXJ2aWNlLkdldFVuaXZlcnNhbFRhcmdldE1vbnRobHlQYXltZW50KAogICAgICAgICAgICAgICAgbmV3IFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlcXVlc3REdG8oKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFRheFBheW1lbnRSZWNpZXZlZCA9IFRheFBheW1lbnRSZWNpZXZlZC5QYWlkRnVsbFllYXIsCiAgICAgICAgICAgICAgICAgICAgVGVybSA9IDIwLAogICAgICAgICAgICAgICAgICAgIERpc2J1cnNlbWVudERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgNCwgNyksCiAgICAgICAgICAgICAgICAgICAgQm9uZENhbGxEYXRlID0gbmV3IERhdGVUaW1lKDIwMTcsIDksIDUpLAogICAgICAgICAgICAgICAgICAgIFJhdGUgPSA4Ljk5bSwKICAgICAgICAgICAgICAgICAgICBCb25kUmF0ZSA9IDguOTltLAogICAgICAgICAgICAgICAgICAgIEFtZW5kUmVtYWluaW5nQmlsbCA9IEFtZW5kUmVtYWluaW5nQmlsbC5Ob3RBbWVuZGVkLAogICAgICAgICAgICAgICAgICAgIEN1cnJlbnRZZWFySW50ZXJlc3QgPSAxNzg5Ljg4bSwKICAgICAgICAgICAgICAgICAgICBDdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQgPSAwbSwKICAgICAgICAgICAgICAgICAgICBTdXJwbHVzID0gMG0sCiAgICAgICAgICAgICAgICAgICAgUHJpbmNpcGFsQmFsYW5jZSA9IDIwMTkwLjEybSwKICAgICAgICAgICAgICAgICAgICBCb25kUHJpbmNpcGFsQmFsYW5jZSA9IDIwMTkwLjEybSwKICAgICAgICAgICAgICAgICAgICBPbmdvaW5nQWRtaW5GZWUgPSAwbSwKICAgICAgICAgICAgICAgICAgICBFeGNlc3NGYXRlID0gRXhjZXNzRmF0ZS5BcHBseVRvUHJpbmNpcGFsQXRCQ0QsCiAgICAgICAgICAgICAgICAgICAgUHJvZ3JhbUFzc2Vzc21lbnREYXRlcyA9IG1vUHJvZ3JhbUFzc2Vzc21lbnREYXRlcywKICAgICAgICAgICAgICAgICAgICBUYXJnZXRQYXltZW50QW1vdW50ID0gMTAwbQogICAgICAgICAgICAgICAgfSkuRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBheW1lbnREYXRlcyA9IENhbGN1bGF0ZVBheW1lbnREYXRlcyhyZXF1ZXN0KTsKICAgICAgICAgICAgdmFyIFQgPSBNYXRoLk1heCgxLCByZXF1ZXN0LlRlcm0gLSBwYXltZW50RGF0ZXMuWWVhck9mUHJlcGF5bWVudCk7CiAgICAgICAgICAgIHZhciBSID0gcmVxdWVzdC5SYXRlIC8gMTAwbTsKICAgICAgICAgICAgdmFyIFBQID0gcmVxdWVzdC5DdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQ7CiAgICAgICAgICAgIHZhciBhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPSBNYXRoLk1heChQUCA9PSAwID8gVCA6IFQgKyAxLCAxKTsKCiAgICAgICAgICAgIGlmIChhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPCAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBwdiA9IChkZWNpbWFsKUZpbmFuY2lhbC5QVigoZG91YmxlKVIsIGFkanVzdGVkUmVtYWluaW5nVGVybSwgLShkb3VibGUpYW5udWFsUG10KTsKICAgICAgICAgICAgdmFyIFEgPQogICAgICAgICAgICAgICAgUFAgPT0gMAogICAgICAgICAgICAgICAgICAgID8gMAogICAgICAgICAgICAgICAgICAgIDogUiAvICgoZGVjaW1hbCkgTWF0aC5Qb3coKGRvdWJsZSkgKDEgKyBSKSwgKGRvdWJsZSkgKFQgKyAxKSkgLSAxKTsKCiAgICAgICAgICAgIHZhciBQQnAgPSBNYXRoLk1pbihwdiAvICgxIC0gUSksIHJlcXVlc3QuUHJpbmNpcGFsQmFsYW5jZSk7CiAgICAgICAgICAgIG5ld1JlcXVlc3QuVGFyZ2V0QXBwbGllZFByaW5jaXBhbCA9IE1hdGguUm91bmQocmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlIC0gUEJwLCAyKTsKICAgICAgICAgICAgcmV0dXJuIEdldFRhcmdldEFwcGxpZWRQcmluY2lwYWwobmV3UmVxdWVzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICAgKiBXZWlnaHRlZCBzdW0KICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MO</last-search>
+      <last-search>GetTarget</last-search>
       <last-offset />
-      <last-pattern>MO</last-pattern>
+      <last-pattern>GetTarget</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -223,21 +251,29 @@
         <entry>ondCallDate</entry>
         <entry>ayoff</entry>
         <entry>request.Clone</entry>
-        <entry>GetPayoff</entry>
         <entry>Universal</entry>
         <entry>deviationFn</entry>
         <entry>BruteForce</entry>
-        <entry>GetTarget</entry>
         <entry>MO</entry>
+        <entry>emaining</entry>
+        <entry>T</entry>
+        <entry>adjustedRemaining</entry>
+        <entry>Monthly</entry>
+        <entry>TargetMont</entry>
+        <entry>TargetMonthly</entry>
+        <entry>roundTowardsP</entry>
+        <entry>GetPayoff</entry>
+        <entry>eigen</entry>
+        <entry>GetTarget</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>split</entry>
         <entry>we</entry>
         <entry>qa</entry>
-        <entry>vsp</entry>
         <entry>qw</entry>
         <entry>q</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
