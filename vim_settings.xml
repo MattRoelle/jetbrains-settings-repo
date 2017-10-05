@@ -3,6 +3,51 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20170717155530_AddCustomerInquiryTables.cs" timestamp="1507246286195">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="129" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Startup.cs" timestamp="1507230285238">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/IFinancialCalcService.cs" timestamp="1507156612616">
+        <mark key="'" line="8" column="21" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="33" column="106" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20170519113726_CreateInitialLoanSchema.cs" timestamp="1507246265359">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/PaymentProcessorTests.cs" timestamp="1507063262604">
+        <mark key="'" line="421" column="0" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" timestamp="1507244653434">
+        <mark key="'" line="948" column="45" />
+        <mark key="[" line="630" column="0" />
+        <mark key="]" line="655" column="60" />
+        <mark key="." line="646" column="71" />
+        <mark key="^" line="658" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" timestamp="1507239847053">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialCalc.Tests.Data/ProgramTestDataFactory.cs" timestamp="1507237519459">
+        <mark key="'" line="12" column="41" />
+      </file>
       <file name="/Dummy.txt" timestamp="1507157912614">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,10 +84,11 @@
         <mark key="." line="656" column="44" />
         <mark key="^" line="656" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Startup.cs" timestamp="1507230285238">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddNewCustomerInquiryTypesAndAdditionalFields.cs" timestamp="1507246406094">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507242577956">
         <mark key="'" line="372" column="40" />
@@ -63,27 +109,6 @@
         <mark key="." line="33" column="105" />
         <mark key="^" line="33" column="105" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/IFinancialCalcService.cs" timestamp="1507156612616">
-        <mark key="'" line="8" column="21" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="33" column="106" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/PaymentProcessorTests.cs" timestamp="1507063262604">
-        <mark key="'" line="421" column="0" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" timestamp="1507244653434">
-        <mark key="'" line="948" column="45" />
-        <mark key="[" line="630" column="0" />
-        <mark key="]" line="655" column="60" />
-        <mark key="." line="646" column="71" />
-        <mark key="^" line="658" column="72" />
-      </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/AmortizationCalculator.cs" timestamp="1507241358971" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1507230539809">
         <mark key="[" line="97" column="48" />
@@ -91,17 +116,11 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507152856687">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="16" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507246519085">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
         <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" timestamp="1507239847053">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Controllers/AssessmentCalculatorController.cs" timestamp="1507244721970">
         <mark key="'" line="125" column="7" />
@@ -122,9 +141,6 @@
         <mark key="]" line="105" column="45" />
         <mark key="." line="105" column="45" />
         <mark key="^" line="105" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialCalc.Tests.Data/ProgramTestDataFactory.cs" timestamp="1507237519459">
-        <mark key="'" line="12" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -231,52 +247,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AnnualPayment</text>
+        <text>bond_call_date</text>
       </register>
       <register name="-" type="4">
-        <text>AnnualPayment</text>
+        <text>bond_call_date</text>
       </register>
       <register name="/" type="4">
-        <text>Annual</text>
+        <text>customer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsVGFyZ2V0QW5udWFsUGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
+        <text encoding="base64">ICAgICAgICBbQ29sdW1uKCJib25kX2NhbGxfZGF0ZSIpXSBwdWJsaWMgRGF0ZVRpbWU/IEJvbmRDYWxsRGF0ZSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsVGFyZ2V0QW5udWFsUGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRDb2x1bW4oInRhcmdldF9wYXltZW50IikuQXNEZWNpbWFsKCkuTnVsbGFibGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsUHJlcGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxQcmVwYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Sb3cobmV3IHsgY3VzdG9tZXJfaW5xdWlyeV90eXBlX2lkID0gNCwgbmFtZSA9ICJUYXJnZXRQcmluY2lwYWxCYWxhbmNlSW5xdWlyeSIsIGNyZWF0ZWRfZGF0ZSA9IERhdGVUaW1lLk5vdywgY3JlYXRlZF9ieSA9ICJtcm9lbGxlIiB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50KAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIEluc2VydC5JbnRvVGFibGUoImN1c3RvbWVyX2lucXVpcnlfdHlwZSIpCiAgICAgICAgICAgICAgICAuUm93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxUYXJnZXRBcHBsaWVkUHJpbmNpcGFsKAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5zZXJ0LkludG9UYWJsZSgiY3VzdG9tZXJfaW5xdWlyeV90eXBlIikKICAgICAgICAgICAgICAgIC5Sb3cobmV3IHsgY3VzdG9tZXJfaW5xdWlyeV90eXBlX2lkID0gMSwgbmFtZSA9ICJQYXlkb3duIiwgY3JlYXRlZF9kYXRlID0gRGF0ZVRpbWUuTm93LCBjcmVhdGVkX2J5ID0gIm1yb2VsbGUiIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxUYXJnZXRBcHBsaWVkUHJpbmNpcGFsKAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlUYXNrPFVuaXZlcnNhbFByZXBheW1lbnRDYWxjdWxhdGlvblJlc3BvbnNlRHRvPiBHZXRVbml2ZXJzYWxQcmVwYXltZW50KAoJCQlVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvIHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+IEdldFVuaXZlcnNhbFRhcmdldEFubnVhbFBheW1lbnQoVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgc3RyaW5nIHVyaSA9IChuZXcgUkFRdWVyeVN0cmluZ0J1aWxkZXIoKSkuQ29tcG9zZVVyaSgiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50Iik7CiAgICAgICAgICAgIHZhciByZXRWYWwgPSBhd2FpdCBfaHR0cENsaWVudC5Qb3N0QXN5bmM8VW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0bywgU2VydmljZVJlc3VsdERlZmF1bHREdG88VW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVzcG9uc2VEdG8+Pih1cmksIHJlcXVlc3QpOwogICAgICAgICAgICByZXR1cm4gcmV0VmFsOwogICAgICAgIH0K</text>
+        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsVGFyZ2V0QW5udWFsUGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQlwdWJsaWMgYXN5bmMgVGFzazxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4gR2V0VW5pdmVyc2FsVGFyZ2V0QW5udWFsUGF5bWVudCgKCQkJVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0byByZXF1ZXN0KQoJCXsKCQkJdmFyIGh0dHBSZXNwb25zZSA9IGF3YWl0IF9odHRwLlBvc3RBc3luYyhfY29uZmlnLkZpbkNhbGNBcGkgKyAiQXNzZXNzbWVudC9HZXRVbml2ZXJzYWxUYXJnZXRBbm51YWxQYXltZW50IiwKCQkJCW5ldyBTdHJpbmdDb250ZW50KEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKSk7CgoJCQlodHRwUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGUoKTsKCgkJCXZhciByZXNwb25zZSA9CgkJCQlKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxTZXJ2aWNlUmVzdWx0RGVmYXVsdER0bzxVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXNwb25zZUR0bz4+KAoJCQkJCWF3YWl0IGh0dHBSZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwoKCQkJcmV0dXJuIHJlc3BvbnNlLkRhdGE7CgkJfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>Annual</last-search>
+      <last-search>customer</last-search>
       <last-offset />
-      <last-pattern>Annual</last-pattern>
+      <last-pattern>customer</last-pattern>
       <last-replace>Monthly</last-replace>
       <last-substitute>Annual</last-substitute>
       <last-dir>1</last-dir>
@@ -284,8 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ayoff</entry>
-        <entry>request.Clone</entry>
         <entry>deviationFn</entry>
         <entry>BruteForce</entry>
         <entry>MO</entry>
@@ -304,11 +318,12 @@
         <entry>Universal</entry>
         <entry>AppliedPrincipal</entry>
         <entry>Annual</entry>
+        <entry>customer_inquiry</entry>
+        <entry>customer</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>split</entry>
-        <entry>qa</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>vsp</entry>
@@ -316,7 +331,9 @@
         <entry encoding="base64">JzwsJz5zL0FubnVhbC9Nb250aGx5L2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
+        <entry>wa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
