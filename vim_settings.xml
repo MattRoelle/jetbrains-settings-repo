@@ -19,24 +19,24 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" timestamp="1507240287782">
-        <mark key="'" line="604" column="0" />
-        <mark key="[" line="627" column="96" />
-        <mark key="]" line="627" column="96" />
-        <mark key="." line="627" column="96" />
-        <mark key="^" line="627" column="11" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" timestamp="1507242641423">
+        <mark key="'" line="637" column="40" />
+        <mark key="[" line="656" column="44" />
+        <mark key="]" line="656" column="44" />
+        <mark key="." line="656" column="44" />
+        <mark key="^" line="656" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Startup.cs" timestamp="1507230285238">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507241341637">
-        <mark key="'" line="596" column="85" />
-        <mark key="[" line="577" column="48" />
-        <mark key="]" line="577" column="48" />
-        <mark key="." line="577" column="48" />
-        <mark key="^" line="577" column="48" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507242577956">
+        <mark key="'" line="372" column="40" />
+        <mark key="[" line="586" column="53" />
+        <mark key="]" line="586" column="103" />
+        <mark key="." line="586" column="103" />
+        <mark key="^" line="586" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20171003132249_ModifyCustomerInquiryTableInSupportOfSFIntegration.cs" timestamp="1507063764244">
         <mark key="[" line="13" column="0" />
@@ -194,61 +194,64 @@
       <jump line="656" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="604" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="596" column="85" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="372" column="40" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
+      <jump line="659" column="44" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
+      <jump line="637" column="40" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWU=</text>
+        <text>GitUniversalTargetMonthlyPayment</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWU=</text>
+        <text>GitUniversalTargetMonthlyPayment</text>
       </register>
       <register name="/" type="4">
-        <text>amortiz</text>
+        <text>throw new Invalid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdE1ldGhvZF0KICAgICAgICBwdWJsaWMgdm9pZCBQcmVfQ0FQSV9UYXJnZXRfTW9udGhseV9QYXltZW50KCkKICAgICAgICB7CiAgICAgICAgICAgIGNvbnRhaW5lci5SZWdpc3RlcjxJRmluYW5jaWFsQ2FsY1NlcnZpY2UsIEZpbmFuY2lhbENhbGNTZXJ2aWNlPigpOwogICAgICAgICAgICB2YXIgc2VydmljZSA9IGNvbnRhaW5lci5HZXRJbnN0YW5jZTxJRmluYW5jaWFsQ2FsY1NlcnZpY2U+KCk7CgogICAgICAgICAgICB2YXIgcHJlcGF5bWVudFN0YXRlbWVudCA9IHNlcnZpY2UuR2V0VW5pdmVyc2FsVGFyZ2V0TW9udGhseVBheW1lbnQoCiAgICAgICAgICAgICAgICBuZXcgVW5pdmVyc2FsUHJlcGF5bWVudENhbGN1bGF0aW9uUmVxdWVzdER0bygpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVGF4UGF5bWVudFJlY2lldmVkID0gVGF4UGF5bWVudFJlY2lldmVkLlBhaWRGdWxsWWVhciwKICAgICAgICAgICAgICAgICAgICBUZXJtID0gMjAsCiAgICAgICAgICAgICAgICAgICAgRGlzYnVyc2VtZW50RGF0ZSA9IG5ldyBEYXRlVGltZSgyMDE3LCA0LCA3KSwKICAgICAgICAgICAgICAgICAgICBCb25kQ2FsbERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgOSwgNSksCiAgICAgICAgICAgICAgICAgICAgQm9uZERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNiwgOCwgMzApLAogICAgICAgICAgICAgICAgICAgIFJhdGUgPSA4Ljk5bSwKICAgICAgICAgICAgICAgICAgICBCb25kUmF0ZSA9IDguOTltLAogICAgICAgICAgICAgICAgICAgIEFtZW5kUmVtYWluaW5nQmlsbCA9IEFtZW5kUmVtYWluaW5nQmlsbC5Ob3RBbWVuZGVkLAogICAgICAgICAgICAgICAgICAgIEN1cnJlbnRZZWFySW50ZXJlc3QgPSAxNzg5Ljg4bSwKICAgICAgICAgICAgICAgICAgICBDdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQgPSAwbSwKICAgICAgICAgICAgICAgICAgICBTdXJwbHVzID0gMG0sCiAgICAgICAgICAgICAgICAgICAgUHJpbmNpcGFsQmFsYW5jZSA9IDIwMTkwLjEybSwKICAgICAgICAgICAgICAgICAgICBCb25kUHJpbmNpcGFsQmFsYW5jZSA9IDIwMTkwLjEybSwKICAgICAgICAgICAgICAgICAgICBPbmdvaW5nQWRtaW5GZWUgPSAwbSwKICAgICAgICAgICAgICAgICAgICBFeGNlc3NGYXRlID0gRXhjZXNzRmF0ZS5BcHBseVRvUHJpbmNpcGFsQXRCQ0QsCiAgICAgICAgICAgICAgICAgICAgUHJvZ3JhbUFzc2Vzc21lbnREYXRlcyA9IG1vUHJvZ3JhbUFzc2Vzc21lbnREYXRlcywKICAgICAgICAgICAgICAgICAgICBUYXJnZXRQYXltZW50QW1vdW50ID0gMTAwbQogICAgICAgICAgICAgICAgfSkuRGF0YTsKCiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbCgxMjAwbSwgcHJlcGF5bWVudFN0YXRlbWVudC5Mb2FuUGF5bWVudFNjaGVkdWxlWzFdLlRvdGFsUGF5bWVudC5WYWx1ZSk7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbCg4NzUxLjAybSwgcHJlcGF5bWVudFN0YXRlbWVudC5DcmVkaXRQcmVwYXltZW50QW1vdW50KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKDEyMDBtLCBwcmVwYXltZW50U3RhdGVtZW50LkxvYW5QYXltZW50U2NoZWR1bGVbMV0uVG90YWxQYXltZW50LlZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB2ID0gKGRlY2ltYWwpRmluYW5jaWFsLlBWKChkb3VibGUpUiwgYWRqdXN0ZWRSZW1haW5pbmdUZXJtLCAtKGRvdWJsZSlhbm51YWxQbXQpOwogICAgICAgICAgICB2YXIgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwoKICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFubnVhbFBtdCA9IHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJydXRlRm9yY2VGaW5kRG93blBheW1lbnRBbW91bnQocmVxdWVzdCwgcmVzID0+CiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB2ID0gKGRlY2ltYWwpRmluYW5jaWFsLlBWKChkb3VibGUpUiwgYWRqdXN0ZWRSZW1haW5pbmdUZXJtLCAtKGRvdWJsZSlhbm51YWxQbXQpOwogICAgICAgICAgICB2YXIgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwoKICAgICAgICAgICAgdmFyIFBCcCA9IE1hdGguTWluKHB2IC8gKDEgLSBRKSwgcmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlKTsKICAgICAgICAgICAgbmV3UmVxdWVzdC5UYXJnZXRBcHBsaWVkUHJpbmNpcGFsID0gTWF0aC5Sb3VuZChyZXF1ZXN0LlByaW5jaXBhbEJhbGFuY2UgLSBQQnAsIDIpOwogICAgICAgICAgICByZXR1cm4gR2V0VGFyZ2V0QXBwbGllZFByaW5jaXBhbChuZXdSZXF1ZXN0KTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwbXQgPSByZXF1ZXN0LkN1cnJlbnRZZWFyUHJpbmNpcGFsUGF5bWVudCA9PSAwbQogICAgICAgICAgICAgICAgICAgID8gcmVzLkxvYW5QYXltZW50U2NoZWR1bGVbMV0uVG90YWxQYXltZW50LlZhbHVlCiAgICAgICAgICAgICAgICAgICAgOiByZXMuTG9hblBheW1lbnRTY2hlZHVsZVswXS5Ub3RhbFBheW1lbnQuVmFsdWU7CgogICAgICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudC5WYWx1ZSAtIHBtdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFubnVhbFBtdCA9IHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBheW1lbnREYXRlcyA9IENhbGN1bGF0ZVBheW1lbnREYXRlcyhyZXF1ZXN0KTsKICAgICAgICAgICAgdmFyIFQgPSBNYXRoLk1heCgxLCByZXF1ZXN0LlRlcm0gLSBwYXltZW50RGF0ZXMuWWVhck9mUHJlcGF5bWVudCk7CiAgICAgICAgICAgIHZhciBSID0gcmVxdWVzdC5SYXRlIC8gMTAwbTsKICAgICAgICAgICAgdmFyIFBQID0gcmVxdWVzdC5DdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQ7CiAgICAgICAgICAgIHZhciBhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPSBNYXRoLk1heChQUCA9PSAwID8gVCA6IFQgKyAxLCAxKTsKCiAgICAgICAgICAgIGlmIChhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPCAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBwdiA9IChkZWNpbWFsKUZpbmFuY2lhbC5QVigoZG91YmxlKVIsIGFkanVzdGVkUmVtYWluaW5nVGVybSwgLShkb3VibGUpYW5udWFsUG10KTsKICAgICAgICAgICAgdmFyIFEgPQogICAgICAgICAgICAgICAgUFAgPT0gMAogICAgICAgICAgICAgICAgICAgID8gMAogICAgICAgICAgICAgICAgICAgIDogUiAvICgoZGVjaW1hbCkgTWF0aC5Qb3coKGRvdWJsZSkgKDEgKyBSKSwgKGRvdWJsZSkgKFQgKyAxKSkgLSAxKTsKCiAgICAgICAgICAgIHZhciBQQnAgPSBNYXRoLk1pbihwdiAvICgxIC0gUSksIHJlcXVlc3QuUHJpbmNpcGFsQmFsYW5jZSk7CiAgICAgICAgICAgIG5ld1JlcXVlc3QuVGFyZ2V0QXBwbGllZFByaW5jaXBhbCA9IE1hdGguUm91bmQocmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlIC0gUEJwLCAyKTsKICAgICAgICAgICAgcmV0dXJuIEdldFRhcmdldEFwcGxpZWRQcmluY2lwYWwobmV3UmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJydXRlRm9yY2VGaW5kRG93blBheW1lbnRBbW91bnQocmVxdWVzdCwgcmVzID0+CiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwbXQgPSByZXF1ZXN0LkN1cnJlbnRZZWFyUHJpbmNpcGFsUGF5bWVudCA9PSAwbQogICAgICAgICAgICAgICAgICAgID8gcmVzLkxvYW5QYXltZW50U2NoZWR1bGVbMV0uVG90YWxQYXltZW50LlZhbHVlCiAgICAgICAgICAgICAgICAgICAgOiByZXMuTG9hblBheW1lbnRTY2hlZHVsZVswXS5Ub3RhbFBheW1lbnQuVmFsdWU7CgogICAgICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QuVGFyZ2V0UGF5bWVudEFtb3VudC5WYWx1ZSAtIHBtdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICAgKiBXZWlnaHRlZCBzdW0KICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBheW1lbnREYXRlcyA9IENhbGN1bGF0ZVBheW1lbnREYXRlcyhyZXF1ZXN0KTsKICAgICAgICAgICAgdmFyIFQgPSBNYXRoLk1heCgxLCByZXF1ZXN0LlRlcm0gLSBwYXltZW50RGF0ZXMuWWVhck9mUHJlcGF5bWVudCk7CiAgICAgICAgICAgIHZhciBSID0gcmVxdWVzdC5SYXRlIC8gMTAwbTsKICAgICAgICAgICAgdmFyIFBQID0gcmVxdWVzdC5DdXJyZW50WWVhclByaW5jaXBhbFBheW1lbnQ7CiAgICAgICAgICAgIHZhciBhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPSBNYXRoLk1heChQUCA9PSAwID8gVCA6IFQgKyAxLCAxKTsKCiAgICAgICAgICAgIGlmIChhZGp1c3RlZFJlbWFpbmluZ1Rlcm0gPCAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBwdiA9IChkZWNpbWFsKUZpbmFuY2lhbC5QVigoZG91YmxlKVIsIGFkanVzdGVkUmVtYWluaW5nVGVybSwgLShkb3VibGUpYW5udWFsUG10KTsKICAgICAgICAgICAgdmFyIFEgPQogICAgICAgICAgICAgICAgUFAgPT0gMAogICAgICAgICAgICAgICAgICAgID8gMAogICAgICAgICAgICAgICAgICAgIDogUiAvICgoZGVjaW1hbCkgTWF0aC5Qb3coKGRvdWJsZSkgKDEgKyBSKSwgKGRvdWJsZSkgKFQgKyAxKSkgLSAxKTsKCiAgICAgICAgICAgIHZhciBQQnAgPSBNYXRoLk1pbihwdiAvICgxIC0gUSksIHJlcXVlc3QuUHJpbmNpcGFsQmFsYW5jZSk7CiAgICAgICAgICAgIG5ld1JlcXVlc3QuVGFyZ2V0QXBwbGllZFByaW5jaXBhbCA9IE1hdGguUm91bmQocmVxdWVzdC5QcmluY2lwYWxCYWxhbmNlIC0gUEJwLCAyKTsKICAgICAgICAgICAgcmV0dXJuIEdldFRhcmdldEFwcGxpZWRQcmluY2lwYWwobmV3UmVxdWVzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>amortiz</last-search>
+      <last-search>throw new Invalid</last-search>
       <last-offset />
-      <last-pattern>amortiz</last-pattern>
+      <last-pattern>throw new Invalid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>raProxy</entry>
         <entry>serviceProv</entry>
         <entry>ondCallDate</entry>
         <entry>ayoff</entry>
@@ -268,6 +271,7 @@
         <entry>eigen</entry>
         <entry>GetTarget</entry>
         <entry>amortiz</entry>
+        <entry>throw new Invalid</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
