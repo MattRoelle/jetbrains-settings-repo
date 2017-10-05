@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" timestamp="1507170273587">
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" timestamp="1507173005798">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/generation/monster-pool-factory.ts" timestamp="1507173683333">
+        <mark key="'" line="9" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/magic-bolt.ts" timestamp="1507003246686">
         <mark key="'" line="15" column="0" />
@@ -23,9 +29,10 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" timestamp="1507012086893">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="46" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" timestamp="1507173389619">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="64" column="2" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
@@ -71,6 +78,12 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/data/bat-pool.json" timestamp="1507173117173">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/aurelia_project/aurelia.json" timestamp="1506744657843">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="118" column="19" />
@@ -78,12 +91,12 @@
         <mark key="^" line="118" column="17" />
         <mark key="." line="118" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/rng-tables/rng-table.ts" timestamp="1507017727803">
-        <mark key="'" line="181" column="34" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/rng-tables/rng-table.ts" timestamp="1507173056236">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="18" column="19" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" timestamp="1507003358350">
         <mark key="'" line="77" column="0" />
@@ -92,11 +105,24 @@
         <mark key="." line="38" column="75" />
         <mark key="^" line="38" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/bat.ts" timestamp="1507170656007">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="12" />
-        <mark key="^" line="25" column="12" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/bat.ts" timestamp="1507172757302">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/json-module.ts" timestamp="1507173281160">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/game/generation/monster-pool-factory.spec.ts" timestamp="1507173447625">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/test/unit/engine/engine.spec.ts" timestamp="1506891863279">
         <mark key="'" line="8" column="0" />
@@ -228,6 +254,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/enemy-factory.ts" timestamp="1507173178133">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="3" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" timestamp="1507005864359">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="0" column="0" />
@@ -237,15 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-objects.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" />
-      <jump line="10" column="40" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/items/equipment.ts" />
-      <jump line="76" column="20" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-objects.ts" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" />
-      <jump line="10" column="6" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/stat-calculator.ts" />
       <jump line="14" column="1" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.ts" />
       <jump line="52" column="24" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
@@ -337,55 +361,64 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/generation/monster-generation.ts" />
       <jump line="93" column="43" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
       <jump line="1" column="34" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/enemy-factory.ts" />
+      <jump line="183" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/rng-tables/rng-table.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/rng-tables/rng-table.ts" />
+      <jump line="8" column="26" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
+      <jump line="5" column="23" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/game/generation/monster-pool-factory.spec.ts" />
+      <jump line="4" column="28" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/game/generation/monster-pool-factory.spec.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/generation/monster-pool-factory.ts" />
+      <jump line="7" column="25" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/generation/monster-pool-factory.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return new B</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgdmFsdWU6IGFueTsKZXhwb3J0IGRlZmF1bHQgdmFsdWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return new B</text>
+        <text>Should result in a win if all enemies health are less than 0</text>
       </register>
       <register name="/" type="4">
-        <text>engine\/</text>
+        <text>qwe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzIGZyb20gIi4uL3V0aWxzL3V0aWxzIjsKCmV4cG9ydCBjbGFzcyBSbmdUYWJsZSB7CiAgICBwdWJsaWMgaXRlbXM6IFJuZ0l0ZW1bXTsKICAgIHB1YmxpYyBtaW5JdGVtczogbnVtYmVyOwogICAgcHVibGljIG1heEl0ZW1zOiBudW1iZXI7CgogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5pdGVtcyA9IFtdOwogICAgfQoKICAgIHB1YmxpYyB3aXRoSXRlbShpdGVtRGF0YTogYW55KTogUm5nVGFibGVJdGVtQnVpbGRlciB7CiAgICAgICAgcmV0dXJuIG5ldyBSbmdUYWJsZUl0ZW1CdWlsZGVyKHRoaXMsIGl0ZW1EYXRhKTsKICAgIH0KCiAgICBwdWJsaWMgd2l0aE51bWJlcihtaW46IG51bWJlciwgbWF4OiBudW1iZXIpOiBSbmdUYWJsZSB7CiAgICAgICAgdGhpcy5taW5JdGVtcyA9IG1pbjsKICAgICAgICB0aGlzLm1heEl0ZW1zID0gbWF4OwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBnZXRJdGVtQnlVaWQodWlkOiBudW1iZXIpOiBSbmdJdGVtIHsKICAgICAgICBmb3IobGV0IGkgPSAwOyBpIDwgdGhpcy5pdGVtcy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBjb25zdCBpdG0gPSB0aGlzLml0ZW1zW2ldOwogICAgICAgICAgICBpZiAoaXRtLnVpZCA9PSB1aWQpIHJldHVybiBpdG07CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBnZW5lcmF0ZSgpOiBSbmdSZXN1bHQgewogICAgICAgIGNvbnN0IHJlc3VsdCA9IG5ldyBSbmdSZXN1bHQoKTsKCiAgICAgICAgLyoKICAgICAgICAgKiBGaXJzdCwgYWRkIHRoZSBndWFyYW50ZWVkIGl0ZW1zIHRvIHRoZSByZXN1bHQKICAgICAgICAgKi8KICAgICAgICBmb3IobGV0IGkgPSAwOyBpIDwgdGhpcy5pdGVtcy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBjb25zdCBpdG0gPSB0aGlzLml0ZW1zW2ldOwogICAgICAgICAgICBpZiAoaXRtLmlzR3VhcmFudGVlZCkgewogICAgICAgICAgICAgICAgcmVzdWx0Lml0ZW1zLnB1c2godGhpcy5nZXRJdGVtUmVzdWx0KGl0bSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBjb25zdCB3ZWlnaHRlZElkQXJyID0gW107CiAgICAgICAgZm9yKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgY29uc3QgaXRtID0gdGhpcy5pdGVtc1tpXTsKICAgICAgICAgICAgaWYgKGl0bS5pc0d1YXJhbnRlZWQpIGNvbnRpbnVlOwogICAgICAgICAgICBmb3IobGV0IGogPSAwOyBqIDwgaXRtLndlaWdodDsgaisrKSB7CiAgICAgICAgICAgICAgICB3ZWlnaHRlZElkQXJyLnB1c2goaXRtLnVpZCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGNvbnN0IG5JdGVtcyA9IHV0aWxzLnJhbmRvbVJhbmdlKHRoaXMubWluSXRlbXMsIHRoaXMubWF4SXRlbXMpOwoKICAgICAgICBmb3IobGV0IGkgPSAwOyBpIDwgbkl0ZW1zOyBpKyspIHsKICAgICAgICAgICAgbGV0IGl0ZW1Jc1ZhbGlkOiBib29sZWFuOwogICAgICAgICAgICBsZXQgaXRtOiBSbmdJdGVtOwoKICAgICAgICAgICAgZG8gewogICAgICAgICAgICAgICAgaXRlbUlzVmFsaWQgPSB0cnVlOwogICAgICAgICAgICAgICAgbGV0IG5ld0l0ZW1VaWQgPSB3ZWlnaHRlZElkQXJyW01hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHdlaWdodGVkSWRBcnIubGVuZ3RoKV07CiAgICAgICAgICAgICAgICBpdG0gPSB0aGlzLmdldEl0ZW1CeVVpZChuZXdJdGVtVWlkKTsKCiAgICAgICAgICAgICAgICBpZiAoaXRtLmlzVW5pcXVlICYmIHJlc3VsdC5hbHJlYWR5Q29udGFpbnNJdGVtKG5ld0l0ZW1VaWQpKSB7CiAgICAgICAgICAgICAgICAgICAgaXRlbUlzVmFsaWQgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIH0gd2hpbGUoIWl0ZW1Jc1ZhbGlkKQoKICAgICAgICAgICAgcmVzdWx0Lml0ZW1zLnB1c2godGhpcy5nZXRJdGVtUmVzdWx0KGl0bSkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICBwcml2YXRlIGdldEl0ZW1SZXN1bHQoaXRtOiBSbmdJdGVtKTogUm5nUmVzdWx0SXRlbSB7CiAgICAgICAgY29uc3QgaXRtUmVzdWx0ID0gPFJuZ1Jlc3VsdEl0ZW0+ewogICAgICAgICAgICBpdGVtRGF0YTogaXRtLml0ZW1EYXRhLAogICAgICAgICAgICBiYXNlVWlkOiBpdG0udWlkCiAgICAgICAgfTsKICAgICAgICBpZiAoaXRtLnF0eU1pbiA+IDAgJiYgaXRtLnF0eU1heCA+IDApIHsKICAgICAgICAgICAgaXRtUmVzdWx0LnF0eSA9IHV0aWxzLnJhbmRvbVJhbmdlKGl0bS5xdHlNaW4sIGl0bS5xdHlNYXgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gaXRtUmVzdWx0OwogICAgfQp9CgpleHBvcnQgY2xhc3MgUm5nVGFibGVJdGVtQnVpbGRlciB7CiAgICBwcml2YXRlIF90YWJsZUJ1aWxkZXI6IFJuZ1RhYmxlOwogICAgcHJpdmF0ZSBfaXRlbTogUm5nSXRlbTsKCiAgICBjb25zdHJ1Y3Rvcih0YWJsZUJ1aWxkZXI6IFJuZ1RhYmxlLCBpdGVtRGF0YTogYW55KSB7CiAgICAgICAgdGhpcy5fdGFibGVCdWlsZGVyID0gdGFibGVCdWlsZGVyOwogICAgICAgIHRoaXMuX2l0ZW0gPSA8Um5nSXRlbT4oewogICAgICAgICAgICBpdGVtRGF0YSwKICAgICAgICAgICAgdWlkOiB1dGlscy51bmlxdWVJZCgpCiAgICAgICAgfSk7CiAgICB9CgogICAgcHVibGljIGd1YXJhbnRlZWQoKTogUm5nVGFibGVJdGVtQnVpbGRlciB7CiAgICAgICAgdGhpcy5faXRlbS5pc0d1YXJhbnRlZWQgPSB0cnVlOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyB1bmlxdWUoKTogUm5nVGFibGVJdGVtQnVpbGRlciB7CiAgICAgICAgdGhpcy5faXRlbS5pc1VuaXF1ZSA9IHRydWU7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIGhhc1F1YW50aXR5KG1pbjogbnVtYmVyLCBtYXg6IG51bWJlcik6IFJuZ1RhYmxlSXRlbUJ1aWxkZXIgewogICAgICAgIHRoaXMuX2l0ZW0ucXR5TWluID0gbWluOwogICAgICAgIHRoaXMuX2l0ZW0ucXR5TWF4ID0gbWF4OwogICAgICAgIHJldHVybiAgdGhpczsKICAgIH0KCiAgICBwdWJsaWMgd2VpZ2h0T2Yod2VpZ2h0OiBudW1iZXIpOiBSbmdUYWJsZUl0ZW1CdWlsZGVyIHsKICAgICAgICB0aGlzLl9pdGVtLndlaWdodCA9IHdlaWdodDsKICAgICAgICByZXR1cm4gIHRoaXM7CiAgICB9CgogICAgcHVibGljIG9uU2VsZWN0KGNiOiBhbnkpOiBSbmdUYWJsZUl0ZW1CdWlsZGVyIHsKICAgICAgICB0aGlzLl9pdGVtLm9uU2VsZWN0ID0gY2I7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIGFkZCgpOiBSbmdUYWJsZSB7CiAgICAgICAgdGhpcy5fdGFibGVCdWlsZGVyLml0ZW1zLnB1c2godGhpcy5faXRlbSk7CiAgICAgICAgcmV0dXJuIHRoaXMuX3RhYmxlQnVpbGRlcjsKICAgIH0KfQoKZXhwb3J0IGNsYXNzIFJuZ1Jlc3VsdCB7CiAgICBpdGVtczogUm5nUmVzdWx0SXRlbVtdOwoKICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIHRoaXMuaXRlbXMgPSBbXTsKICAgIH0KCiAgICBwdWJsaWMgYWxyZWFkeUNvbnRhaW5zSXRlbSh1aWQ6IG51bWJlcik6IGJvb2xlYW4gewogICAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCB0aGlzLml0ZW1zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGNvbnN0IGl0bSA9IHRoaXMuaXRlbXNbaV07CiAgICAgICAgICAgIGlmIChpdG0uYmFzZVVpZCA9PSB1aWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KfQoKZXhwb3J0IGludGVyZmFjZSBSbmdSZXN1bHRJdGVtIHsKICAgIGJhc2VVaWQ6IG51bWJlcjsKICAgIGl0ZW1EYXRhOiBhbnk7CiAgICBxdHk6IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBSbmdJdGVtIHsKICAgIHVpZDogbnVtYmVyOwogICAgaXRlbURhdGE6IGFueTsKICAgIGlzR3VhcmFudGVlZDogYm9vbGVhbjsKICAgIGlzVW5pcXVlOiBib29sZWFuOwogICAgcXR5TWluOiBudW1iZXI7CiAgICBxdHlNYXg6IG51bWJlcjsKICAgIHdlaWdodDogbnVtYmVyOwogICAgb25TZWxlY3QoaXRlbTogUm5nSXRlbSk6IHZvaWQ7Cn0K</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vLi4vLi8uLi9ub2RlX21vZHVsZXMvQHR5cGVzL21vY2hhL2luZGV4LmQudHMiIC8+CgppbXBvcnQge0VxdWlwbWVudCwgRXF1aXBtZW50VHlwZX0gZnJvbSAiLi4vLi4vLi4vc3JjL2JhdHRsZS1lbmdpbmUvaXRlbXMvZXF1aXBtZW50IjsKaW1wb3J0ICogYXMgY2hhaSBmcm9tICJjaGFpIjsKaW1wb3J0IHtCYXR0bGVDb250ZXh0LCBCYXR0bGVFbnRpdHksIEJhdHRsZVJlc3VsdFR5cGVzLCBCYXR0bGVTdGF0c30gZnJvbSAiLi4vLi4vLi4vc3JjL2JhdHRsZS1lbmdpbmUvYmF0dGxlLW9iamVjdHMiOwppbXBvcnQge0JhdHRsZUVuZ2luZSwgU3VibWl0TW92ZVJlc3VsdFR5cGVzfSBmcm9tICIuLi8uLi8uLi9zcmMvYmF0dGxlLWVuZ2luZS9iYXR0bGUtZW5naW5lIjsKaW1wb3J0IHtnZXRNb2NrQ29udGV4dH0gZnJvbSAiLi4vdGVzdC11dGlscyI7CmltcG9ydCB7QmFzaWNBdHRhY2t9IGZyb20gIi4uLy4uLy4uL3NyYy9iYXR0bGUtZW5naW5lL2JhdHRsZS1tb3Zlcy9iYXNpYy1hdHRhY2siOwpjb25zdCBleHBlY3QgPSBjaGFpLmV4cGVjdDsKCgpkZXNjcmliZSgiQmF0dGxlRW5naW5lIiwgKCkgPT4gewogICAgaXQoIlNob3VsZCByZXN1bHQgaW4gYSB3aW4gaWYgYWxsIGVuZW1pZXMgaGVhbHRoIGFyZSBsZXNzIHRoYW4gMCIsICgpID0+IHsKICAgICAgICBjb25zdCBlbmdpbmUgPSBuZXcgQmF0dGxlRW5naW5lKCk7CiAgICAgICAgY29uc3QgYmF0dGxlQ3R4ID0gZ2V0TW9ja0NvbnRleHQoKTsKICAgICAgICBjb25zdCBiYXR0bGVQcm9taXNlID0gZW5naW5lLmluaXQoYmF0dGxlQ3R4KTsKCiAgICAgICAgZm9yKGxldCBpID0gMDsgaSA8IDg7IGkrKykgewogICAgICAgICAgICBjb25zdCBtb3ZlID0gbmV3IEJhc2ljQXR0YWNrKCk7CiAgICAgICAgICAgIG1vdmUuc2V0VGFyZ2V0KGkgJSAyID09IDAgPyBiYXR0bGVDdHguZW5lbWllcyA6IFtiYXR0bGVDdHgucGxheWVyXSk7CiAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGVuZ2luZS5zdWJtaXRNb3ZlcyhbbW92ZV0pOwogICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5iZS5lcShTdWJtaXRNb3ZlUmVzdWx0VHlwZXMuVmFsaWQpOwogICAgICAgIH0KCiAgICAgICAgLy9leHBlY3QoZW5naW5lLnR1cm5OdW1iZXIpLnRvLmJlLmVxKDQpOwogICAgICAgIGV4cGVjdChlbmdpbmUucmVzdWx0LnJlc3VsdFR5cGUpLnRvLmJlLmVxdWFsKEJhdHRsZVJlc3VsdFR5cGVzLldpbik7CiAgICB9KTsKCiAgICBpdCgiU2hvdWxkIHJlc3VsdCBpbiBhIGxvc3MgaWYgdGhlIHBsYXllcnMgaGVhbHRoIGlzIGxlc3MgdGhhbiAwIiwgKCkgPT4gewogICAgICAgIGNvbnN0IGVuZ2luZSA9IG5ldyBCYXR0bGVFbmdpbmUoKTsKICAgICAgICBjb25zdCBiYXR0bGVDdHggPSBnZXRNb2NrQ29udGV4dCgpOwogICAgICAgIGNvbnN0IGJhdHRsZVByb21pc2UgPSBlbmdpbmUuaW5pdChiYXR0bGVDdHgpOwoKICAgICAgICBiYXR0bGVDdHgucGxheWVyLmhlYWx0aCA9IDIwOwogICAgICAgIGJhdHRsZUN0eC5lbmVtaWVzWzBdLmhlYWx0aCA9IDIwMDsKCiAgICAgICAgZm9yKGxldCBpID0gMDsgaSA8IDg7IGkrKykgewogICAgICAgICAgICBjb25zdCBtb3ZlID0gbmV3IEJhc2ljQXR0YWNrKCk7CiAgICAgICAgICAgIG1vdmUuc2V0VGFyZ2V0KGkgJSAyID09IDAgPyBiYXR0bGVDdHguZW5lbWllcyA6IFtiYXR0bGVDdHgucGxheWVyXSk7CiAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGVuZ2luZS5zdWJtaXRNb3ZlcyhbbW92ZV0pOwogICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5iZS5lcShTdWJtaXRNb3ZlUmVzdWx0VHlwZXMuVmFsaWQpOwogICAgICAgIH0KCiAgICAgICAgZXhwZWN0KGVuZ2luZS5yZXN1bHQucmVzdWx0VHlwZSkudG8uYmUuZXF1YWwoQmF0dGxlUmVzdWx0VHlwZXMuTG9zcyk7CiAgICB9KTsKCiAgICBpdCgiU2hvdWxkIG5vdCBhbGxvdyBhIHBsYXllciB0byBtYWtlIG1vcmUgbW92ZXMgdGhhbiBhbGxvd2VkIGJ5IHRoZWlyIG1heCBBUCIsICgpID0+IHsKICAgICAgICBjb25zdCBlbmdpbmUgPSBuZXcgQmF0dGxlRW5naW5lKCk7CiAgICAgICAgY29uc3QgYmF0dGxlQ3R4ID0gZ2V0TW9ja0NvbnRleHQoKTsKICAgICAgICBjb25zdCBiYXR0bGVQcm9taXNlID0gZW5naW5lLmluaXQoYmF0dGxlQ3R4KTsKCiAgICAgICAgYmF0dGxlQ3R4LnBsYXllci5oZWFsdGggPSAyMDsKICAgICAgICBiYXR0bGVDdHguZW5lbWllc1swXS5oZWFsdGggPSAyMDA7CgogICAgICAgIGNvbnN0IG1vdmVzID0gW107CiAgICAgICAgZm9yKGxldCBpID0gMDsgaSA8IDM7IGkrKykgewogICAgICAgICAgICBjb25zdCBtb3ZlID0gbmV3IEJhc2ljQXR0YWNrKCk7CiAgICAgICAgICAgIG1vdmUuc2V0VGFyZ2V0KGJhdHRsZUN0eC5lbmVtaWVzKTsKICAgICAgICAgICAgbW92ZXMucHVzaChtb3ZlKTsKICAgICAgICB9CiAgICAgICAgY29uc3QgcmVzdWx0ID0gZW5naW5lLnN1Ym1pdE1vdmVzKG1vdmVzKTsKCiAgICAgICAgZXhwZWN0KHJlc3VsdCkudG8uYmUuZXF1YWwoU3VibWl0TW92ZVJlc3VsdFR5cGVzLkV4Y2VlZHNNYXhBUCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">Y29uc3QgdmFsdWU6IGFueTsKZXhwb3J0IGRlZmF1bHQgdmFsdWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYmF0UG9vbCBmcm9tICIuLi9kYXRhL2JhdC1wb29sLmpzb24iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXdzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN0eC5lcXVpcG1lbnQgPSBbCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHVpZDogdXRpbHMudW5pcXVlSWQoKSwKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBlbmdpbmUgPSBuZXcgQmF0dGxlRW5naW5lKCk7CiAgICAgICAgY29uc3QgYmF0dGxlQ3R4ID0gZ2V0TW9ja0NvbnRleHQoKTsKICAgICAgICBjb25zdCBiYXR0bGVQcm9taXNlID0gZW5naW5lLmluaXQoYmF0dGxlQ3R4KTsKCiAgICAgICAgZm9yKGxldCBpID0gMDsgaSA8IDg7IGkrKykgewogICAgICAgICAgICBjb25zdCBtb3ZlID0gbmV3IEJhc2ljQXR0YWNrKCk7CiAgICAgICAgICAgIG1vdmUuc2V0VGFyZ2V0KGkgJSAyID09IDAgPyBiYXR0bGVDdHguZW5lbWllcyA6IFtiYXR0bGVDdHgucGxheWVyXSk7CiAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGVuZ2luZS5zdWJtaXRNb3ZlcyhbbW92ZV0pOwogICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5iZS5lcShTdWJtaXRNb3ZlUmVzdWx0VHlwZXMuVmFsaWQpOwogICAgICAgIH0KCiAgICAgICAgLy9leHBlY3QoZW5naW5lLnR1cm5OdW1iZXIpLnRvLmJlLmVxKDQpOwogICAgICAgIGV4cGVjdChlbmdpbmUucmVzdWx0LnJlc3VsdFR5cGUpLnRvLmJlLmVxdWFsKEJhdHRsZVJlc3VsdFR5cGVzLldpbik7CiAgICB9KTsKCiAgICBpdCgiU2hvdWxkIHJlc3VsdCBpbiBhIGxvc3MgaWYgdGhlIHBsYXllcnMgaGVhbHRoIGlzIGxlc3MgdGhhbiAwIiwgKCkgPT4gewogICAgICAgIGNvbnN0IGVuZ2luZSA9IG5ldyBCYXR0bGVFbmdpbmUoKTsKICAgICAgICBjb25zdCBiYXR0bGVDdHggPSBnZXRNb2NrQ29udGV4dCgpOwogICAgICAgIGNvbnN0IGJhdHRsZVByb21pc2UgPSBlbmdpbmUuaW5pdChiYXR0bGVDdHgpOwoKICAgICAgICBiYXR0bGVDdHgucGxheWVyLmhlYWx0aCA9IDIwOwogICAgICAgIGJhdHRsZUN0eC5lbmVtaWVzWzBdLmhlYWx0aCA9IDIwMDsKCiAgICAgICAgZm9yKGxldCBpID0gMDsgaSA8IDg7IGkrKykgewogICAgICAgICAgICBjb25zdCBtb3ZlID0gbmV3IEJhc2ljQXR0YWNrKCk7CiAgICAgICAgICAgIG1vdmUuc2V0VGFyZ2V0KGkgJSAyID09IDAgPyBiYXR0bGVDdHguZW5lbWllcyA6IFtiYXR0bGVDdHgucGxheWVyXSk7CiAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGVuZ2luZS5zdWJtaXRNb3ZlcyhbbW92ZV0pOwogICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5iZS5lcShTdWJtaXRNb3ZlUmVzdWx0VHlwZXMuVmFsaWQpOwogICAgICAgIH0KCiAgICAgICAgZXhwZWN0KGVuZ2luZS5yZXN1bHQucmVzdWx0VHlwZSkudG8uYmUuZXF1YWwoQmF0dGxlUmVzdWx0VHlwZXMuTG9zcyk7CiAgICB9KTsKCiAgICBpdCgiU2hvdWxkIG5vdCBhbGxvdyBhIHBsYXllciB0byBtYWtlIG1vcmUgbW92ZXMgdGhhbiBhbGxvd2VkIGJ5IHRoZWlyIG1heCBBUCIsICgpID0+IHsKICAgICAgICBjb25zdCBlbmdpbmUgPSBuZXcgQmF0dGxlRW5naW5lKCk7CiAgICAgICAgY29uc3QgYmF0dGxlQ3R4ID0gZ2V0TW9ja0NvbnRleHQoKTsKICAgICAgICBjb25zdCBiYXR0bGVQcm9taXNlID0gZW5naW5lLmluaXQoYmF0dGxlQ3R4KTsKCiAgICAgICAgYmF0dGxlQ3R4LnBsYXllci5oZWFsdGggPSAyMDsKICAgICAgICBiYXR0bGVDdHguZW5lbWllc1swXS5oZWFsdGggPSAyMDA7CgogICAgICAgIGNvbnN0IG1vdmVzID0gW107CiAgICAgICAgZm9yKGxldCBpID0gMDsgaSA8IDM7IGkrKykgewogICAgICAgICAgICBjb25zdCBtb3ZlID0gbmV3IEJhc2ljQXR0YWNrKCk7CiAgICAgICAgICAgIG1vdmUuc2V0VGFyZ2V0KGJhdHRsZUN0eC5lbmVtaWVzKTsKICAgICAgICAgICAgbW92ZXMucHVzaChtb3ZlKTsKICAgICAgICB9CiAgICAgICAgY29uc3QgcmVzdWx0ID0gZW5naW5lLnN1Ym1pdE1vdmVzKG1vdmVzKTsKCiAgICAgICAgZXhwZWN0KHJlc3VsdCkudG8uYmUuZXF1YWwoU3VibWl0TW92ZVJlc3VsdFR5cGVzLkV4Y2VlZHNNYXhBUCk7CiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>engine\/</last-search>
+      <last-search>qwe</last-search>
       <last-offset />
-      <last-pattern>engine\/</last-pattern>
+      <last-pattern>qwe</last-pattern>
       <last-replace>battle-engine\/</last-replace>
       <last-substitute>engine\/</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +434,6 @@
         <entry>weapon</entry>
         <entry>tat</entry>
         <entry>'</entry>
-        <entry>qwe</entry>
         <entry>netAtk</entry>
         <entry>rerun</entry>
         <entry>move</entry>
@@ -413,13 +445,13 @@
         <entry>totalCost</entry>
         <entry>withItem</entry>
         <entry>engine\/</entry>
+        <entry>qwe</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
         <entry>bd</entry>
         <entry>qa!</entry>
         <entry>s</entry>
-        <entry>split</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>wa</entry>
@@ -434,6 +466,7 @@
         <entry>Lw</entry>
         <entry>we</entry>
         <entry encoding="base64">Pnc=</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
