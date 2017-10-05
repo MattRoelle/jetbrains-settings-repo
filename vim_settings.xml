@@ -31,8 +31,8 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507240278553">
-        <mark key="'" line="653" column="0" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507241341637">
+        <mark key="'" line="596" column="85" />
         <mark key="[" line="577" column="48" />
         <mark key="]" line="577" column="48" />
         <mark key="." line="577" column="48" />
@@ -64,6 +64,7 @@
         <mark key="." line="646" column="71" />
         <mark key="^" line="658" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/AmortizationCalculator.cs" timestamp="1507241358971" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1507230539809">
         <mark key="[" line="97" column="48" />
         <mark key="]" line="97" column="43" />
@@ -192,6 +193,7 @@
       <jump line="474" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="656" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="604" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
+      <jump line="596" column="85" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +203,7 @@
         <text encoding="base64">IC0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWU=</text>
       </register>
       <register name="/" type="4">
-        <text>GetTarget</text>
+        <text>amortiz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
@@ -238,9 +240,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GetTarget</last-search>
+      <last-search>amortiz</last-search>
       <last-offset />
-      <last-pattern>GetTarget</last-pattern>
+      <last-pattern>amortiz</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -265,6 +267,7 @@
         <entry>GetPayoff</entry>
         <entry>eigen</entry>
         <entry>GetTarget</entry>
+        <entry>amortiz</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
