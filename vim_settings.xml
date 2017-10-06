@@ -128,11 +128,12 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1507230539809">
-        <mark key="[" line="97" column="48" />
-        <mark key="]" line="97" column="43" />
-        <mark key="." line="97" column="43" />
-        <mark key="^" line="97" column="43" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1507320214529">
+        <mark key="'" line="76" column="15" />
+        <mark key="[" line="145" column="39" />
+        <mark key="]" line="147" column="41" />
+        <mark key="." line="147" column="41" />
+        <mark key="^" line="147" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/PaymentDto.cs" timestamp="1507246997714">
         <mark key="'" line="9" column="17" />
@@ -161,7 +162,7 @@
         <mark key="." line="34" column="49" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507248591915">
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507319323606">
         <mark key="'" line="269" column="0" />
         <mark key="[" line="149" column="29" />
         <mark key="]" line="149" column="33" />
@@ -170,11 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
-      <jump line="565" column="16" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
-      <jump line="484" column="8" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="539" column="8" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="80" column="12" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="541" column="12" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="310" column="22" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="471" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
@@ -270,55 +266,60 @@
       <jump line="61" column="7" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="69" column="7" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="57" column="32" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="61" column="33" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="66" column="34" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="76" column="15" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdXRoRnVuY3Rpb25LZXlzID0gbmV3IExpc3Q8aW50PiB7IDEsIDIsIDMgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(request)</text>
+        <text>Oscar</text>
       </register>
       <register name="/" type="4">
-        <text>AnnualPayment</text>
+        <text>APIDocs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdXRoRnVuY3Rpb25LZXlzID0gbmV3IExpc3Q8aW50PiB7IDEsIDIsIDMgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRBbm51YWxQYXltZW50IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldEFubnVhbFBheW1lbnQoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldEFubnVhbFBheW1lbnQocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgUkEuSW5mcmFzdHJ1Y3R1cmUuTmV0U3RhbmRhcmQuTVZDOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRQcmluY2lwYWxCYWxhbmNlIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldFByaW5jaXBhbEJhbGFuY2UoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldFByaW5jaXBhbEJhbGFuY2UocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vT0F1dGgyID0gbmV3IEFQSURvY3NDb25maWcuT0F1dGgyU2V0dGluZ3MKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy8gICAgVG9rZW5VcmwgPSAiaHR0cHM6Ly9hdXRoYXBpZGV2Lmhlcm9wcm9ncmFtLmNvbS90b2tlbiIsCiAgICAgICAgICAgICAgICAvLyAgICBTb3VyY2VBcHBsaWNhdGlvbklkcyA9IG5ldyBMaXN0PGludD4geyA0NSB9LAogICAgICAgICAgICAgICAgLy8gICAgQ2xpZW50SWQgPSAiSFBBQWRtaW4iLAogICAgICAgICAgICAgICAgLy8gICAgQ2xpZW50U2VjcmV0ID0gIjEyMzQ1IgogICAgICAgICAgICAgICAgLy99LAogICAgICAgICAgICAgICAgLy9BUElLZXlQYXJhbXMgPSBuZXcgQVBJRG9jc0NvbmZpZy5BUElLZXlTZXR0aW5ncwogICAgICAgICAgICAgICAgLy97CiAgICAgICAgICAgICAgICAvLyAgICBBUElLZXlBY2Nlc3NJZCA9IEd1aWQuTmV3R3VpZCgpLAogICAgICAgICAgICAgICAgLy8gICAgQVBJS2V5U2VjcmV0ID0gIlVJU0hGVUlIU0RGOTM0OTgwU0RKQUtMIiwKICAgICAgICAgICAgICAgIC8vICAgIFVzZXJOYW1lID0gInRlc3RAaGVyb3Byb2dyYW0uY29tIgogICAgICAgICAgICAgICAgLy99LAogICAgICAgICAgICAgICAgLy9TdHlsZVNoZWV0UGF0aHMgPSBuZXcgTGlzdDxzdHJpbmc+KCkKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy99CiAgICAgICAgICAgICAgICAvLywKICAgICAgICAgICAgICAgIC8vU2NyaXB0UGF0aHMgPSBuZXcgTGlzdDxzdHJpbmc+KCkKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJQYXlkb3duIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFBheWRvd25SZXF1ZXN0KFtGcm9tQm9keV0gQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0byByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IF9pbnF1aXJ5U2VydmljZS5HZXRQYXlkb3duQW1vdW50KHJlcXVlc3QpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5xdWlyeS5Pbgo=</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRBbm51YWxQYXltZW50IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldEFubnVhbFBheW1lbnQoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldEFubnVhbFBheW1lbnQocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElzUGF5b2ZmID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRQcmluY2lwYWxCYWxhbmNlIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldFByaW5jaXBhbEJhbGFuY2UoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldFByaW5jaXBhbEJhbGFuY2UocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJQYXlkb3duIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFBheWRvd25SZXF1ZXN0KFtGcm9tQm9keV0gQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0byByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IF9pbnF1aXJ5U2VydmljZS5HZXRQYXlkb3duQW1vdW50KHJlcXVlc3QpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5xdWlyeS5Pbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcmluY2lwYWxCYWxhbmNlID0gcHJpbkJhbGFuY2UuTG9hblByaW5jaXBhbEJhbGFuY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElzUGF5b2ZmID0gdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AnnualPayment</last-search>
+      <last-search>APIDocs</last-search>
       <last-offset />
-      <last-pattern>AnnualPayment</last-pattern>
+      <last-pattern>APIDocs</last-pattern>
       <last-replace>MonthlyPayment</last-replace>
       <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -326,7 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TargetMont</entry>
         <entry>TargetMonthly</entry>
         <entry>roundTowardsP</entry>
         <entry>GetPayoff</entry>
@@ -346,6 +346,7 @@
         <entry>alcInput</entry>
         <entry>PrincipalBalance</entry>
         <entry>AnnualPayment</entry>
+        <entry>APIDocs</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -355,13 +356,13 @@
         <entry encoding="base64">JzwsJz5zL0FwcGxpZWRQcmluY2lwYWwvQW5udWFsUGF5bWVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL0FubnVhbC9Nb250aGx5L2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>we</entry>
         <entry>qa</entry>
         <entry>wa</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL0FubnVhbFBheW1lbnQvTW9udGhseVBheW1lbnQvZw==</entry>
         <entry>w</entry>
+        <entry>we</entry>
       </history-cmd>
       <history-expr />
       <history-input />
