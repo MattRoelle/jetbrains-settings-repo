@@ -8,6 +8,12 @@
         <mark key="]" line="17" column="129" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/RA/UniversalPrepayment.cs" timestamp="1507247256653">
+        <mark key="[" line="40" column="57" />
+        <mark key="]" line="41" column="57" />
+        <mark key="^" line="41" column="57" />
+        <mark key="." line="41" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService/Startup.cs" timestamp="1507230285238">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -25,12 +31,12 @@
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/PaymentProcessorTests.cs" timestamp="1507063262604">
-        <mark key="'" line="421" column="0" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-        <mark key="^" line="18" column="37" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/PaymentProcessorTests.cs" timestamp="1507248244951">
+        <mark key="'" line="212" column="26" />
+        <mark key="[" line="251" column="46" />
+        <mark key="]" line="252" column="69" />
+        <mark key="." line="252" column="69" />
+        <mark key="^" line="252" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" timestamp="1507244653434">
         <mark key="'" line="948" column="45" />
@@ -39,20 +45,11 @@
         <mark key="." line="646" column="71" />
         <mark key="^" line="658" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" timestamp="1507239847053">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialCalc.Tests.Data/ProgramTestDataFactory.cs" timestamp="1507237519459">
-        <mark key="'" line="12" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1507247215064">
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1507248863006">
         <mark key="'" line="507" column="30" />
-        <mark key="[" line="772" column="0" />
-        <mark key="]" line="772" column="0" />
-        <mark key="." line="772" column="0" />
+        <mark key="[" line="698" column="0" />
+        <mark key="]" line="698" column="0" />
+        <mark key="." line="698" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/FinancialCalcServiceProxy.cs" timestamp="1507244884249">
         <mark key="'" line="168" column="7" />
@@ -60,6 +57,12 @@
         <mark key="]" line="162" column="7" />
         <mark key="." line="162" column="7" />
         <mark key="^" line="162" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1507247656399">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" timestamp="1507063756206">
         <mark key="'" line="116" column="19" />
@@ -93,7 +96,7 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507242577956">
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507249035222">
         <mark key="'" line="372" column="40" />
         <mark key="[" line="586" column="53" />
         <mark key="]" line="586" column="103" />
@@ -112,7 +115,13 @@
         <mark key="." line="33" column="105" />
         <mark key="^" line="33" column="105" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/AmortizationCalculator.cs" timestamp="1507241358971" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507248743374">
+        <mark key="'" line="69" column="7" />
+        <mark key="[" line="61" column="9" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="31" />
@@ -152,19 +161,15 @@
         <mark key="." line="34" column="49" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507246819534">
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507248591915">
         <mark key="'" line="269" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="108" column="32" />
+        <mark key="[" line="149" column="29" />
+        <mark key="]" line="149" column="33" />
+        <mark key="." line="149" column="33" />
+        <mark key="^" line="149" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="21" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="98" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="538" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="565" column="16" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="484" column="8" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
@@ -261,64 +266,66 @@
       <jump line="93" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="109" column="45" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="507" column="30" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="212" column="26" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/PaymentProcessorTests.cs" />
+      <jump line="61" column="7" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
+      <jump line="55" column="12" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
+      <jump line="69" column="7" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRhcmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>(request)</text>
       </register>
       <register name="/" type="4">
-        <text>alcInput</text>
+        <text>AnnualPayment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRhcmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBQYXltZW50RXN0aW1hdGlvblR5cGUuVGFyZ2V0TW9udGhseVBheW1lbnQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZSA9IGF3YWl0IF9yYVByb3h5LkdldFVuaXZlcnNhbFRhcmdldE1vbnRobHlQYXltZW50KCkoY29udGV4dC5DYWxjSW5wdXQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRBbm51YWxQYXltZW50IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldEFubnVhbFBheW1lbnQoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldEFubnVhbFBheW1lbnQocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBQYXltZW50RXN0aW1hdGlvblR5cGUuVGFyZ2V0UHJpbmNpcGFsQmFsYW5jZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gYXdhaXQgX3JhUHJveHkuR2V0VW5pdmVyc2FsVGFyZ2V0QXBwbGllZFByaW5jaXBhbChjb250ZXh0LkNhbGNJbnB1dCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRQcmluY2lwYWxCYWxhbmNlIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldFByaW5jaXBhbEJhbGFuY2UoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldFByaW5jaXBhbEJhbGFuY2UocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB0YXJnZXRBUCA9IF9jYWxjCg==</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJQYXlkb3duIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFBheWRvd25SZXF1ZXN0KFtGcm9tQm9keV0gQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0byByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IF9pbnF1aXJ5U2VydmljZS5HZXRQYXlkb3duQW1vdW50KHJlcXVlc3QpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBQYXltZW50RXN0aW1hdGlvblR5cGUuUGF5b2ZmOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UgPSBhd2FpdCBfcmFQcm94eS5HZXRVbml2ZXJzYWxQYXlvZmYoY29udGV4dC5DYWxjSW5wdXQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5xdWlyeS5Pbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElzUGF5b2ZmID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNwb25zZSA9IGF3YWl0IF9yYVByb3h5LkdldFVuaXZlcnNhbFBheW9mZihjb250ZXh0LkNhbGNJbnB1dCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIH07Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZGVjaW1hbD8gVGFyZ2V0UHJpbmNpcGFsIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcmluY2lwYWxCYWxhbmNlID0gcHJpbkJhbGFuY2UuTG9hblByaW5jaXBhbEJhbGFuY2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>alcInput</last-search>
+      <last-search>AnnualPayment</last-search>
       <last-offset />
-      <last-pattern>alcInput</last-pattern>
-      <last-replace>Monthly</last-replace>
-      <last-substitute>Annual</last-substitute>
+      <last-pattern>AnnualPayment</last-pattern>
+      <last-replace>MonthlyPayment</last-replace>
+      <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>adjustedRemaining</entry>
-        <entry>Monthly</entry>
         <entry>TargetMont</entry>
         <entry>TargetMonthly</entry>
         <entry>roundTowardsP</entry>
@@ -337,6 +344,8 @@
         <entry>sPayoff</entry>
         <entry>isPayoff</entry>
         <entry>alcInput</entry>
+        <entry>PrincipalBalance</entry>
+        <entry>AnnualPayment</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -350,6 +359,8 @@
         <entry>qa</entry>
         <entry>wa</entry>
         <entry>vsp</entry>
+        <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0FubnVhbFBheW1lbnQvTW9udGhseVBheW1lbnQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
