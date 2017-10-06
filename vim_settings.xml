@@ -115,12 +115,12 @@
         <mark key="." line="33" column="105" />
         <mark key="^" line="33" column="105" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507248743374">
-        <mark key="'" line="69" column="7" />
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="62" column="7" />
-        <mark key="." line="62" column="7" />
-        <mark key="^" line="62" column="7" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507321171904">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="52" column="22" />
+        <mark key="]" line="52" column="29" />
+        <mark key="." line="52" column="29" />
+        <mark key="^" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
         <mark key="[" line="8" column="31" />
@@ -171,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="12" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="310" column="22" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="471" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="465" column="33" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="472" column="35" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
@@ -271,46 +269,48 @@
       <jump line="61" column="33" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
       <jump line="66" column="34" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
       <jump line="76" column="15" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdXRoRnVuY3Rpb25LZXlzID0gbmV3IExpc3Q8aW50PiB7IDEsIDIsIDMgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QmFsYW5jZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>Oscar</text>
+        <text encoding="base64">QmFsYW5jZSA=</text>
       </register>
       <register name="/" type="4">
         <text>APIDocs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUSA9CiAgICAgICAgICAgICAgICBQUCA9PSAwCiAgICAgICAgICAgICAgICAgICAgPyAwCiAgICAgICAgICAgICAgICAgICAgOiBSIC8gKChkZWNpbWFsKSBNYXRoLlBvdygoZG91YmxlKSAoMSArIFIpLCAoZG91YmxlKSAoVCArIDEpKSAtIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJldHVybnMgYSBCYWxhbmNlIEN1c3RvbWVyIElucXVpcnkKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cmVtYXJrcz48L3JlbWFya3M+CiAgICAgICAgLy8vIDxyZXR1cm5zPkN1c3RvbWVySW5xdWlyeVJlc3BvbnNlRHRvPC9yZXR1cm5zPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdXRoRnVuY3Rpb25LZXlzID0gbmV3IExpc3Q8aW50PiB7IDEsIDIsIDMgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlc3BvbnNlIGNvZGU9IjIwMCI+PC9yZXNwb25zZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgUkEuSW5mcmFzdHJ1Y3R1cmUuTmV0U3RhbmRhcmQuTVZDOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlc3BvbnNlIGNvZGU9IjIwMCI+PC9yZXNwb25zZT4KICAgICAgICAvLy8gPHJldHVybnM+Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG88L3JldHVybnM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vT0F1dGgyID0gbmV3IEFQSURvY3NDb25maWcuT0F1dGgyU2V0dGluZ3MKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy8gICAgVG9rZW5VcmwgPSAiaHR0cHM6Ly9hdXRoYXBpZGV2Lmhlcm9wcm9ncmFtLmNvbS90b2tlbiIsCiAgICAgICAgICAgICAgICAvLyAgICBTb3VyY2VBcHBsaWNhdGlvbklkcyA9IG5ldyBMaXN0PGludD4geyA0NSB9LAogICAgICAgICAgICAgICAgLy8gICAgQ2xpZW50SWQgPSAiSFBBQWRtaW4iLAogICAgICAgICAgICAgICAgLy8gICAgQ2xpZW50U2VjcmV0ID0gIjEyMzQ1IgogICAgICAgICAgICAgICAgLy99LAogICAgICAgICAgICAgICAgLy9BUElLZXlQYXJhbXMgPSBuZXcgQVBJRG9jc0NvbmZpZy5BUElLZXlTZXR0aW5ncwogICAgICAgICAgICAgICAgLy97CiAgICAgICAgICAgICAgICAvLyAgICBBUElLZXlBY2Nlc3NJZCA9IEd1aWQuTmV3R3VpZCgpLAogICAgICAgICAgICAgICAgLy8gICAgQVBJS2V5U2VjcmV0ID0gIlVJU0hGVUlIU0RGOTM0OTgwU0RKQUtMIiwKICAgICAgICAgICAgICAgIC8vICAgIFVzZXJOYW1lID0gInRlc3RAaGVyb3Byb2dyYW0uY29tIgogICAgICAgICAgICAgICAgLy99LAogICAgICAgICAgICAgICAgLy9TdHlsZVNoZWV0UGF0aHMgPSBuZXcgTGlzdDxzdHJpbmc+KCkKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy99CiAgICAgICAgICAgICAgICAvLywKICAgICAgICAgICAgICAgIC8vU2NyaXB0UGF0aHMgPSBuZXcgTGlzdDxzdHJpbmc+KCkKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlc3BvbnNlIGNvZGU9IjIwMCI+TGlzdCBvYnRhaW5lZDwvcmVzcG9uc2U+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlc3BvbnNlIGNvZGU9IjQwMCI+QmFkIFJlcXVlc3Q8L3Jlc3BvbnNlPgogICAgICAgIC8vLyA8cmVzcG9uc2UgY29kZT0iNTAwIj5Pb3BzISBDYW4ndCBjcmVhdGUgeW91ciBwcm9kdWN0IHJpZ2h0IG5vdzwvcmVzcG9uc2U+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRBbm51YWxQYXltZW50IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldEFubnVhbFBheW1lbnQoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldEFubnVhbFBheW1lbnQocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJldHVybnMgYSBsaXN0IG9mIHBlb3BsZQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxyZW1hcmtzPlRoaXMgbGlzdCBsaW1pdHMgcmVzdWx0cyB0byAxMCByZWNvcmRzPC9yZW1hcmtzPgogICAgICAgIC8vLyA8cmVzcG9uc2UgY29kZT0iMjAwIj5MaXN0IG9idGFpbmVkPC9yZXNwb25zZT4KICAgICAgICAvLy8gPHJlc3BvbnNlIGNvZGU9IjQwMCI+QmFkIFJlcXVlc3Q8L3Jlc3BvbnNlPgogICAgICAgIC8vLyA8cmVzcG9uc2UgY29kZT0iNTAwIj5Pb3BzISBDYW4ndCBjcmVhdGUgeW91ciBwcm9kdWN0IHJpZ2h0IG5vdzwvcmVzcG9uc2U+CiAgICAgICAgLy8vIDxyZXR1cm5zPlJldHVybiBMaXN0IG9mIFBlb3BsZTwvcmV0dXJucz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJUYXJnZXRQcmluY2lwYWxCYWxhbmNlIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFRhcmdldFByaW5jaXBhbEJhbGFuY2UoW0Zyb21Cb2R5XSBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvIHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0ID0gYXdhaXQgX2lucXVpcnlTZXJ2aWNlLkdldFRhcmdldFByaW5jaXBhbEJhbGFuY2UocmVxdWVzdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdXRoRnVuY3Rpb25LZXlzID0gbmV3IExpc3Q8aW50PiB7IDEsIDIsIDMgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJQYXlkb3duIildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8Q3VzdG9tZXJJbnF1aXJ5UmVzcG9uc2VEdG8+IFBheWRvd25SZXF1ZXN0KFtGcm9tQm9keV0gQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0byByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IF9pbnF1aXJ5U2VydmljZS5HZXRQYXlkb3duQW1vdW50KHJlcXVlc3QpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgUkEuSW5mcmFzdHJ1Y3R1cmUuTmV0U3RhbmRhcmQuTVZDOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5xdWlyeS5Pbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vT0F1dGgyID0gbmV3IEFQSURvY3NDb25maWcuT0F1dGgyU2V0dGluZ3MKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy8gICAgVG9rZW5VcmwgPSAiaHR0cHM6Ly9hdXRoYXBpZGV2Lmhlcm9wcm9ncmFtLmNvbS90b2tlbiIsCiAgICAgICAgICAgICAgICAvLyAgICBTb3VyY2VBcHBsaWNhdGlvbklkcyA9IG5ldyBMaXN0PGludD4geyA0NSB9LAogICAgICAgICAgICAgICAgLy8gICAgQ2xpZW50SWQgPSAiSFBBQWRtaW4iLAogICAgICAgICAgICAgICAgLy8gICAgQ2xpZW50U2VjcmV0ID0gIjEyMzQ1IgogICAgICAgICAgICAgICAgLy99LAogICAgICAgICAgICAgICAgLy9BUElLZXlQYXJhbXMgPSBuZXcgQVBJRG9jc0NvbmZpZy5BUElLZXlTZXR0aW5ncwogICAgICAgICAgICAgICAgLy97CiAgICAgICAgICAgICAgICAvLyAgICBBUElLZXlBY2Nlc3NJZCA9IEd1aWQuTmV3R3VpZCgpLAogICAgICAgICAgICAgICAgLy8gICAgQVBJS2V5U2VjcmV0ID0gIlVJU0hGVUlIU0RGOTM0OTgwU0RKQUtMIiwKICAgICAgICAgICAgICAgIC8vICAgIFVzZXJOYW1lID0gInRlc3RAaGVyb3Byb2dyYW0uY29tIgogICAgICAgICAgICAgICAgLy99LAogICAgICAgICAgICAgICAgLy9TdHlsZVNoZWV0UGF0aHMgPSBuZXcgTGlzdDxzdHJpbmc+KCkKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy99CiAgICAgICAgICAgICAgICAvLywKICAgICAgICAgICAgICAgIC8vU2NyaXB0UGF0aHMgPSBuZXcgTGlzdDxzdHJpbmc+KCkKICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgLy99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElzUGF5b2ZmID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -361,8 +361,8 @@
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL0FubnVhbFBheW1lbnQvTW9udGhseVBheW1lbnQvZw==</entry>
-        <entry>w</entry>
         <entry>we</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
