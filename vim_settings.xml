@@ -72,11 +72,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" timestamp="1507274795681">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="24" column="50" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" timestamp="1507416664394">
+        <mark key="'" line="19" column="44" />
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="69" />
+        <mark key="." line="31" column="69" />
+        <mark key="^" line="31" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/test/unit/engine/engine.spec.ts" timestamp="1506891863279">
         <mark key="'" line="8" column="0" />
@@ -251,11 +252,12 @@
         <mark key="^" line="6" column="43" />
         <mark key="." line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" timestamp="1507274040396">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" timestamp="1507416594775">
+        <mark key="'" line="10" column="1" />
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/utils/utils.ts" timestamp="1506743629568">
         <mark key="'" line="7" column="0" />
@@ -309,12 +311,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" timestamp="1507274659564">
-        <mark key="'" line="30" column="23" />
-        <mark key="[" line="58" column="55" />
-        <mark key="]" line="59" column="23" />
-        <mark key="^" line="59" column="23" />
-        <mark key="." line="59" column="23" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" timestamp="1507415570138">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="112" column="43" />
+        <mark key="]" line="112" column="41" />
+        <mark key="^" line="112" column="41" />
+        <mark key="." line="112" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/battle-moves/basic-attack.ts" timestamp="1506744759202">
         <mark key="[" line="7" column="20" />
@@ -328,6 +330,12 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-moves/move-factory.ts" timestamp="1507415463011">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/enemy-factory.ts" timestamp="1507173178133">
         <mark key="'" line="6" column="4" />
@@ -344,11 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="32" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/battle-moves/magic-amp.spec.ts" />
-      <jump line="13" column="4" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/battle-moves/magic-amp.spec.ts" />
-      <jump line="29" column="6" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/battle-moves/magic-amp.spec.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/battle-moves/magic-bolt.spec.ts" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
       <jump line="45" column="6" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-engine.ts" />
@@ -444,55 +447,60 @@
       <jump line="16" column="12" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" />
       <jump line="22" column="12" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-engine.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
+      <jump line="8" column="20" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="7" column="1" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
+      <jump line="19" column="44" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGUubmFtZSA9ICJCYXQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>bind</text>
+        <text>queuedMoves</text>
       </register>
       <register name="/" type="4">
-        <text>mana</text>
+        <text>CLICK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vLi4vLi4vLi8uLi9ub2RlX21vZHVsZXMvQHR5cGVzL21vY2hhL2luZGV4LmQudHMiIC8+CgppbXBvcnQgKiBhcyBjaGFpIGZyb20gImNoYWkiOwoKaW1wb3J0IGNyZWF0ZU1vbnN0ZXJQb29sIGZyb20gIi4uLy4uLy4uLy4uL3NyYy9nYW1lL2dlbmVyYXRpb24vbW9uc3Rlci1wb29sLWZhY3RvcnkiOwoKZGVzY3JpYmUoImNyZWF0ZU1vbnN0ZXJQb29sIiwgKCkgPT4gewogICAgaXQoIlNob3VsZCBjcmVhdGUgYSBiYXQgcG9vbCIsICgpID0+IHsKICAgICAgICBjb25zdCBwb29sID0gY3JlYXRlTW9uc3RlclBvb2woImJhdHMiKTsKICAgICAgICBjaGFpLmFzc2VydCghIXBvb2wpOwogICAgICAgIGNvbnN0IHJlc3VsdCA9IHBvb2wuZ2VuZXJhdGUoKTsKICAgICAgICBjaGFpLmFzc2VydChyZXN1bHQuaXRlbXMubGVuZ3RoID09IDEpOwogICAgfSk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGUubmFtZSA9ICJCYXQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbCBwYW5lbC1kZWZhdWx0IiByZXBlYXQuYmluZD0iZW5teSBvZiBjdHguZW5lbWllcyI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1oZWFkaW5nIj4ke2VubXkubmFtZX08L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwcm9ncmVzcyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icHJvZ3Jlc3MtYmFyIHByb2dyZXNzLWJhci1kYW5nZXIiIGNzcz0id2lkdGg6ICR7MTAwKmN0eC5wbGF5ZXIuaGVhbHRoL2N0eC5wbGF5ZXIuY3R4LnN0YXRzLm1heEhlYWx0aH0lOyI+CiAgICAgICAgICAgICAgICA8c3Bhbj4ke2N0eC5wbGF5ZXIuaGVhbHRofSAvICR7Y3R4LnBsYXllci5jdHguc3RhdHMubWF4SGVhbHRofTwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InByb2dyZXNzIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwcm9ncmVzcy1iYXIgcHJvZ3Jlc3MtYmFyLWluZm8iIGNzcz0id2lkdGg6ICR7MTAwKmN0eC5wbGF5ZXIubWFuYS9jdHgucGxheWVyLmN0eC5zdGF0cy5tYXhIZWFsdGh9JTsiPgogICAgICAgICAgICAgICAgPHNwYW4+JHtjdHgucGxheWVyLm1hbmF9IC8gJHtjdHgucGxheWVyLmN0eC5zdGF0cy5tYXhNYW5hfTwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gaWYuYmluZD0iISFtb3YudGFyZ2V0Ij4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2ID4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImJhZGdlIj4ke21vdi5tb3ZlTmFtZX08L3NwYW4+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbCBwYW5lbC1kZWZhdWx0Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPlBsYXllcjwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InByb2dyZXNzIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwcm9ncmVzcy1iYXIgcHJvZ3Jlc3MtYmFyLWRhbmdlciIgY3NzPSJ3aWR0aDogJHsxMDAqY3R4LnBsYXllci5oZWFsdGgvY3R4LnBsYXllci5jdHguc3RhdHMubWF4SGVhbHRofSU7Ij4KICAgICAgICAgICAgICAgIDxzcGFuPiR7Y3R4LnBsYXllci5oZWFsdGh9IC8gJHtjdHgucGxheWVyLmN0eC5zdGF0cy5tYXhIZWFsdGh9PC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icHJvZ3Jlc3MiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9InByb2dyZXNzLWJhciBwcm9ncmVzcy1iYXItaW5mbyIgY3NzPSJ3aWR0aDogJHsxMDAqY3R4LnBsYXllci5tYW5hL2N0eC5wbGF5ZXIuY3R4LnN0YXRzLm1heEhlYWx0aH0lOyI+CiAgICAgICAgICAgICAgICA8c3Bhbj4ke2N0eC5wbGF5ZXIubWFuYX0gLyAke2N0eC5wbGF5ZXIuY3R4LnN0YXRzLm1heE1hbmF9PC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPlBsYXllcjwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InByb2dyZXNzIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwcm9ncmVzcy1iYXIgcHJvZ3Jlc3MtYmFyLWRhbmdlciIgY3NzPSJ3aWR0aDogJHsxMDAqY3R4LnBsYXllci5oZWFsdGgvY3R4LnBsYXllci5jdHguc3RhdHMubWF4SGVhbHRofSU7Ij4KICAgICAgICAgICAgICAgIDxzcGFuPiR7Y3R4LnBsYXllci5oZWFsdGh9IC8gJHtjdHgucGxheWVyLmN0eC5zdGF0cy5tYXhIZWFsdGh9PC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icHJvZ3Jlc3MiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9InByb2dyZXNzLWJhciBwcm9ncmVzcy1iYXItaW5mbyIgY3NzPSJ3aWR0aDogJHsxMDAqY3R4LnBsYXllci5tYW5hL2N0eC5wbGF5ZXIuY3R4LnN0YXRzLm1heEhlYWx0aH0lOyI+CiAgICAgICAgICAgICAgICA8c3Bhbj4ke2N0eC5wbGF5ZXIubWFuYX0gLyAke2N0eC5wbGF5ZXIuY3R4LnN0YXRzLm1heE1hbmF9PC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+YXNkPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbC1kYW5nZXIiPiR7bW92Lm1vdmVOYW1lfTwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbC1wcmltYXJ5Ij4ke21vdi50YXJnZXQubmFtZX08L3NwYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+YXNkPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbCBwYW5lbC1kZWZhdWx0IiByZXBlYXQuZm9yPSJtb3Ygb2YgcXVldWVkTW92ZXMiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mana</last-search>
+      <last-search>CLICK</last-search>
       <last-offset />
-      <last-pattern>mana</last-pattern>
+      <last-pattern>CLICK</last-pattern>
       <last-replace>AP</last-replace>
       <last-substitute>mana</last-substitute>
       <last-dir>1</last-dir>
@@ -500,7 +508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submitMove</entry>
         <entry>totalCost</entry>
         <entry>withItem</entry>
         <entry>qwe</entry>
@@ -520,27 +527,28 @@
         <entry>Promise</entry>
         <entry>health</entry>
         <entry>mana</entry>
+        <entry>CLICK</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
-        <entry>%s/rerun/return/g</entry>
-        <entry>wq</entry>
         <entry>g</entry>
-        <entry>ws</entry>
         <entry>%s/engine\//battle-engine\//g</entry>
-        <entry>&quot;w</entry>
         <entry>Lw</entry>
         <entry>we</entry>
         <entry encoding="base64">Pnc=</entry>
         <entry>vsp</entry>
-        <entry>qa</entry>
-        <entry>split</entry>
         <entry>s</entry>
         <entry>.,.+1w</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2hlYWx0aC9tYW5hL2c=</entry>
         <entry encoding="base64">JzwsJz5zL21hbmEvQVAvZw==</entry>
         <entry>W</entry>
+        <entry>qa</entry>
+        <entry>split</entry>
+        <entry>bd</entry>
+        <entry>bd!</entry>
+        <entry>qa!</entry>
+        <entry>ws</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
