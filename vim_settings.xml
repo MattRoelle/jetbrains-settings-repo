@@ -49,6 +49,7 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/BondPaymentScheduleDto.cs" timestamp="1507591141154" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/BondServiceTests.cs" timestamp="1507569636415">
         <mark key="[" line="78" column="113" />
         <mark key="]" line="78" column="126" />
@@ -95,12 +96,12 @@
         <mark key="^" line="696" column="29" />
         <mark key="." line="216" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507585197878">
-        <mark key="'" line="602" column="0" />
-        <mark key="[" line="345" column="55" />
-        <mark key="]" line="345" column="59" />
-        <mark key="." line="345" column="59" />
-        <mark key="^" line="345" column="59" />
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507591702390">
+        <mark key="'" line="372" column="21" />
+        <mark key="[" line="413" column="75" />
+        <mark key="]" line="414" column="37" />
+        <mark key="." line="414" column="37" />
+        <mark key="^" line="414" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/IFinancialCalcServiceProxy.cs" timestamp="1507244796762">
         <mark key="'" line="8" column="0" />
@@ -193,8 +194,8 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1507574720371">
-        <mark key="'" line="641" column="44" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1507591753418">
+        <mark key="'" line="568" column="0" />
         <mark key="[" line="901" column="51" />
         <mark key="]" line="901" column="51" />
         <mark key="." line="901" column="51" />
@@ -203,12 +204,12 @@
       <file name="/Dummy.txt" timestamp="1507584586671">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Loan/LoanService.cs" timestamp="1507571394531">
-        <mark key="'" line="90" column="27" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
-        <mark key="^" line="90" column="60" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Loan/LoanService.cs" timestamp="1507591210082">
+        <mark key="'" line="299" column="0" />
+        <mark key="[" line="292" column="44" />
+        <mark key="]" line="292" column="43" />
+        <mark key="." line="292" column="43" />
+        <mark key="^" line="292" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/RAProxy.cs" timestamp="1507245288397">
         <mark key="[" line="109" column="108" />
@@ -234,6 +235,9 @@
         <mark key="]" line="12" column="51" />
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/BondPaymentSchedule.cs" timestamp="1507591156255">
+        <mark key="'" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.MVC/ServiceCollectionExtensions.cs" timestamp="1507582699397">
         <mark key="[" line="41" column="15" />
@@ -295,12 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="788" column="25" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="795" column="29" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="854" column="19" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="847" column="71" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="931" column="55" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="321" column="49" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="932" column="12" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="88" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="93" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
@@ -395,55 +393,61 @@
       <jump line="665" column="8" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="588" column="38" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="602" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="9" column="4" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/BondPaymentSchedule.cs" />
+      <jump line="299" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Loan/LoanService.cs" />
+      <jump line="272" column="59" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="367" column="50" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="372" column="21" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="568" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bDINa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRtaW5GZWUgPSByZXF1ZXN0Lk9uZ29pbmdBZG1pbkZlZSwK</text>
       </register>
       <register name="-" type="4">
         <text>bDINa</text>
       </register>
       <register name="/" type="4">
-        <text>bPBp</text>
+        <text>CurrentYearBond</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJldHVybnMgYSBCYWxhbmNlIEN1c3RvbWVyIElucXVpcnkKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cmVtYXJrcz48L3JlbWFya3M+CiAgICAgICAgLy8vIDxyZXR1cm5zPkN1c3RvbWVySW5xdWlyeVJlc3BvbnNlRHRvPC9yZXR1cm5zPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPbmdvaW5nQWRtaW5GZWUgPSAwbSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRtaW5GZWUgPSByZXF1ZXN0Lk9uZ29pbmdBZG1pbkZlZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRWYWwuQm9uZENyZWRpdEFjY3J1ZWRJbnRlcmVzdCA9IHdpbm5pbmdTb2x1dGlvbi5kSU5hOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT25nb2luZ0FkbWluRmVlID0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRWYWwuQm9uZENyZWRpdEFjY3J1ZWRJbnRlcmVzdCA9IEJJTiAtIHJldFZhbC5DcmVkaXRVbmFjY3J1ZWRJbnRlcmVzdCAtIGJJTnA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBJbmplY3RzIHRoZSBJUHJpbmNpcGFsIGZyb20gdGhlIElIdHRwQ29udGV4dEFjY2Vzc29yCiAgICAgICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b248SUh0dHBDb250ZXh0QWNjZXNzb3IsIEh0dHBDb250ZXh0QWNjZXNzb3I+KCk7CiAgICAgICAgICAgICAgICBzZXJ2aWNlcy5BZGRTY29wZWQ8SVByaW5jaXBhbD4ocHJvdmlkZXIgPT4gcHJvdmlkZXIuR2V0U2VydmljZTxJSHR0cENvbnRleHRBY2Nlc3Nvcj4oKS5IdHRwQ29udGV4dC5Vc2VyKTsKCiAgICAgICAgICAgICAgICAvLyBJbmplY3QgdGhlIFJBQ290bmV4dCBjb250YWluZXIKICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNjb3BlZDxJUkFDb250ZXh0Q29udGFpbmVyLCBIdHRwUmVxdWVzdFJBQ29udGV4dENvbnRhaW5lcj4oKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEluamVjdHMgdGhlIElQcmluY2lwYWwgZnJvbSB0aGUgSUh0dHBDb250ZXh0QWNjZXNzb3IKICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxJSHR0cENvbnRleHRBY2Nlc3NvciwgSHR0cENvbnRleHRBY2Nlc3Nvcj4oKTsKICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNjb3BlZDxJUHJpbmNpcGFsPihwcm92aWRlciA9PiBwcm92aWRlci5HZXRTZXJ2aWNlPElIdHRwQ29udGV4dEFjY2Vzc29yPigpLkh0dHBDb250ZXh0LlVzZXIpOwoKICAgICAgICAgICAgICAgIC8vIEluamVjdCB0aGUgUkFDb3RuZXh0IGNvbnRhaW5lcgogICAgICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPElSQUNvbnRleHRDb250YWluZXIsIEh0dHBSZXF1ZXN0UkFDb250ZXh0Q29udGFpbmVyPigpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPbmdvaW5nQWRtaW5GZWUgPSAwbSwK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRWYWwuQm9uZENyZWRpdEFjY3J1ZWRJbnRlcmVzdCA9IHdpbm5pbmdTb2x1dGlvbi5kSU5hOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRWYWwuQm9uZENyZWRpdEFjY3J1ZWRJbnRlcmVzdCA9IEJJTiAtIHJldFZhbC5DcmVkaXRVbmFjY3J1ZWRJbnRlcmVzdCAtIGJJTnA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBJbmplY3RzIHRoZSBJUHJpbmNpcGFsIGZyb20gdGhlIElIdHRwQ29udGV4dEFjY2Vzc29yCiAgICAgICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b248SUh0dHBDb250ZXh0QWNjZXNzb3IsIEh0dHBDb250ZXh0QWNjZXNzb3I+KCk7CiAgICAgICAgICAgICAgICBzZXJ2aWNlcy5BZGRTY29wZWQ8SVByaW5jaXBhbD4ocHJvdmlkZXIgPT4gcHJvdmlkZXIuR2V0U2VydmljZTxJSHR0cENvbnRleHRBY2Nlc3Nvcj4oKS5IdHRwQ29udGV4dC5Vc2VyKTsKCiAgICAgICAgICAgICAgICAvLyBJbmplY3QgdGhlIFJBQ290bmV4dCBjb250YWluZXIKICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNjb3BlZDxJUkFDb250ZXh0Q29udGFpbmVyLCBIdHRwUmVxdWVzdFJBQ29udGV4dENvbnRhaW5lcj4oKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKDEyMDBtLCBwcmVwYXltZW50U3RhdGVtZW50LkxvYW5QYXltZW50U2NoZWR1bGVbMV0uVG90YWxQYXltZW50LlZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEluamVjdHMgdGhlIElQcmluY2lwYWwgZnJvbSB0aGUgSUh0dHBDb250ZXh0QWNjZXNzb3IKICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxJSHR0cENvbnRleHRBY2Nlc3NvciwgSHR0cENvbnRleHRBY2Nlc3Nvcj4oKTsKICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNjb3BlZDxJUHJpbmNpcGFsPihwcm92aWRlciA9PiBwcm92aWRlci5HZXRTZXJ2aWNlPElIdHRwQ29udGV4dEFjY2Vzc29yPigpLkh0dHBDb250ZXh0LlVzZXIpOwoKICAgICAgICAgICAgICAgIC8vIEluamVjdCB0aGUgUkFDb3RuZXh0IGNvbnRhaW5lcgogICAgICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPElSQUNvbnRleHRDb250YWluZXIsIEh0dHBSZXF1ZXN0UkFDb250ZXh0Q29udGFpbmVyPigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKDg3NTEuMDJtLCBwcmVwYXltZW50U3RhdGVtZW50LkNyZWRpdFByZXBheW1lbnRBbW91bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPbmdvaW5nQWRtaW5GZWUgPSAwbSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>bPBp</last-search>
+      <last-search>CurrentYearBond</last-search>
       <last-offset />
-      <last-pattern>bPBp</last-pattern>
+      <last-pattern>CurrentYearBond</last-pattern>
       <last-replace>MonthlyPayment</last-replace>
       <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -451,9 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new FundAccuontTransaction</entry>
-        <entry>UseFunds</entry>
-        <entry>SourceFunds</entry>
         <entry>ForBond</entry>
         <entry>TransactionLoan</entry>
         <entry>SourceFund</entry>
@@ -471,11 +472,13 @@
         <entry>annual</entry>
         <entry>Math.Round</entry>
         <entry>bPBp</entry>
+        <entry>Interest</entry>
+        <entry>ondAmor</entry>
+        <entry>CurrentYearBond</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>split</entry>
-        <entry>qw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0FwcGxpZWRQcmluY2lwYWwvQW5udWFsUGF5bWVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL0FubnVhbC9Nb250aGx5L2c=</entry>
@@ -483,10 +486,11 @@
         <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL0FubnVhbFBheW1lbnQvTW9udGhseVBheW1lbnQvZw==</entry>
         <entry>we</entry>
-        <entry>qa</entry>
         <entry>vsp</entry>
         <entry>wa</entry>
+        <entry>qw</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
