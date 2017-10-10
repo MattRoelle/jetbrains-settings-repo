@@ -140,12 +140,6 @@
         <mark key="^" line="126" column="66" />
         <mark key="." line="126" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507571384086">
-        <mark key="'" line="262" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/RenovatePaceLoanDto.cs" timestamp="1507568708496">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="29" column="58" />
@@ -167,17 +161,12 @@
         <mark key="." line="252" column="69" />
         <mark key="^" line="252" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" timestamp="1507239847053">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1507674472363">
-        <mark key="'" line="28" column="17" />
-        <mark key="[" line="709" column="0" />
-        <mark key="]" line="709" column="0" />
-        <mark key="." line="709" column="0" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1507675705709">
+        <mark key="'" line="957" column="41" />
+        <mark key="[" line="731" column="104" />
+        <mark key="]" line="731" column="115" />
+        <mark key="." line="731" column="115" />
+        <mark key="^" line="731" column="115" />
       </file>
       <file name="/Dummy.txt" timestamp="1507584586671">
         <mark key="[" line="0" column="0" />
@@ -266,15 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="562" column="125" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
-      <jump line="569" column="8" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
-      <jump line="627" column="16" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationResponseDto.cs" />
-      <jump line="45" column="20" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="495" column="12" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="697" column="4" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
-      <jump line="18" column="8" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="698" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/RenovatePaceLoanDto.cs" />
       <jump line="436" column="22" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
@@ -366,16 +346,25 @@
       <jump line="759" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="789" column="32" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="28" column="17" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="710" column="40" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="718" column="50" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="726" column="50" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="783" column="39" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="805" column="40" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="829" column="75" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="852" column="96" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="937" column="41" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
+      <jump line="957" column="41" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TransactionDate</text>
       </register>
       <register name="-" type="4">
-        <text>NewPrincipalPayment</text>
+        <text>TransactionDate</text>
       </register>
       <register name="/" type="4">
-        <text>calcInpu</text>
+        <text>endingPay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJldHVybnMgYSBCYWxhbmNlIEN1c3RvbWVyIElucXVpcnkKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cmVtYXJrcz48L3JlbWFya3M+CiAgICAgICAgLy8vIDxyZXR1cm5zPkN1c3RvbWVySW5xdWlyeVJlc3BvbnNlRHRvPC9yZXR1cm5zPgo=</text>
@@ -412,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>calcInpu</last-search>
+      <last-search>endingPay</last-search>
       <last-offset />
-      <last-pattern>calcInpu</last-pattern>
+      <last-pattern>endingPay</last-pattern>
       <last-replace>MonthlyPayment</last-replace>
       <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-=</entry>
         <entry>ond amou</entry>
         <entry>ounts</entry>
         <entry>paymentStatement.LoanPaymentSched</entry>
@@ -442,6 +430,7 @@
         <entry>Capitalized</entry>
         <entry>if (isIn</entry>
         <entry>calcInpu</entry>
+        <entry>endingPay</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
