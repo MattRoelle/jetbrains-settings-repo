@@ -63,6 +63,12 @@
         <mark key="." line="162" column="7" />
         <mark key="^" line="162" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/RenovatePACELoan.cs" timestamp="1507667846486">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/BondService.cs" timestamp="1507569557834">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="107" column="67" />
@@ -299,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="69" column="7" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
       <jump line="57" column="32" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
@@ -399,55 +404,56 @@
       <jump line="320" column="12" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="321" column="31" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="335" column="24" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="35" column="28" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/RenovatePACELoan.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbQ29sdW1uKCJjYXBpdGFsaXplZF9pbnRlcmVzdCIpXSBwdWJsaWMgZGVjaW1hbCBDYXBpdGFsaXplZEludGVyZXN0IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="-" type="4">
         <text>bDINa</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiSU5wXD4=</text>
+        <text>capitalized</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJldHVybnMgYSBCYWxhbmNlIEN1c3RvbWVyIElucXVpcnkKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cmVtYXJrcz48L3JlbWFya3M+CiAgICAgICAgLy8vIDxyZXR1cm5zPkN1c3RvbWVySW5xdWlyeVJlc3BvbnNlRHRvPC9yZXR1cm5zPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbQ29sdW1uKCJjYXBpdGFsaXplZF9pbnRlcmVzdCIpXSBwdWJsaWMgZGVjaW1hbCBDYXBpdGFsaXplZEludGVyZXN0IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoU0QgPT0gQlNEKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBiSU5wID0gTWF0aC5Sb3VuZChiayAqIGJQQnAsIDIpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoU0QgPT0gQlNEKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0VmFsLk5ld0JvbmRJbnRlcmVzdFBheW1lbnQgPSBiSU5wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBiSU5wID0gTWF0aC5Sb3VuZChiayAqIGJQQnAsIDIpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRtaW5GZWUgPSByZXF1ZXN0Lk9uZ29pbmdBZG1pbkZlZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0VmFsLk5ld0JvbmRJbnRlcmVzdFBheW1lbnQgPSBiSU5wOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT25nb2luZ0FkbWluRmVlID0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRtaW5GZWUgPSByZXF1ZXN0Lk9uZ29pbmdBZG1pbkZlZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPbmdvaW5nQWRtaW5GZWUgPSAwbSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT25nb2luZ0FkbWluRmVlID0gcmVxdWVzdC5PbmdvaW5nQWRtaW5GZWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiSU5wXD4=</last-search>
+      <last-search>capitalized</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiSU5wXD4=</last-pattern>
+      <last-pattern>capitalized</last-pattern>
       <last-replace>MonthlyPayment</last-replace>
       <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -455,8 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SourceFund</entry>
-        <entry>ammorti</entry>
         <entry>loan.Renovate</entry>
         <entry>AdminFEe</entry>
         <entry>AdminFee =</entry>
@@ -475,6 +479,8 @@
         <entry>CurrentYearBond</entry>
         <entry>bINp</entry>
         <entry encoding="base64">XDxiSU5wXD4=</entry>
+        <entry>capi</entry>
+        <entry>capitalized</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
