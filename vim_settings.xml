@@ -22,12 +22,33 @@
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/FundAccountServiceTests.cs" timestamp="1507569701221">
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="236" column="48" />
+        <mark key="]" line="236" column="49" />
+        <mark key="^" line="236" column="50" />
+        <mark key="." line="236" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/FinancialCalcService.cs" timestamp="1507244653434">
+        <mark key="'" line="948" column="45" />
+        <mark key="[" line="630" column="0" />
+        <mark key="]" line="655" column="60" />
+        <mark key="." line="646" column="71" />
+        <mark key="^" line="658" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationResponseDto.cs" timestamp="1507661715819">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="25" column="55" />
         <mark key="]" line="26" column="56" />
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/FundsDto.cs" timestamp="1507569378952">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/BondPaymentScheduleDto.cs" timestamp="1507591141154" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/BondServiceTests.cs" timestamp="1507569636415">
@@ -43,6 +64,13 @@
         <mark key="]" line="162" column="7" />
         <mark key="." line="162" column="7" />
         <mark key="^" line="162" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/BondService.cs" timestamp="1507569557834">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="107" column="67" />
+        <mark key="]" line="107" column="79" />
+        <mark key="^" line="107" column="79" />
+        <mark key="." line="107" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1507579888758">
         <mark key="[" line="16" column="24" />
@@ -69,6 +97,20 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="33" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" timestamp="1507585228370">
+        <mark key="'" line="665" column="8" />
+        <mark key="[" line="216" column="80" />
+        <mark key="]" line="216" column="81" />
+        <mark key="^" line="696" column="29" />
+        <mark key="." line="216" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" timestamp="1507661088305">
+        <mark key="'" line="333" column="24" />
+        <mark key="[" line="350" column="0" />
+        <mark key="]" line="351" column="59" />
+        <mark key="." line="351" column="59" />
+        <mark key="^" line="351" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/IFinancialCalcServiceProxy.cs" timestamp="1507244796762">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="33" column="99" />
@@ -82,6 +124,20 @@
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1507746689097">
+        <mark key="'" line="117" column="31" />
+        <mark key="[" line="123" column="32" />
+        <mark key="]" line="123" column="32" />
+        <mark key="." line="123" column="32" />
+        <mark key="^" line="123" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/PaymentDto.cs" timestamp="1507246997714">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20171010135624_AddBondCAPIToRPLTable.cs" timestamp="1507669663207" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI.sql" timestamp="1507679524323">
@@ -102,6 +158,13 @@
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/RenovatePaceLoanDto.cs" timestamp="1507568708496">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="30" column="49" />
+        <mark key="^" line="30" column="49" />
+        <mark key="." line="30" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/AlterGetPrincipalBalanceStoredProcForIndentureCAPI.sql" timestamp="1507678237356">
         <mark key="[" line="0" column="0" />
@@ -129,6 +192,13 @@
         <mark key="^" line="9" column="104" />
         <mark key="." line="9" column="104" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/IFinancialCalcService.cs" timestamp="1507156612616">
+        <mark key="'" line="8" column="21" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="33" column="106" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/PaymentProcessorTests.cs" timestamp="1507248244951">
         <mark key="'" line="212" column="26" />
         <mark key="[" line="251" column="46" />
@@ -147,6 +217,12 @@
         <mark key="]" line="9" column="8" />
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Dto.FinancialService/UniversalPayoffCalculationRequestDto.cs" timestamp="1507746121545">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddOngoingAdminFeeFieldToRenovatePaceLoanTable.cs" timestamp="1507568571141">
         <mark key="[" line="9" column="45" />
@@ -179,6 +255,13 @@
         <mark key="]" line="109" column="107" />
         <mark key="." line="109" column="107" />
         <mark key="^" line="109" column="107" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" timestamp="1507569527443">
+        <mark key="'" line="35" column="37" />
+        <mark key="[" line="10" column="82" />
+        <mark key="]" line="10" column="81" />
+        <mark key="^" line="10" column="81" />
+        <mark key="." line="10" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/ModifyCustomerInquiryTableInSupportOfSFIntegration.cs" timestamp="1507062184053">
         <mark key="[" line="5" column="4" />
@@ -259,8 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="39" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/FundAccountService.cs" />
-      <jump line="204" column="33" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/FundAccountService.cs" />
       <jump line="80" column="50" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/FundAccountService.cs" />
       <jump line="96" column="50" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/FundAccountService.cs" />
       <jump line="168" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/FundAccountService.cs" />
@@ -359,6 +440,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/AlterGetPrincipalBalanceStoredProcForIndentureCAPI.sql" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/AlterGetPrincipalBalanceStoredProcForIndentureCAPI.sql" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI.sql" />
+      <jump line="104" column="41" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="117" column="31" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -368,7 +451,7 @@
         <text>Sql</text>
       </register>
       <register name="/" type="4">
-        <text>iloanid</text>
+        <text>Swagger</text>
       </register>
       <register name="0" type="4">
         <text>M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI</text>
@@ -405,9 +488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>iloanid</last-search>
+      <last-search>Swagger</last-search>
       <last-offset />
-      <last-pattern>iloanid</last-pattern>
+      <last-pattern>Swagger</last-pattern>
       <last-replace>MonthlyPayment</last-replace>
       <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Math.Round</entry>
         <entry>bPBp</entry>
         <entry>Interest</entry>
         <entry>ondAmor</entry>
@@ -435,6 +517,7 @@
         <entry>105</entry>
         <entry>201</entry>
         <entry>iloanid</entry>
+        <entry>Swagger</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
