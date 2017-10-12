@@ -46,11 +46,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D910B69-74D7-45ED-AFCF-CC758962A330/bf/33a33507/ServiceCollectionExtensions.cs" timestamp="1507830817149">
         <mark key="'" line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" timestamp="1507759662230">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" timestamp="1507832593673">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/LockBoxController.cs" timestamp="1507749955869">
         <mark key="[" line="131" column="0" />
@@ -263,12 +263,11 @@
         <mark key="." line="42" column="11" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507829783651">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="93" column="120" />
-        <mark key="]" line="93" column="119" />
-        <mark key="." line="93" column="119" />
-        <mark key="^" line="93" column="119" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507832625463">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddBondCAPIToRPLTable.cs" timestamp="1507669028576">
         <mark key="'" line="10" column="28" />
@@ -330,12 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="582" column="36" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="616" column="37" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="621" column="36" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="628" column="29" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="635" column="29" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="641" column="44" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="32" column="42" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryResponseDto.cs" />
       <jump line="322" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="658" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
@@ -430,13 +423,19 @@
       <jump line="82" column="12" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
       <jump line="50" column="13" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D910B69-74D7-45ED-AFCF-CC758962A330/bf/33a33507/ServiceCollectionExtensions.cs" />
       <jump line="4" column="50" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D910B69-74D7-45ED-AFCF-CC758962A330/bf/33a33507/ServiceCollectionExtensions.cs" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" />
+      <jump line="84" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" />
+      <jump line="108" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
+      <jump line="93" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, typeof(DefaultContractResolver)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRNb250aGx5UGF5bWVudFByb3ZpZGVyKSwgdHlwZW9mKERlZmF1bHRDb250cmFjdFJlc29sdmVyKSldCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultcontractResolver</text>
+        <text>CustomerInquiryExamplePayoffProvider</text>
       </register>
       <register name="/" type="4">
         <text>ag</text>
@@ -445,34 +444,34 @@
         <text>, typeof(DefaultContractResolver)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRBbm51YWxQYXltZW50UHJvdmlkZXIpKV0K</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRNb250aGx5UGF5bWVudFByb3ZpZGVyKSwgdHlwZW9mKERlZmF1bHRDb250cmFjdFJlc29sdmVyKSldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRQcmluY2lwYWxCYWxhbmNlUHJvdmlkZXIpKV0K</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQYXlkb3duUHJvdmlkZXIpKV0K</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRBbm51YWxQYXltZW50UHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVCYWxhbmNlUHJvdmlkZXIpKV0K</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDdXN0b21lcklucXVpcnlFeGFtcGxlUGF5b2ZmUHJvdmlkZXIgOiBJRXhhbXBsZXNQcm92aWRlcgogICAgewogICAgICAgIHB1YmxpYyBvYmplY3QgR2V0RXhhbXBsZXMoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRW1haWwgPSAibXJvZWxsZUByZW5vdmF0ZWFtZXJpY2EuY29tIiwKICAgICAgICAgICAgICAgIEZheCA9ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgICAgIFBob25lID0gIjk5OTk5OTk5OTkiLAogICAgICAgICAgICAgICAgRmlyc3ROYW1lID0gIkpvaG4iLAogICAgICAgICAgICAgICAgTGFzdE5hbWUgPSAiU21pdGgiLAogICAgICAgICAgICAgICAgRnJvbSA9ICJBQkMgRXNjcm93IiwKICAgICAgICAgICAgICAgIEdvb2RUaHJvdWdoRGF0ZSA9IG5ldyBEYXRlVGltZSgyMDE3LCAxMCwgMjUpLAogICAgICAgICAgICAgICAgVGFyZ2V0UGF5bWVudCA9IG51bGwsCiAgICAgICAgICAgICAgICBUYXJnZXRQcmluY2lwYWwgPSBudWxsLAogICAgICAgICAgICAgICAgUGF5bWVudEFtb3VudCA9IG51bGwsCiAgICAgICAgICAgICAgICBSZWZlcmVuY2VOdW1iZXIgPSAiTU8xODMxMDgyNTQiCiAgICAgICAgICAgIH07CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRQcmluY2lwYWxCYWxhbmNlUHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQYXlvZmZQcm92aWRlcikpXQo=</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDdXN0b21lcklucXVpcnlFeGFtcGxlVGFyZ2V0QW5udWFsUGF5bWVudFByb3ZpZGVyIDogSUV4YW1wbGVzUHJvdmlkZXIKICAgIHsKICAgICAgICBwdWJsaWMgb2JqZWN0IEdldEV4YW1wbGVzKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0bygpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEVtYWlsID0gIm1yb2VsbGVAcmVub3ZhdGVhbWVyaWNhLmNvbSIsCiAgICAgICAgICAgICAgICBGYXggPSAiOTk5OTk5OTk5OSIsCiAgICAgICAgICAgICAgICBQaG9uZSA9ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgICAgIEZpcnN0TmFtZSA9ICJKb2huIiwKICAgICAgICAgICAgICAgIExhc3ROYW1lID0gIlNtaXRoIiwKICAgICAgICAgICAgICAgIEZyb20gPSAiQUJDIEVzY3JvdyIsCiAgICAgICAgICAgICAgICBHb29kVGhyb3VnaERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgMTAsIDI1KSwKICAgICAgICAgICAgICAgIFRhcmdldFBheW1lbnQgPSBudWxsLAogICAgICAgICAgICAgICAgVGFyZ2V0UHJpbmNpcGFsID0gbnVsbCwKICAgICAgICAgICAgICAgIFBheW1lbnRBbW91bnQgPSA3NTAsCiAgICAgICAgICAgICAgICBSZWZlcmVuY2VOdW1iZXIgPSAiTU8xODMxMDgyNTQiCiAgICAgICAgICAgIH07CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQYXlkb3duUHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDdXN0b21lcklucXVpcnlFeGFtcGxlVGFyZ2V0UHJpbmNpcGFsQmFsYW5jZVByb3ZpZGVyIDogSUV4YW1wbGVzUHJvdmlkZXIKICAgIHsKICAgICAgICBwdWJsaWMgb2JqZWN0IEdldEV4YW1wbGVzKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0bygpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEVtYWlsID0gIm1yb2VsbGVAcmVub3ZhdGVhbWVyaWNhLmNvbSIsCiAgICAgICAgICAgICAgICBGYXggPSAiOTk5OTk5OTk5OSIsCiAgICAgICAgICAgICAgICBQaG9uZSA9ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgICAgIEZpcnN0TmFtZSA9ICJKb2huIiwKICAgICAgICAgICAgICAgIExhc3ROYW1lID0gIlNtaXRoIiwKICAgICAgICAgICAgICAgIEZyb20gPSAiQUJDIEVzY3JvdyIsCiAgICAgICAgICAgICAgICBHb29kVGhyb3VnaERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgMTAsIDI1KSwKICAgICAgICAgICAgICAgIFRhcmdldFBheW1lbnQgPSBudWxsLAogICAgICAgICAgICAgICAgVGFyZ2V0UHJpbmNpcGFsID0gNDAwMG0sCiAgICAgICAgICAgICAgICBQYXltZW50QW1vdW50ID0gbnVsbCwKICAgICAgICAgICAgICAgIFJlZmVyZW5jZU51bWJlciA9ICJNTzE4MzEwODI1NCIKICAgICAgICAgICAgfTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDdXN0b21lcklucXVpcnlFeGFtcGxlUGF5ZG93blByb3ZpZGVyIDogSUV4YW1wbGVzUHJvdmlkZXIKICAgIHsKICAgICAgICBwdWJsaWMgb2JqZWN0IEdldEV4YW1wbGVzKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0bygpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEVtYWlsID0gIm1yb2VsbGVAcmVub3ZhdGVhbWVyaWNhLmNvbSIsCiAgICAgICAgICAgICAgICBGYXggPSAiOTk5OTk5OTk5OSIsCiAgICAgICAgICAgICAgICBQaG9uZSA9ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgICAgIEZpcnN0TmFtZSA9ICJKb2huIiwKICAgICAgICAgICAgICAgIExhc3ROYW1lID0gIlNtaXRoIiwKICAgICAgICAgICAgICAgIEZyb20gPSAiQUJDIEVzY3JvdyIsCiAgICAgICAgICAgICAgICBHb29kVGhyb3VnaERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgMTAsIDI1KSwKICAgICAgICAgICAgICAgIFRhcmdldFBheW1lbnQgPSBudWxsLAogICAgICAgICAgICAgICAgVGFyZ2V0UHJpbmNpcGFsID0gbnVsbCwKICAgICAgICAgICAgICAgIFBheW1lbnRBbW91bnQgPSAyNTAwbSwKICAgICAgICAgICAgICAgIFJlZmVyZW5jZU51bWJlciA9ICJNTzE4MzEwODI1NCIKICAgICAgICAgICAgfTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVCYWxhbmNlUHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -518,10 +517,10 @@
         <entry>qw</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>we</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
