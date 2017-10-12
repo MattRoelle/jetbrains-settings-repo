@@ -43,6 +43,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D910B69-74D7-45ED-AFCF-CC758962A330/bf/33a33507/ServiceCollectionExtensions.cs" timestamp="1507830817149">
+        <mark key="'" line="4" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" timestamp="1507759662230">
         <mark key="[" line="27" column="45" />
         <mark key="]" line="27" column="45" />
@@ -125,8 +128,8 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1507747514139">
-        <mark key="'" line="117" column="31" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1507830763611">
+        <mark key="'" line="82" column="12" />
         <mark key="[" line="123" column="32" />
         <mark key="]" line="123" column="32" />
         <mark key="." line="123" column="32" />
@@ -145,6 +148,7 @@
         <mark key="^" line="126" column="66" />
         <mark key="." line="126" column="66" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/118BF3C1-739E-48C6-9247-A6A7F2A14AE0/a9/d097407b/ServiceCollectionExtensions.cs" timestamp="1507830882011" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20170717155530_AddCustomerInquiryTables.cs" timestamp="1507246286195">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="129" />
@@ -259,12 +263,12 @@
         <mark key="." line="42" column="11" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507766185707">
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507829783651">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="92" column="124" />
-        <mark key="]" line="92" column="157" />
-        <mark key="." line="92" column="124" />
-        <mark key="^" line="34" column="141" />
+        <mark key="[" line="93" column="120" />
+        <mark key="]" line="93" column="119" />
+        <mark key="." line="93" column="119" />
+        <mark key="^" line="93" column="119" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddBondCAPIToRPLTable.cs" timestamp="1507669028576">
         <mark key="'" line="10" column="28" />
@@ -326,10 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="82" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="510" column="36" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="240" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="518" column="40" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="582" column="36" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="616" column="37" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="621" column="36" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
@@ -426,6 +426,10 @@
       <jump line="274" column="28" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="114" column="19" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/AmortizationCalculator.cs" />
       <jump line="257" column="27" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
+      <jump line="147" column="19" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="82" column="12" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
+      <jump line="50" column="13" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D910B69-74D7-45ED-AFCF-CC758962A330/bf/33a33507/ServiceCollectionExtensions.cs" />
+      <jump line="4" column="50" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D910B69-74D7-45ED-AFCF-CC758962A330/bf/33a33507/ServiceCollectionExtensions.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,7 +439,7 @@
         <text>DefaultcontractResolver</text>
       </register>
       <register name="/" type="4">
-        <text>Select</text>
+        <text>ag</text>
       </register>
       <register name="0" type="4">
         <text>, typeof(DefaultContractResolver)</text>
@@ -472,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Select</last-search>
+      <last-search>ag</last-search>
       <last-offset />
-      <last-pattern>Select</last-pattern>
+      <last-pattern>ag</last-pattern>
       <last-replace>MonthlyPayment</last-replace>
       <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -482,9 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calcInpu</entry>
-        <entry>endingPay</entry>
-        <entry>isInCAP</entry>
         <entry>IndentureCAP</entry>
         <entry>qwe</entry>
         <entry>105</entry>
@@ -502,6 +503,9 @@
         <entry>Amendre</entry>
         <entry>Amend</entry>
         <entry>Select</entry>
+        <entry>services.Add</entry>
+        <entry>OperationFilt</entry>
+        <entry>ag</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
