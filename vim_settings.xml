@@ -259,12 +259,12 @@
         <mark key="." line="42" column="11" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507762441481">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="43" column="42" />
-        <mark key="." line="43" column="42" />
-        <mark key="^" line="43" column="42" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1507766185707">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="92" column="124" />
+        <mark key="]" line="92" column="157" />
+        <mark key="." line="92" column="124" />
+        <mark key="^" line="34" column="141" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddBondCAPIToRPLTable.cs" timestamp="1507669028576">
         <mark key="'" line="10" column="28" />
@@ -429,16 +429,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CustomerInquiryExampleTargetAnnualPaymentProvider</text>
+        <text>, typeof(DefaultContractResolver)</text>
       </register>
       <register name="-" type="4">
-        <text>CustomerInquiryExampleTargetAnnualPaymentProvider</text>
+        <text>DefaultcontractResolver</text>
       </register>
       <register name="/" type="4">
         <text>Select</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBVbml2ZXJzYWxQcmVwYXltZW50Q2FsY3VsYXRpb25SZXF1ZXN0RHRvCiAgICB7CiAgICAgICAgcHVibGljIERhdGVUaW1lIERpc2J1cnNlbWVudERhdGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBEYXRlVGltZT8gQm9uZERhdGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBEYXRlVGltZSBCb25kQ2FsbERhdGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBEYXRlVGltZSBNYXR1cml0eURhdGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBpbnQgVGVybSB7IGdldDsgc2V0OyB9CgogICAgICAgIC8vLyA8c3VtbWFyeT4KICAgICAgICAvLy8gR2V0cyBvciBzZXRzIHRoZSByYXRlLgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDx2YWx1ZT4KICAgICAgICAvLy8gVGhlIHJhdGUgaW4gcGVyY2VudGFnZSBmb3JtLgogICAgICAgIC8vLyBleDogNy45OQogICAgICAgIC8vLyA8L3ZhbHVlPgogICAgICAgIHB1YmxpYyBkZWNpbWFsIFJhdGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBkZWNpbWFsIEJvbmRSYXRlIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgZGVjaW1hbCBCb25kUHJpbmNpcGFsQmFsYW5jZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGRlY2ltYWwgQ3VycmVudFllYXJCb25kUHJpbmNpcGFsUGF5bWVudCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGRlY2ltYWwgQ3VycmVudFllYXJCb25kSW50ZXJlc3RQYXltZW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgZGVjaW1hbCBPbmdvaW5nQWRtaW5GZWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBkZWNpbWFsIFByaW5jaXBhbEJhbGFuY2UgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBkZWNpbWFsIEN1cnJlbnRZZWFySW50ZXJlc3QgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBkZWNpbWFsIEN1cnJlbnRZZWFyUHJpbmNpcGFsUGF5bWVudCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGRlY2ltYWwgU3VycGx1cyB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGRlY2ltYWwgRG93blBheW1lbnQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBUYXhQYXltZW50UmVjaWV2ZWQgVGF4UGF5bWVudFJlY2lldmVkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgQW1lbmRSZW1haW5pbmdCaWxsIEFtZW5kUmVtYWluaW5nQmlsbCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIFByb2dyYW1Bc3Nlc3NtZW50RGF0ZXNEdG8gUHJvZ3JhbUFzc2Vzc21lbnREYXRlcyB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIEV4Y2Vzc0ZhdGUgRXhjZXNzRmF0ZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGRlY2ltYWw/IFRhcmdldFBheW1lbnRBbW91bnQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBkZWNpbWFsPyBUYXJnZXRBcHBsaWVkUHJpbmNpcGFsIHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
+      <register name="0" type="4">
+        <text>, typeof(DefaultContractResolver)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRBbm51YWxQYXltZW50UHJvdmlkZXIpKV0K</text>
