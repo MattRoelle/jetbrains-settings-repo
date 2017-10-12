@@ -149,6 +149,13 @@
         <mark key="." line="126" column="66" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/118BF3C1-739E-48C6-9247-A6A7F2A14AE0/a9/d097407b/ServiceCollectionExtensions.cs" timestamp="1507830882011" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1507836632003">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="88" column="133" />
+        <mark key="]" line="88" column="109" />
+        <mark key="^" line="88" column="109" />
+        <mark key="." line="88" column="109" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20170717155530_AddCustomerInquiryTables.cs" timestamp="1507246286195">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="129" />
@@ -329,7 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="42" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryResponseDto.cs" />
       <jump line="322" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="658" column="0" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Domain.Services.FinancialService/Business.Logic/UniversalPrepaymentCalculator.cs" />
       <jump line="258" column="72" filename="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.Services.FinancialService.Tests.Unit/UniversalPrepaymentCalculationTests.cs" />
@@ -429,55 +435,56 @@
       <jump line="108" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="93" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRNb250aGx5UGF5bWVudFByb3ZpZGVyKSwgdHlwZW9mKERlZmF1bHRDb250cmFjdFJlc29sdmVyKSldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>CustomerInquiryExamplePayoffProvider</text>
+        <text>bcd</text>
       </register>
       <register name="/" type="4">
-        <text>ag</text>
+        <text>Timespan</text>
       </register>
       <register name="0" type="4">
         <text>, typeof(DefaultContractResolver)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRNb250aGx5UGF5bWVudFByb3ZpZGVyKSwgdHlwZW9mKERlZmF1bHRDb250cmFjdFJlc29sdmVyKSldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRBbm51YWxQYXltZW50UHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXIgYmNkID0gbWF4QkNEID09IG51bGwKICAgICAgICAgICAgICAgICAgICA/IHJlcXVlc3QuR29vZFRocm91Z2hEYXRlLlZhbHVlCiAgICAgICAgICAgICAgICAgICAgOiBtYXhCQ0QuVHJhbnNhY3Rpb25EYXRlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVUYXJnZXRQcmluY2lwYWxCYWxhbmNlUHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucXVpcnkuUHJpbmNpcGFsQmFsYW5jZUF0QmNkID0gcHJpbkF0QmNkLkxvYW5QcmluY2lwYWxCYWxhbmNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQYXlkb3duUHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmluQXRCY2QgPSBhd2FpdCBfZGF0YVNlcnZpY2UuR2V0UHJpbmNpcGFsQmFsYW5jZShsb2FuLkxvYW5JZCwgYmNkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVQcm92aWRlciksIHR5cGVvZihEZWZhdWx0Q29udHJhY3RSZXNvbHZlcikpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbU3dhZ2dlclJlcXVlc3RFeGFtcGxlKHR5cGVvZihDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvKSwgdHlwZW9mKEN1c3RvbWVySW5xdWlyeUV4YW1wbGVCYWxhbmNlUHJvdmlkZXIpLCB0eXBlb2YoRGVmYXVsdENvbnRyYWN0UmVzb2x2ZXIpKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ag</last-search>
+      <last-search>Timespan</last-search>
       <last-offset />
-      <last-pattern>ag</last-pattern>
+      <last-pattern>Timespan</last-pattern>
       <last-replace>MonthlyPayment</last-replace>
       <last-substitute>AnnualPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -485,8 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IndentureCAP</entry>
-        <entry>qwe</entry>
         <entry>105</entry>
         <entry>201</entry>
         <entry>iloanid</entry>
@@ -505,6 +510,8 @@
         <entry>services.Add</entry>
         <entry>OperationFilt</entry>
         <entry>ag</entry>
+        <entry>Balance</entry>
+        <entry>Timespan</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -518,9 +525,9 @@
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
+        <entry>wa</entry>
         <entry>vsp</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
