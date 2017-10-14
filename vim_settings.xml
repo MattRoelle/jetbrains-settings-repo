@@ -73,11 +73,6 @@
         <mark key="." line="12" column="82" />
         <mark key="^" line="12" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.scss" timestamp="1507699792973">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/generation/item-pool-factory.ts" timestamp="1507617034661">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="38" />
@@ -200,12 +195,12 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" timestamp="1507883032300">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="25" column="56" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="57" />
-        <mark key="^" line="25" column="57" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" timestamp="1507939391260">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="10" />
+        <mark key="." line="61" column="10" />
+        <mark key="^" line="61" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" timestamp="1507700441375">
         <mark key="'" line="41" column="0" />
@@ -486,9 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="57" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
-      <jump line="66" column="6" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
       <jump line="49" column="4" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" />
       <jump line="61" column="15" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
@@ -586,13 +578,16 @@
       <jump line="2" column="12" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="31" column="18" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="26" column="7" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBJWEkuQmFzZVRleHR1cmUuU0NBTEVfTU9ERS5ERUZBVUxUID0gUElYSS5CYXNlVGV4dHVyZS5TQ0FMRV9NT0RFLk5FQVJFU1Q7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>position: PIXI.</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>position: PIXI.</text>
       </register>
       <register name="/" type="4">
         <text>document.body.append</text>
@@ -601,31 +596,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5fYW5pbS5zY2FsZS54ID0gMjsKICAgICAgdGhpcy5fYW5pbS5hbmltYXRpb25TcGVlZCA9IDAuNTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBJWEkuQmFzZVRleHR1cmUuU0NBTEVfTU9ERS5ERUZBVUxUID0gUElYSS5CYXNlVGV4dHVyZS5TQ0FMRV9NT0RFLk5FQVJFU1Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9hbmltLnNjYWx3ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBJWEkuQmFzZVRleHR1cmUuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9hbmltLmgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fYW5pbS5zY2FsZS54ID0gMjsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGNvbnN0IGZyYW1lcyA9IFtdOwogICAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCA0OyBpKyspIHsKICAgICAgICAgIGZyYW1lcy5wdXNoKFBJWEkuVGV4dHVyZS5mcm9tRnJhbWUoImdvYmxpbi13YXJyaW9yLWlkbGUwIiArIChpICsgMSkgICsgIi5wbmciKSk7CiAgICAgICAgfQogICAgICAgIHRoaXMuX2FuaW0gPSBuZXcgUElYSS5leHRyYXMuQW5pbWF0ZWRTcHJpdGUoZnJhbWVzKTsKICAgICAgICB0aGlzLl9hbmltLnggPSB0aGlzLl9waXhpQXBwLnJlbmRlcmVyLndpZHRoIC8gNDsKICAgICAgICB0aGlzLl9hbmltLnkgPSB0aGlzLl9waXhpQXBwLnJlbmRlcmVyLmhlaWdodCAvIDI7CiAgICAgICAgdGhpcy5fYW5pbS5hbmNob3Iuc2V0KDAuNSwgMSk7CiAgICAgICAgdGhpcy5fYW5pbS5zY2FsZS54ID0gLTI7CiAgICAgICAgdGhpcy5fYW5pbS5zY2FsZS55ID0gMjsKICAgICAgICB0aGlzLl9hbmltLmFuaW1hdGlvblNwZWVkID0gMC4wODsKICAgICAgICB0aGlzLl9hbmltLnBsYXkoKTsKICAgICAgICAvL3RoaXMuX2FuaW1hdGlvbkZyYW1lKCk7CiAgICAgICAgdGhpcy5fcGl4aUFwcC5zdGFnZS5hZGRDaGlsZCh0aGlzLl9hbmltKTsKICAgICAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9hbmltCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2dlID0gbmV3IEdmeEVuZ2luZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGNvbnN0IGZyYW1lcyA9IFtdOwogICAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCA0OyBpKyspIHsKICAgICAgICAgIGZyYW1lcy5wdXNoKFBJWEkuVGV4dHVyZS5mcm9tRnJhbWUoImRpcmUtd29sZi1pZGxlMCIgKyAoaSArIDEpICArICIucG5nIikpOwogICAgICAgIH0KICAgICAgICB0aGlzLl9hbmltID0gbmV3IFBJWEkuZXh0cmFzLkFuaW1hdGVkU3ByaXRlKGZyYW1lcyk7CiAgICAgICAgdGhpcy5fYW5pbS54ID0gdGhpcy5fcGl4aUFwcC5yZW5kZXJlci53aWR0aCAvIDI7CiAgICAgICAgdGhpcy5fYW5pbS55ID0gdGhpcy5fcGl4aUFwcC5yZW5kZXJlci5oZWlnaHQgLyAyOwogICAgICAgIHRoaXMuX2FuaW0uYW5jaG9yLnNldCgxKTsKICAgICAgICB0aGlzLl9hbmltLnNjYWxlLnggPSAyOwogICAgICAgIHRoaXMuX2FuaW0uc2NhbGUueSA9IDI7CiAgICAgICAgdGhpcy5fYW5pbS5hbmltYXRpb25TcGVlZCA9IDAuMTsKICAgICAgICB0aGlzLl9hbmltLnBsYXkoKTsKICAgICAgICAvL3RoaXMuX2FuaW1hdGlvbkZyYW1lKCk7CiAgICAgICAgdGhpcy5fcGl4aUFwcC5zdGFnZS5hZGRDaGlsZCh0aGlzLl9hbmltKTsKICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiAweDAwMDAwMCwKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZnJhbWVzID0gW107CiAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCA0OyBpKyspIHsKICAgICAgICBmcmFtZXMucHVzaChQSVhJLlRleHR1cmUuZnJvbUZyYW1lKCJkaXJlLXdvbGYtaWRsZTAiICsgKGkgKyAxKSAgKyAiLnBuZyIpKTsKICAgICAgfQogICAgICB0aGlzLl9hbmltID0gbmV3IFBJWEkuZXh0cmFzLkFuaW1hdGVkU3ByaXRlKGZyYW1lcyk7CiAgICAgIHRoaXMuX2FuaW0ueCA9IHRoaXMuX3BpeGlBcHAucmVuZGVyZXIud2lkdGggLyAyOwogICAgICB0aGlzLl9hbmltLnkgPSB0aGlzLl9waXhpQXBwLnJlbmRlcmVyLmhlaWdodCAvIDI7CiAgICAgIHRoaXMuX2FuaW0uYW5jaG9yLnNldCgxKTsKICAgICAgdGhpcy5fYW5pbS5zY2FsZS54ID0gMjsKICAgICAgdGhpcy5fYW5pbS5zY2FsZS55ID0gMjsKICAgICAgdGhpcy5fYW5pbS5hbmltYXRpb25TcGVlZCA9IDAuMTsKICAgICAgdGhpcy5fYW5pbS5wbGF5KCk7CiAgICAgIC8vdGhpcy5fYW5pbWF0aW9uRnJhbWUoKTsKICAgICAgdGhpcy5fcGl4aUFwcC5zdGFnZS5hZGRDaGlsZCh0aGlzLl9hbmltKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL3ZlbmRvci1idW5kbGUuanMiIGRhdGEtbWFpbj0iYXVyZWxpYS1ib290c3RyYXBwZXIiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fYW5pbS5waXZvdC55ID0gMTsKICAgICAgdGhpcy5fYW5pbS5waXZvdC54ID0gMC41Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
