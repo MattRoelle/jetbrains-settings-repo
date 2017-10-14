@@ -482,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="15" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
       <jump line="38" column="46" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" />
       <jump line="145" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
@@ -582,6 +581,7 @@
       <jump line="39" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="122" column="21" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="127" column="4" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="14" column="2" filename="C:/s/ffrl/app/components/version/interpolate-filter_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -726,6 +726,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
