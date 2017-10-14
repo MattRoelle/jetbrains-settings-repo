@@ -195,12 +195,12 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" timestamp="1507941728151">
-        <mark key="'" line="127" column="4" />
-        <mark key="[" line="122" column="36" />
-        <mark key="]" line="122" column="34" />
-        <mark key="." line="122" column="34" />
-        <mark key="^" line="122" column="34" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" timestamp="1508005421244">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="21" />
+        <mark key="." line="83" column="21" />
+        <mark key="^" line="83" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" timestamp="1507700441375">
         <mark key="'" line="41" column="0" />
@@ -482,8 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="46" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" />
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
       <jump line="27" column="26" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
       <jump line="30" column="23" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
@@ -582,55 +580,57 @@
       <jump line="122" column="21" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="127" column="4" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="14" column="2" filename="C:/s/ffrl/app/components/version/interpolate-filter_test.js" />
+      <jump line="64" column="9" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2lkbGUucGl2b3QueSA9IC1tYXhIZWlnaHQ7CiAgICB0aGlzLl9hdHRhY2sucGl2b3QueSA9IC1tYXhIZWlnaHQ7CiAgICB0aGlzLl9odXJ0LnBpdm90LnkgPSAtbWF4SGVpZ2h0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>anchor</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>anchor</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text>qwe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5fYW5pbS5zY2FsZS54ID0gMjsKICAgICAgdGhpcy5fYW5pbS5hbmltYXRpb25TcGVlZCA9IDAuNTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2lkbGUucGl2b3QueSA9IC1tYXhIZWlnaHQ7CiAgICB0aGlzLl9hdHRhY2sucGl2b3QueSA9IC1tYXhIZWlnaHQ7CiAgICB0aGlzLl9odXJ0LnBpdm90LnkgPSAtbWF4SGVpZ2h0Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX3Nwcml0ZS5hbmNob3Iuc2V0KG5ld0FuaW0uYW5jaG9yLngsIG5ld0FuaW0uYW5jaG9yLnkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh0ZXh0LmhlaWdodCA+IG1heEhlaWdodCkgbWF4SGVpZ2h0ID0gdGV4dC5oZWlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaChuZXdTdGF0ZSkgewogICAgICBjYXNlIEdmeEVudGl0eVN0YXRlLklkbGU6CiAgICAgICAgdGhpcy5fYW5pbS50ZXh0dXJlcyA9IHRoaXMuX2lkbGU7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgR2Z4RW50aXR5U3RhdGUuQXR0YWNrOgogICAgICAgIHRoaXMuX2FuaW0udGV4dHVyZXMgPSB0aGlzLl9hdHRhY2s7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgR2Z4RW50aXR5U3RhdGUuSHVydDoKICAgICAgICB0aGlzLl9hbmltLnRleHR1cmVzID0gdGhpcy5faHVydDsKICAgICAgICBicmVhazsKICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2lkbGUucGl2b3QueSA9IC1tYXhIZWlnaHQ7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGxldCBtYXhIZWlnaHQgPSAwOwogICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYW5pbS5waXZvdC55ID0gLW1heEhlaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG1heEhlaWdodCA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYW5pbS5waXZvdC5zZXQoMC4pCg==</text>
+        <text encoding="base64">ICAgICAgc3dpdGNoKHMpIHsKICAgICAgICBjYXNlICJpZGxlIjogdGhpcy5faWRsZSA9IGZyYW1lczsgYnJlYWs7CiAgICAgICAgY2FzZSAiYXR0YWNrIjogdGhpcy5fYXR0YWNrID0gZnJhbWVzOyBicmVhazsKICAgICAgICBjYXNlICJodXJ0IjogdGhpcy5faHVydCA9IGZyYW1lczsgYnJlYWs7CiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh3aWR0aCA+IG1heCkK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIEdmeEVudGl0eVN0YXRlLklkbGU6IGFuaW1TdHJpbmcgPSAiaWRsZSI7IGJyZWFrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRleHQud2lkCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYW5pbVN0cmluZyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search>qwe</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern>qwe</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -652,19 +652,18 @@
         <entry>modifiers</entry>
         <entry>retVal</entry>
         <entry>all</entry>
-        <entry>qwe</entry>
         <entry>private</entry>
         <entry>pixi</entry>
         <entry>document.body.append</entry>
         <entry>Height</entry>
         <entry>-</entry>
+        <entry>qwe</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL2N0eC5wbGF5ZXIvZW5teS9n</entry>
         <entry encoding="base64">IHc=</entry>
-        <entry>.w</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>d</entry>
@@ -673,12 +672,13 @@
         <entry>qaa</entry>
         <entry>qa</entry>
         <entry>wj</entry>
-        <entry>Lw</entry>
         <entry>vsp</entry>
         <entry>ws</entry>
         <entry>redo</entry>
         <entry encoding="base64">JzwsJz5zL0hlaWdodC9XaWR0aC9n</entry>
         <entry encoding="base64">JzwsJz5zLy0vL2c=</entry>
+        <entry>.w</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
