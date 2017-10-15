@@ -411,12 +411,12 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" timestamp="1508094588513">
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" timestamp="1508097821398">
         <mark key="'" line="38" column="39" />
-        <mark key="[" line="27" column="89" />
-        <mark key="]" line="27" column="90" />
-        <mark key="." line="27" column="90" />
-        <mark key="^" line="28" column="20" />
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/index.ts" timestamp="1507184909208">
         <mark key="'" line="18" column="9" />
@@ -1549,10 +1549,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICAgICAgcnNoID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>canvas</text>
+        <text>cons</text>
       </register>
       <register name="/" type="4">
         <text>scale</text>
@@ -1561,31 +1561,31 @@
         <text encoding="base64">ICAgICAgcGl2b3RYOiAwLjUsCiAgICAgIHBpdm90WTogMSwKICAgICAgYW5jaG9yWDogMCwKICAgICAgYW5jaG9yWTogMG8sCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICAgICAgcnNoID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBJWEkuc2V0dGluZ3MuU0NBTEVfTU9ERSA9IFBJWEkuU0NBTEVfTU9ERVMuTkVBUkVTVDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFBJWEkuc2V0dGluZ3MuU0NBTEVfTU9ERSA9IFBJWEkuU0NBTEVfTU9ERVMuTkVBUkVTVDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3ByaXRlSWQ6YW4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5oaXRGcmFtZUlkeCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3ByaXRlSWQ6YW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5oaXRGcmFtZUlkeCA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1624,7 +1624,6 @@
         <entry>scale</entry>
       </history-search>
       <history-cmd>
-        <entry>d</entry>
         <entry>split</entry>
         <entry>qaa</entry>
         <entry>qa</entry>
@@ -1643,6 +1642,7 @@
         <entry>W</entry>
         <entry encoding="base64">Pnc=</entry>
         <entry>we</entry>
+        <entry>wss</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
