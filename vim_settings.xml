@@ -79,11 +79,11 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/bat.ts" timestamp="1507491590404">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="30" column="20" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/bat.ts" timestamp="1508087503586">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/looting/looting.ts" timestamp="1507701206734">
         <mark key="[" line="14" column="5" />
@@ -195,12 +195,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" timestamp="1508049499286">
-        <mark key="'" line="2" column="87" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="161" column="37" />
-        <mark key="." line="22" column="28" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" timestamp="1508087175109">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" timestamp="1507700441375">
         <mark key="'" line="41" column="0" />
@@ -358,12 +357,9 @@
         <mark key="^" line="6" column="43" />
         <mark key="." line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" timestamp="1507940230927">
-        <mark key="'" line="111" column="2" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" timestamp="1508087451523">
+        <mark key="'" line="132" column="2" />
+        <mark key="^" line="107" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/utils/utils.ts" timestamp="1506743629568">
         <mark key="'" line="7" column="0" />
@@ -419,12 +415,12 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" timestamp="1507491479341">
-        <mark key="'" line="33" column="19" />
-        <mark key="[" line="63" column="15" />
-        <mark key="]" line="63" column="28" />
-        <mark key="." line="63" column="28" />
-        <mark key="^" line="63" column="28" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" timestamp="1508087278902">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="65" column="27" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="65" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/resources/elements/item-card.html" timestamp="1507701410143">
         <mark key="'" line="4" column="17" />
@@ -482,10 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" />
-      <jump line="35" column="30" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" />
-      <jump line="6" column="35" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/data/enemy-pools/bat-pool.ts" />
       <jump line="24" column="19" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/rng-tables/rng-table.ts" />
       <jump line="5" column="7" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/data/game-stages.ts" />
       <jump line="9" column="9" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/data/item-pools/pool1.ts" />
@@ -582,6 +574,10 @@
       <jump line="115" column="10" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="166" column="33" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="2" column="87" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="40" column="28" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
+      <jump line="54" column="13" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1529,53 +1525,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zcHJpdGUuZ290b0FuZFBsYXkoMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Dire Wolf</text>
       </register>
       <register name="-" type="4">
-        <text>this._sprite.position.x = 630;</text>
+        <text>Dire Wolf</text>
       </register>
       <register name="/" type="4">
-        <text>attack</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5fYW5pbS5zY2FsZS54ID0gMjsKICAgICAgdGhpcy5fYW5pbS5hbmltYXRpb25TcGVlZCA9IDAuNTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zcHJpdGUuZ290b0FuZFBsYXkoMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zcHJpdGUuZ290b0FuZFBsYXkoMik7Cg==</text>
+        <text encoding="base64">CiAgICBpZiAocmVzdWx0LnR5cGUgPT0gU3VibWl0TW92ZVJlc3VsdFR5cGVzLkV4Y2VlZHNNYXhBUCkgewogICAgICB0aGlzLmxvZygiTW92ZXMgZXhjZWVkIG1heGltdW0gQVAiKQogICAgfSBlbHNlIHsKICAgICAgaWYgKCEhcmVzdWx0LmFjdGlvbnMpIHsKICAgICAgICBmb3IobGV0IGEgb2YgcmVzdWx0LmFjdGlvbnMpIHsKICAgICAgICAgIGlmIChhLmRtZyAhPSAwKSB7CiAgICAgICAgICAgIHRoaXMubG9nKGAke2EuY2FzdGVyLm5hbWV9IHVzZWQgJHthLm1vdmVOYW1lfSBvbiAke2EudGFyZ2V0WzBdLm5hbWV9IGZvciAke2EuZG1nfWRtZ2ApCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLmxvZyhgJHthLmNhc3Rlci5uYW1lfSB1c2VkICR7YS5tb3ZlTmFtZX1gKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSB0aGlzLl9zcHJpdGUucG9zaXRpb24ueCA9IDYzMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgaWYgKHRoaXMuZGVmLmxvYyA9PSBHZnhMb2MuUmlnaHQpIHsKICAgICAgdGhpcy5fc3ByaXRlLnNjYWxlLnggPSAtMjsKICAgICAgaWYgKHRoaXMuZGVmLmlkeCA9PSAwKSB0aGlzLl9zcHJpdGUucG9zaXRpb24ueCA9IDYzMDsKICAgICAgZWxzZSBpZiAodGhpcy5kZWYuaWR4ID09IDEpIHRoaXMuX3Nwcml0ZS5wb3NpdGlvbi54ID0gNTgwOwogICAgICBlbHNlIGlmICh0aGlzLmRlZi5pZHggPT0gMikgdGhpcy5fc3ByaXRlLnBvc2l0aW9uLnggPSA2MzA7CiAgICAgIHRoaXMuX3Nwcml0ZS5wb3NpdGlvbi55ID0gMTUwICsgKHRoaXMuZGVmLmlkeCAqIDEwMCk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLl9zcHJpdGUuc2NhbGUueCA9IDI7CiAgICAgIHRoaXMuX3Nwcml0ZS5wb3NpdGlvbi54ID0gMTcwOwogICAgICB0aGlzLl9zcHJpdGUucG9zaXRpb24ueSA9IDI1MDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGVja1Jlc3VsdCgpOwogICAgICB0aGlzLnF1ZXVlZE1vdmVzID0gW107CiAgICAgIHRoaXMucXVldWVkTW92ZSA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmRlZi5sb2MgPT0gR2Z4TG9jLlJpZ2h0KSB7CiAgICAgIHRoaXMuX3Nwcml0ZS5zY2FsZS54ID0gLTI7CiAgICAgIGlmICh0aGlzLmRlZi5pZHggPT0gMCkgdGhpcy5fc3ByaXRlLnBvc2l0aW9uLnggPSA2MzA7CiAgICAgIGVsc2UgaWYgKHRoaXMuZGVmLmlkeCA9PSAxKSB0aGlzLl9zcHJpdGUucG9zaXRpb24ueCA9IDU4MDsKICAgICAgZWxzZSBpZiAodGhpcy5kZWYuaWR4ID09IDIpIHRoaXMuX3Nwcml0ZS5wb3NpdGlvbi54ID0gNjMwOwogICAgICB0aGlzLl9zcHJpdGUucG9zaXRpb24ueSA9IDE1MCArICh0aGlzLmRlZi5pZHggKiAxMDApOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5fc3ByaXRlLnNjYWxlLnggPSAyOwogICAgICB0aGlzLl9zcHJpdGUucG9zaXRpb24ueCA9IDE3MDsKICAgICAgdGhpcy5fc3ByaXRlLnBvc2l0aW9uLnkgPSAyNTA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9nZS5hZGRFbnRpdHkoewogICAgICAgICAgaWQ6IGUuc3ByaXRlSWQsCiAgICAgICAgICB1aWQ6IGUudWlkLAogICAgICAgICAgaWR4OiBlaWR4LAogICAgICAgICAgbG9jOiBHZnhMb2MuUmlnaHQKICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zcHJpdGUuY3VycmVudEZyYW1lID0gMTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fZ2UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fc3ByaXRlLmN1cnJlbnRGcmFtZSA9IDI7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5iYXR0bGVFbmdpbmUuY3R4LmVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>attack</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>attack</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -1583,7 +1579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submit</entry>
         <entry>GameState</entry>
         <entry>Lootentry</entry>
         <entry>gold</entry>
@@ -1603,6 +1598,7 @@
         <entry>onFrameChange</entry>
         <entry>witchState</entry>
         <entry>attack</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IHc=</entry>
@@ -1621,10 +1617,10 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>W</entry>
         <entry>ws</entry>
-        <entry>&quot;w</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>&quot;w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
