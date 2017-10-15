@@ -124,11 +124,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-sprite-data.ts" timestamp="1508088335282">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="14" column="8" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-sprite-data.ts" timestamp="1508089808934">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.js" timestamp="1506749732167">
         <mark key="[" line="20" column="29" />
@@ -194,12 +194,11 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" timestamp="1508088290073">
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" timestamp="1508089600684">
         <mark key="'" line="6" column="23" />
-        <mark key="[" line="79" column="59" />
-        <mark key="]" line="79" column="60" />
-        <mark key="." line="79" column="60" />
-        <mark key="^" line="79" column="60" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" timestamp="1507005864359">
         <mark key="'" line="64" column="0" />
@@ -411,11 +410,12 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" timestamp="1508087983932">
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" timestamp="1508089623349">
         <mark key="'" line="37" column="2" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="59" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/index.ts" timestamp="1507184909208">
         <mark key="'" line="18" column="9" />
@@ -1547,11 +1547,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEdmeExvYw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3ByaXRlSWQ6YW4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEdmeExvYw==</text>
+        <text>hitFrameIdx</text>
       </register>
       <register name="/" type="4">
         <text>Def</text>
@@ -1560,31 +1560,31 @@
         <text encoding="base64">ICAgICAgcGl2b3RYOiAwLjUsCiAgICAgIHBpdm90WTogMSwKICAgICAgYW5jaG9yWDogMCwKICAgICAgYW5jaG9yWTogMG8sCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJpZGxlIjogewogICAgICBwaXZvdDogWyAwLCAwIF0sCiAgICAgIGFuY2hvcjogWyAwLjUsICAwIF0sCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4CiAgICB9LAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3ByaXRlSWQ6YW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhdHRhY2siOiB7CiAgICAgIHBpdm90WDogMC41LAogICAgICBwaXZvdFk6IDEsCiAgICAgIGFuY2hvclg6IDAsCiAgICAgIGFuY2hvclk6IDAsCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4CiAgICB9LAogICAgImh1cnQiOiB7CiAgICAgIHBpdm90WDogMC41LAogICAgICBwaXZvdFk6IDEsCiAgICAgIGFuY2hvclg6IDAsCiAgICAgIGFuY2hvclk6IDAsCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5oaXRGcmFtZUlkeCA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYW5jaG9yWTogMCwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGl2b3RZOiAxLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGl2b3RYOiAwLjUsCg==</text>
+        <text encoding="base64">ICAgICAgICBkbWdGcmFtZTogMiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmNob3JZOiBudW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgICJpZGxlIjogewogICAgICBwaXZvdDogWyAwLCAwIF0sCiAgICAgIGFuY2hvcjogWyAwLjUsICAwIF0sCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4CiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwaXZvdFk6IGVudTsK</text>
+        <text encoding="base64">ICAgICJhdHRhY2siOiB7CiAgICAgIHBpdm90WDogMC41LAogICAgICBwaXZvdFk6IDEsCiAgICAgIGFuY2hvclg6IDAsCiAgICAgIGFuY2hvclk6IDAsCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4CiAgICB9LAogICAgImh1cnQiOiB7CiAgICAgIHBpdm90WDogMC41LAogICAgICBwaXZvdFk6IDEsCiAgICAgIGFuY2hvclg6IDAsCiAgICAgIGFuY2hvclk6IDAsCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhdHRhY2siOiB7CiAgICAgIHBpdm90WDogMC41LAogICAgICBwaXZvdFk6IDEsCiAgICAgIGFuY2hvclg6IDAsCiAgICAgIGFuY2hvclk6IDBvLAogICAgICBhbmltYXRpb25TcGVlZDogMC4wOAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgYW5jaG9yWTogMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcGl2b3RZOiAxLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1623,11 +1623,9 @@
         <entry>Def</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">IHc=</entry>
         <entry>wq</entry>
         <entry>d</entry>
         <entry>split</entry>
-        <entry>we</entry>
         <entry>qaa</entry>
         <entry>qa</entry>
         <entry>wj</entry>
@@ -1637,11 +1635,13 @@
         <entry>.w</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>W</entry>
         <entry>ws</entry>
         <entry>ew</entry>
         <entry>vsp</entry>
         <entry>&quot;w</entry>
+        <entry>w2</entry>
+        <entry>W</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
