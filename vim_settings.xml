@@ -33,6 +33,9 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1508109196334">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/engine/items/equipment.ts" timestamp="1506744600760">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="10" column="1" />
@@ -73,11 +76,11 @@
         <mark key="." line="12" column="82" />
         <mark key="^" line="12" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.scss" timestamp="1508105732782">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="6" />
-        <mark key="^" line="37" column="6" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.scss" timestamp="1508110856506">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/generation/item-pool-factory.ts" timestamp="1507617034661">
         <mark key="[" line="7" column="24" />
@@ -110,12 +113,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" timestamp="1508106245309">
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" timestamp="1508111258829">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="77" />
-        <mark key="." line="15" column="77" />
-        <mark key="^" line="15" column="77" />
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="^" line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/test/unit/engine/engine.spec.ts" timestamp="1506891863279">
         <mark key="'" line="8" column="0" />
@@ -130,12 +133,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-sprite-data.ts" timestamp="1508094133433">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.js" timestamp="1506749732167">
         <mark key="[" line="20" column="29" />
@@ -201,6 +198,9 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-objects.ts" timestamp="1508109354228">
+        <mark key="'" line="153" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" timestamp="1508106697551">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="8" column="0" />
@@ -214,18 +214,12 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" timestamp="1508087175109">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" timestamp="1507700441375">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="27" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" timestamp="1508111211728">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="35" column="27" />
-        <mark key="." line="35" column="27" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/data/game-stages.json" timestamp="1507175594422">
         <mark key="[" line="7" column="40" />
@@ -289,11 +283,11 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-moves/magic-amp.ts" timestamp="1507489895896">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-moves/magic-amp.ts" timestamp="1508109260344">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/items/template-factory.ts.js" timestamp="1507617807735">
         <mark key="[" line="6" column="57" />
@@ -341,12 +335,12 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" timestamp="1508108588920">
-        <mark key="'" line="56" column="4" />
-        <mark key="[" line="2" column="64" />
-        <mark key="]" line="2" column="62" />
-        <mark key="." line="2" column="62" />
-        <mark key="^" line="2" column="62" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" timestamp="1508110558179">
+        <mark key="'" line="38" column="32" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="8" />
+        <mark key="." line="56" column="25" />
+        <mark key="^" line="37" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/json-module.ts" timestamp="1507173281160">
         <mark key="[" line="3" column="1" />
@@ -377,11 +371,18 @@
         <mark key="^" line="6" column="43" />
         <mark key="." line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" timestamp="1508106947539">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" timestamp="1508112155117">
+        <mark key="'" line="48" column="55" />
+        <mark key="[" line="116" column="35" />
+        <mark key="]" line="117" column="45" />
+        <mark key="." line="117" column="45" />
+        <mark key="^" line="117" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/goblin-warrior.ts" timestamp="1508110579670">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl/src/utils/utils.ts" timestamp="1506743629568">
         <mark key="'" line="7" column="0" />
@@ -437,6 +438,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-moves/magic-bolt.spec.ts" timestamp="1508109467443">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/items/equipment.ts" timestamp="1507701361402">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="17" column="26" />
@@ -444,12 +451,12 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" timestamp="1508107936101">
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" timestamp="1508109652543">
         <mark key="'" line="60" column="19" />
-        <mark key="[" line="51" column="60" />
-        <mark key="]" line="51" column="51" />
-        <mark key="^" line="51" column="51" />
-        <mark key="." line="51" column="51" />
+        <mark key="[" line="69" column="80" />
+        <mark key="]" line="69" column="81" />
+        <mark key="^" line="69" column="81" />
+        <mark key="." line="69" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/resources/elements/item-card.html" timestamp="1507701410143">
         <mark key="'" line="4" column="17" />
@@ -491,6 +498,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-moves/magic-amp.spec.ts" timestamp="1508109328951">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/enemies/enemy-factory.ts" timestamp="1508107976097">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="1" column="7" />
@@ -513,30 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.scss" />
-      <jump line="0" column="4" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.scss" />
-      <jump line="3" column="4" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/looting/looting.html" />
-      <jump line="44" column="13" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/items/equipment.ts" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/items/equipment.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/items/equipment.ts" />
-      <jump line="4" column="17" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/resources/elements/item-card.html" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/modifier.ts" />
-      <jump line="103" column="2" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
-      <jump line="19" column="1" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/ffrl-gfx.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/ffrl-gfx.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/ffrl-gfx.ts" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/ffrl-gfx.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/ffrl-gfx.ts" />
-      <jump line="34" column="9" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/aurelia_project/aurelia.json" />
-      <jump line="123" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/aurelia_project/aurelia.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/index.html" />
-      <jump line="31" column="18" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
-      <jump line="26" column="7" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
-      <jump line="122" column="21" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="127" column="4" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="14" column="2" filename="C:/s/ffrl/app/components/version/interpolate-filter_test.js" />
       <jump line="64" column="9" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
@@ -594,7 +583,6 @@
       <jump line="76" column="37" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
       <jump line="44" column="16" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
-      <jump line="43" column="13" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
       <jump line="36" column="15" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" />
       <jump line="60" column="19" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
       <jump line="43" column="36" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" />
@@ -613,6 +601,31 @@
       <jump line="40" column="25" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-engine.spec.ts" />
+      <jump line="32" column="5" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/battle-engine/battle-moves/magic-amp.spec.ts" />
+      <jump line="57" column="16" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-objects.ts" />
+      <jump line="149" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-objects.ts" />
+      <jump line="10" column="28" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" />
+      <jump line="31" column="5" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" />
+      <jump line="77" column="2" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="79" column="6" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="17" column="34" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="38" column="32" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-engine.ts" />
+      <jump line="88" column="26" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="127" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="86" column="37" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="4" column="7" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="13" column="28" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="77" column="0" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/game/game-objects.ts" />
+      <jump line="93" column="6" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="40" column="9" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="20" column="42" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="41" column="11" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="42" column="23" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="47" column="13" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="48" column="55" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1561,52 +1574,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmFjdGlvbnNbMF0ubW92ZU5hbWUpLnRvLmJlLmVxKCJhdHRhY2siKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMucGxheWluZ0FuaW1hdGlvbiA9IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFN1Ym1pdE1vdmVSZXN1bHQ=</text>
+        <text>basic-attack</text>
       </register>
       <register name="/" type="4">
-        <text>caster</text>
+        <text>queuedMove</text>
       </register>
       <register name="0" type="4">
         <text>4px 4px black,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmFjdGlvbnNbMF0ubW92ZU5hbWUpLnRvLmJlLmVxKCJhdHRhY2siKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMucGxheWluZ0FuaW1hdGlvbiA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmFjdGlvbnNbMF0udHlwZSkudG8uYmUuZXEoU3VibWl0TW92ZUFjdGlvblR5cGVzLkhpdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZlLmNhc3RlciA9IAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXVlZE1vdmUgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnR5cGUpLnRvLmJlLmVxKFN1Ym1pdE1vdmVSZXN1bHRUeXBlcy5WYWxpZCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2dlLnN1Ym1pdE1vdmVzKHJlc3VsdC5hY3Rpb25zLCAoKSA9PiB7CiAgICAgIHRoaXMucGxheWluZ0FuaW1hdGlvbiA9IGZhbHNlOwogICAgICB0aGlzLmNoZWNrUmVzdWx0KCk7CiAgICAgIHRoaXMucXVldWVkTW92ZSA9IG51bGw7CiAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">aW1wb3J0IHtCYXR0bGVNb3ZlfSBmcm9tICIuLi8uLi8uLi8uLi9iYXR0bGUtZW5naW5lL3NyYy9iYXR0bGUtZW5naW5lL2JhdHRsZS1vYmplY3RzIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZHgsIHRhcmdldCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0KCJTaG91bGQgbm90IGFsbG93IGEgcGxheWVyIHRvIG1ha2UgbW9yZSBtb3ZlcyB0aGFuIGFsbG93ZWQgYnkgdGhlaXIgbWF4IEFQIiwgKCkgPT4gewogICAgICAgIGNvbnN0IGVuZ2luZSA9IG5ldyBCYXR0bGVFbmdpbmUoKTsKICAgICAgICBjb25zdCBiYXR0bGVDdHggPSBnZXRNb2NrQ29udGV4dCgpOwogICAgICAgIGNvbnN0IGJhdHRsZVByb21pc2UgPSBlbmdpbmUuaW5pdChiYXR0bGVDdHgpOwoKICAgICAgICBiYXR0bGVDdHgucGxheWVyLmhlYWx0aCA9IDIwOwogICAgICAgIGJhdHRsZUN0eC5lbmVtaWVzWzBdLmhlYWx0aCA9IDIwMDsKCiAgICAgICAgY29uc3QgbW92ZXMgPSBbXTsKICAgICAgICBmb3IobGV0IGkgPSAwOyBpIDwgMzsgaSsrKSB7CiAgICAgICAgICAgIGNvbnN0IG1vdmUgPSBuZXcgQmFzaWNBdHRhY2soKTsKICAgICAgICAgICAgbW92ZS5zZXRUYXJnZXQoYmF0dGxlQ3R4LmVuZW1pZXMpOwogICAgICAgICAgICBtb3Zlcy5wdXNoKG1vdmUpOwogICAgICAgIH0KICAgICAgICBjb25zdCByZXN1bHQgPSBlbmdpbmUuc3VibWl0TW92ZXMobW92ZXMpOwoKICAgICAgICBleHBlY3QocmVzdWx0LnR5cGUpLnRvLmJlLmVxdWFsKFN1Ym1pdE1vdmVSZXN1bHRUeXBlcy5FeGNlZWRzTWF4QVApOwogICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5xdWV1ZWRNb3ZlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0KCJTaG91bGQgcmVzdWx0IGluIGEgbG9zcyBpZiB0aGUgcGxheWVycyBoZWFsdGggaXMgbGVzcyB0aGFuIDAiLCAoKSA9PiB7CiAgICAgICAgY29uc3QgZW5naW5lID0gbmV3IEJhdHRsZUVuZ2luZSgpOwogICAgICAgIGNvbnN0IGJhdHRsZUN0eCA9IGdldE1vY2tDb250ZXh0KCk7CiAgICAgICAgY29uc3QgYmF0dGxlUHJvbWlzZSA9IGVuZ2luZS5pbml0KGJhdHRsZUN0eCk7CgogICAgICAgIGJhdHRsZUN0eC5wbGF5ZXIuaGVhbHRoID0gMjA7CiAgICAgICAgYmF0dGxlQ3R4LmVuZW1pZXNbMF0uaGVhbHRoID0gMjAwOwoKICAgICAgICBmb3IobGV0IGkgPSAwOyBpIDwgODsgaSsrKSB7CiAgICAgICAgICAgIGNvbnN0IG1vdmUgPSBuZXcgQmFzaWNBdHRhY2soKTsKICAgICAgICAgICAgbW92ZS5zZXRUYXJnZXQoaSAlIDIgPT0gMCA/IGJhdHRsZUN0eC5lbmVtaWVzIDogW2JhdHRsZUN0eC5wbGF5ZXJdKTsKICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gZW5naW5lLnN1Ym1pdE1vdmVzKFttb3ZlXSk7CiAgICAgICAgICAgIGV4cGVjdChyZXN1bHQudHlwZSkudG8uYmUuZXEoU3VibWl0TW92ZVJlc3VsdFR5cGVzLlZhbGlkKTsKICAgICAgICB9CgogICAgICAgIGV4cGVjdChlbmdpbmUucmVzdWx0LnJlc3VsdFR5cGUpLnRvLmJlLmVxdWFsKEJhdHRsZVJlc3VsdFR5cGVzLkxvc3MpOwogICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYmF0dGxlRW5naW5lLmN0eC5lbmVtaWVzWzBdLnF1ZXVlZE1vdmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>caster</last-search>
+      <last-search>queuedMove</last-search>
       <last-offset />
-      <last-pattern>caster</last-pattern>
+      <last-pattern>queuedMove</last-pattern>
       <last-replace>rgba(0, 0, 0, 0.5)</last-replace>
       <last-substitute>black</last-substitute>
       <last-dir>1</last-dir>
@@ -1614,14 +1627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Height</entry>
-        <entry>-</entry>
-        <entry>qwe</entry>
-        <entry>_idle</entry>
-        <entry>onFrameChange</entry>
-        <entry>witchState</entry>
-        <entry>attack</entry>
-        <entry>name</entry>
         <entry>PIXI</entry>
         <entry>Def</entry>
         <entry>scale</entry>
@@ -1634,6 +1639,14 @@
         <entry>checkWin</entry>
         <entry>caster =</entry>
         <entry>caster</entry>
+        <entry>isVal</entry>
+        <entry>tick</entry>
+        <entry>ai</entry>
+        <entry>TopLev</entry>
+        <entry>createMove</entry>
+        <entry>submitAction</entry>
+        <entry>console</entry>
+        <entry>queuedMove</entry>
       </history-search>
       <history-cmd>
         <entry>wj</entry>
@@ -1650,11 +1663,11 @@
         <entry>wss</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3JnYmEoMCwgMCwgMCwgMC41KS9n</entry>
-        <entry>ws</entry>
         <entry>Lw</entry>
         <entry>&quot;w</entry>
-        <entry>W</entry>
         <entry>es</entry>
+        <entry>W</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
