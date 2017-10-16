@@ -134,6 +134,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-sprite-data.ts" timestamp="1508128447280">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/src/engine/battle-moves/basic-attack.js" timestamp="1506749732167">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="26" />
@@ -198,14 +204,15 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-objects.ts" timestamp="1508109354228">
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/node_modules/ffrl-core/src/battle-engine/battle-objects.ts" timestamp="1508128367123">
         <mark key="'" line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" timestamp="1508106697551">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" timestamp="1508128443058">
+        <mark key="'" line="18" column="11" />
+        <mark key="[" line="66" column="43" />
+        <mark key="]" line="66" column="59" />
+        <mark key="." line="66" column="59" />
+        <mark key="^" line="66" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/test/unit/engine/engine.spec.ts" timestamp="1507005864359">
         <mark key="'" line="64" column="0" />
@@ -526,10 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="4" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
-      <jump line="14" column="2" filename="C:/s/ffrl/app/components/version/interpolate-filter_test.js" />
-      <jump line="64" column="9" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="97" column="17" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/graphics-engine.ts" />
@@ -558,7 +561,6 @@
       <jump line="99" column="27" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
       <jump line="112" column="19" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
       <jump line="122" column="29" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
       <jump line="108" column="19" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
       <jump line="121" column="19" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
       <jump line="38" column="39" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
@@ -626,6 +628,11 @@
       <jump line="42" column="23" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
       <jump line="47" column="13" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
       <jump line="48" column="55" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.ts" />
+      <jump line="67" column="25" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
+      <jump line="128" column="45" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
+      <jump line="38" column="11" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
+      <jump line="100" column="37" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
+      <jump line="18" column="11" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1573,53 +1580,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGxheWluZ0FuaW1hdGlvbiA9IHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.sprite.pivot.x, this.sprite.pivot.y</text>
       </register>
       <register name="-" type="4">
-        <text>basic-attack</text>
+        <text>this.sprite.pivot.x, this.sprite.pivot.y</text>
       </register>
       <register name="/" type="4">
-        <text>queuedMove</text>
+        <text>effectSprite</text>
       </register>
-      <register name="0" type="4">
-        <text>4px 4px black,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZm9yKGxldCBpID0gMDsgaSA8IDk7IGkrKykgewogICAgICAgIGNvbnN0IHNuID0gYCR7dGhpcy5kZWYuaWR9LSR7YW5pbVN0cmluZ30wJHtpICsgMX0ucG5nYDsKICAgICAgICBpZiAoKDxhbnk+UElYSSkuVGV4dHVyZUNhY2hlW3NuXSkgewogICAgICAgICAgY29uc3QgdGV4dCA9IFBJWEkuVGV4dHVyZS5mcm9tRnJhbWUoc24pOwogICAgICAgICAgaWYgKHRleHQuaGVpZ2h0ID4gbWF4SGVpZ2h0KSBtYXhIZWlnaHQgPSB0ZXh0LmhlaWdodDsKICAgICAgICAgIGZyYW1lcy5wdXNoKHRleHQpOwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGxheWluZ0FuaW1hdGlvbiA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9lZmZlY3RTcHJpdGUuZGVzdHJveSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXVlZE1vdmUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9lZmZlY3RTcHJpdGUuc3RvcCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9lZmZlY3RTcHJpdGUuc3RvcCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2dlLnN1Ym1pdE1vdmVzKHJlc3VsdC5hY3Rpb25zLCAoKSA9PiB7CiAgICAgIHRoaXMucGxheWluZ0FuaW1hdGlvbiA9IGZhbHNlOwogICAgICB0aGlzLmNoZWNrUmVzdWx0KCk7CiAgICAgIHRoaXMucXVldWVkTW92ZSA9IG51bGw7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtCYXR0bGVNb3ZlfSBmcm9tICIuLi8uLi8uLi8uLi9iYXR0bGUtZW5naW5lL3NyYy9iYXR0bGUtZW5naW5lL2JhdHRsZS1vYmplY3RzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZHgsIHRhcmdldCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5xdWV1ZWRNb3ZlKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2VmZmVjdFNwcml0ZS5waXZvdC5zZXQodGhpcy5zcHJpdGUucGl2b3QueCwgdGhpcy5zcHJpdGUucGl2b3QueSk7CiAgICB0aGlzLl9lZmZlY3RTcHJpdGUucGxheSgpOwogICAgdGhpcy5fY29udGFpbmVyLmFkZENoaWxkKHRoaXMuX2VmZmVjdFNwcml0ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYmF0dGxlRW5naW5lLmN0eC5lbmVtaWVzWzBdLnF1ZXVlZE1vdmUpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2VmZmVjdFNwcml0ZS5waXZvdC5zZXQodGhpcy5zcHJpdGUucGl2b3QueCwgdGhpcy5zcHJpdGUucGl2b3QueSk7CiAgICB0aGlzLl9lZmZlY3RTcHJpdGUucGxheSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>queuedMove</last-search>
+      <last-search>effectSprite</last-search>
       <last-offset />
-      <last-pattern>queuedMove</last-pattern>
+      <last-pattern>effectSprite</last-pattern>
       <last-replace>rgba(0, 0, 0, 0.5)</last-replace>
       <last-substitute>black</last-substitute>
       <last-dir>1</last-dir>
@@ -1627,8 +1634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PIXI</entry>
-        <entry>Def</entry>
         <entry>scale</entry>
         <entry>black</entry>
         <entry>init</entry>
@@ -1647,6 +1652,8 @@
         <entry>submitAction</entry>
         <entry>console</entry>
         <entry>queuedMove</entry>
+        <entry>onFrameChange</entry>
+        <entry>effectSprite</entry>
       </history-search>
       <history-cmd>
         <entry>wj</entry>
@@ -1661,13 +1668,13 @@
         <entry encoding="base64">Pnc=</entry>
         <entry>we</entry>
         <entry>wss</entry>
-        <entry>split</entry>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3JnYmEoMCwgMCwgMCwgMC41KS9n</entry>
         <entry>Lw</entry>
         <entry>&quot;w</entry>
         <entry>es</entry>
-        <entry>W</entry>
         <entry>ws</entry>
+        <entry>W</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
