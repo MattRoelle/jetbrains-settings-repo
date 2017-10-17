@@ -431,12 +431,12 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" timestamp="1508215269257">
-        <mark key="'" line="67" column="24" />
-        <mark key="[" line="90" column="28" />
-        <mark key="]" line="90" column="28" />
-        <mark key="." line="90" column="28" />
-        <mark key="^" line="90" column="28" />
+      <file name="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" timestamp="1508217263394">
+        <mark key="'" line="164" column="6" />
+        <mark key="[" line="231" column="19" />
+        <mark key="]" line="231" column="19" />
+        <mark key="." line="231" column="19" />
+        <mark key="^" line="231" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/s/ffrl/battle-engine/index.ts" timestamp="1507184909208">
         <mark key="'" line="18" column="9" />
@@ -539,9 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" />
-      <jump line="8" column="11" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/routes/battle/battle.html" />
-      <jump line="46" column="49" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
       <jump line="76" column="37" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-entity.ts" />
@@ -639,6 +636,9 @@
       <jump line="86" column="40" filename="$USER_HOME$/Documents/s/ffrl/battle-engine/src/battle-engine/battle-objects.ts" />
       <jump line="67" column="24" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
       <jump line="2" column="36" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/app.scss" />
+      <jump line="160" column="25" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
+      <jump line="105" column="15" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
+      <jump line="163" column="6" filename="$USER_HOME$/Documents/s/ffrl/ffrl-client/src/graphics/gfx-engine.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1587,52 +1587,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSAgewogIGZvbnQtZmFtaWx5OiAiZmZmb3J3YXJkIjsKICBzcmM6IHVybCgiL3NyYy9hc3NldHMvZm9udHMvc2xrc2NyYi5UVEYiKTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>goblin-warrior</text>
+        <text>easeOut</text>
       </register>
       <register name="/" type="4">
-        <text>ender</text>
+        <text>Power2</text>
       </register>
       <register name="0" type="4">
         <text>this.sprite.position.x + Math.random() * opts.randomPosBounds</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSAgewogIGZvbnQtZmFtaWx5OiAiZmZmb3J3YXJkIjsKICBzcmM6IHVybCgiL3NyYy9hc3NldHMvZm9udHMvc2xrc2NyYi5UVEYiKTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9udFdlaWdodDogImJvbGQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzdGVyLmF0dGFjayhvbk1vdmVGaW5pc2gpOwogICAgICAgICAgICBjYXN0ZXIuaGl0RnJhbWVJZHggPSBnZnhTcHJpdGVEYXRhW2Nhc3Rlci5kZWYuaWRdWyJhdHRhY2siXS5kbWdGcmFtZTsKCiAgICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICAgICAgdGhpcy5yZW5kZXJEbWcoYS50YXJnZXRbMF0udWlkLCBhLmRtZyk7CiAgICAgICAgICAgICAgfSwgMTAwKTsKICAgICAgICAgICAgICB0YXJnZXQuZWZmZWN0KCJwdW5jaCIsIHsKICAgICAgICAgICAgICAgIHJhbmRvbVBvc0JvdW5kczogMjAsCiAgICAgICAgICAgICAgICBzY2FsZTogWzAuOCwgMC44XSwKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICAgIHRhcmdldC5oaXQoNzAwKTsKICAgICAgICAgICAgICB9LCA1MCk7CiAgICAgICAgICAgIH0sIDEwMCk7CgogICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICB0YXJnZXQuZWZmZWN0KCJwdW5jaCIsIHsKICAgICAgICAgICAgICAgIHJhbmRvbVBvc0JvdW5kczogMjAsCiAgICAgICAgICAgICAgICBzY2FsZTogWzAuOCwgMC44XSwKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICAgIHRoaXMucmVuZGVyRG1nKGEudGFyZ2V0WzBdLnVpZCwgYS5kbWcpOwogICAgICAgICAgICAgIH0sIDEwMCk7CiAgICAgICAgICAgIH0sIDM1MCk7CgogICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICAgIHRoaXMucmVuZGVyRG1nKGEudGFyZ2V0WzBdLnVpZCwgYS5kbWcpOwogICAgICAgICAgICAgIH0sIDEwMCk7CiAgICAgICAgICAgICAgdGFyZ2V0LmVmZmVjdCgicHVuY2giLCB7CiAgICAgICAgICAgICAgICByYW5kb21Qb3NCb3VuZHM6IDIwLAogICAgICAgICAgICAgICAgc2NhbGU6IFswLjgsIDAuOF0sCiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0sIDYwMCk7CgogICAgICAgICAgICBjYXN0ZXIuaGl0RnJhbWVDYiA9ICgpID0+IHsKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">aW1wb3J0IEN1YmljID0gZ3NhcC5DdWJpYzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIml0ZW1EYXRhIjogeyAibmFtZSI6ICJnb2JsaW4td2FycmlvciIgfSwKICAgICAgICAgICAgICAgICJpc0d1YXJhbnRlZWQiOiB0cnVlCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Z3NhcC5Qb3dlcjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiZ29ibGluLXdhcnJpb3IiOiBnb2JsaW5XYXJyaW9yCg==</text>
+        <text encoding="base64">ZGVjbGFyZSB2YXIgQmFjazogZ3NhcC5CYWNrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGdvYmxpbldhcnJpb3IgZnJvbSAiLi9nb2JsaW4td2FycmlvciI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZ29ibGluLXdhcnJpb3IiOiB7CiAgICAiaWRsZSI6IHsKICAgICAgcGl2b3Q6IFsgMCwgMCBdLAogICAgICBhbmNob3I6IFsgMC41LCAgMSBdLAogICAgICBhbmltYXRpb25TcGVlZDogMC4wOAogICAgfSwKICAgICJhdHRhY2siOiB7CiAgICAgIHBpdm90OiBbIDIsIDAgXSwKICAgICAgYW5jaG9yOiBbIDAuNSwgIDEgXSwKICAgICAgZG1nRnJhbWU6IDIsCiAgICAgIGFuaW1hdGlvblNwZWVkOiAwLjA4CiAgICB9LAogICAgImh1cnQiOiB7CiAgICAgIHBpdm90OiBbIDAsIC0xNCBdLAogICAgICBhbmNob3I6IFsgMC41LCAgMSBdLAogICAgICBhbmltYXRpb25TcGVlZDogMC4wOAogICAgfSwKICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIml0ZW1EYXRhIjogeyAibmFtZSI6ICJnb2JsaW4td2FycmlvciIgfSwKICAgICAgICAgICAgICAgICJpc0d1YXJhbnRlZWQiOiB0cnVlCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlID0gbmV3IFBJWEkuVGV4dFN0eWxlKHsKICAgICAgZm9udEZhbWlseTogImZmZm9yd2FyZCIsCiAgICAgIGZvbnRTaXplOiAxMjgsCiAgICAgIGxlYWRpbmc6IDEwLAogICAgICBmaWxsOiBbIiNmZmZmZmYiLCAiI2ZmZmZmZiJdLCAvLyBncmFkaWVudAogICAgICBzdHJva2U6ICIjMDAwMDAwIiwKICAgICAgc3Ryb2tlVGhpY2tuZXNzOiA0CiAgICB9KTsKCiAgICBjb25zdCB0ZXh0ID0gbmV3IFBJWEkuVGV4dChkbWcudG9TdHJpbmcoKSwgc3R5bGUpOwogICAgdGV4dC5zY2FsZS5zZXQoMC4xMjUsIDAuMTI1KTsKCiAgICB0aGlzLl9waXhpQXBwLnN0YWdlLmFkZENoaWxkKHRleHQpOwogICAgY29uc3Qgc3ggPSBlbnQuc3ByaXRlLnBvc2l0aW9uLnggLSAyICsgKE1hdGgucmFuZG9tKCkqMjApIC0gMTA7CiAgICBjb25zdCBzeSA9IGVudC5zcHJpdGUucG9zaXRpb24ueSAtIDM4OwoKICAgIGNvbnN0IHR3ZWVuID0gVHdlZW5MaXRlLmZyb21Ubyh0ZXh0LnBvc2l0aW9uLCAwLjY1LCB7CiAgICAgIHg6IHN4LAogICAgICB5OiBzeSwKICAgICAgLy9lYXNlOiBCYWNrLmVhc2VJbk91dC5jb25maWcoMSkKICAgIH0sIHsKICAgICAgeDogc3gsCiAgICAgIHk6IHN5ICsgNDMsCiAgICAgIGVhc2U6IEJhY2suZWFzZUluT3V0LmNvbmZpZygxLjMpCiAgICB9KTsKCiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgdGhpcy5fcGl4aUFwcC5zdGFnZS5yZW1vdmVDaGlsZCh0ZXh0KTsKICAgIH0sIDE1MDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnJlbmRlckRtZyhhLnRhcmdldFswXS51aWQsIGEuZG1nKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlID0gbmV3IFBJWEkuVGV4dFN0eWxlKHsKICAgICAgZm9udEZhbWlseTogImZmZm9yd2FyZCIsCiAgICAgIGZvbnRTaXplOiAxMjgsCiAgICAgIGxlYWRpbmc6IDEwLAogICAgICBmaWxsOiBbIiNmZmZmZmYiLCAiI2ZmZmZmZiJdLCAvLyBncmFkaWVudAogICAgICBzdHJva2U6ICIjMDAwMDAwIiwKICAgICAgc3Ryb2tlVGhpY2tuZXNzOiA0CiAgICB9KTsKCiAgICBjb25zdCB0ZXh0ID0gbmV3IFBJWEkuVGV4dChkbWcudG9TdHJpbmcoKSwgc3R5bGUpOwogICAgdGV4dC5zY2FsZS5zZXQoMC4xMjUsIDAuMTI1KTsKCiAgICB0aGlzLl9waXhpQXBwLnN0YWdlLmFkZENoaWxkKHRleHQpOwogICAgY29uc3Qgc3ggPSBlbnQuc3ByaXRlLnBvc2l0aW9uLnggLSAyICsgKE1hdGgucmFuZG9tKCkqMjApIC0gMTA7CiAgICBjb25zdCBzeSA9IGVudC5zcHJpdGUucG9zaXRpb24ueSAtIDM4OwoKICAgIGNvbnN0IHR3ZWVuID0gVHdlZW5MaXRlLmZyb21Ubyh0ZXh0LnBvc2l0aW9uLCAwLjY1LCB7CiAgICAgIHg6IHN4LAogICAgICB5OiBzeSwKICAgICAgLy9lYXNlOiBCYWNrLmVhc2VJbk91dC5jb25maWcoMSkKICAgIH0sIHsKICAgICAgeDogc3gsCiAgICAgIHk6IHN5ICsgNDMsCiAgICAgIGVhc2U6IEJhY2suZWFzZUluT3V0LmNvbmZpZygxLjMpCiAgICB9KTsKCiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgdGhpcy5fcGl4aUFwcC5zdGFnZS5yZW1vdmVDaGlsZCh0ZXh0KTsKICAgIH0sIDE1MDApOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ender</last-search>
+      <last-search>Power2</last-search>
       <last-offset />
-      <last-pattern>ender</last-pattern>
+      <last-pattern>Power2</last-pattern>
       <last-replace>spr</last-replace>
       <last-substitute>this._effectSprite</last-substitute>
       <last-dir>1</last-dir>
@@ -1640,7 +1640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>queuedMove</entry>
         <entry>onFrameChange</entry>
         <entry>effectSprite</entry>
@@ -1660,6 +1659,7 @@
         <entry>render</entry>
         <entry>mg</entry>
         <entry>ender</entry>
+        <entry>Power2</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy0vL2c=</entry>
