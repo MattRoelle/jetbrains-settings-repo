@@ -123,11 +123,11 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPAExportService.cs" timestamp="1508435996793">
+      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPAExportService.cs" timestamp="1508521563926">
         <mark key="'" line="37" column="8" />
-        <mark key="[" line="52" column="40" />
-        <mark key="]" line="52" column="38" />
-        <mark key="." line="52" column="38" />
+        <mark key="[" line="52" column="38" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
