@@ -53,7 +53,6 @@
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D910B69-74D7-45ED-AFCF-CC758962A330/d6/d245e340/RAContextAuthenticationOptions.cs" timestamp="1508180303614" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" timestamp="1507832593673">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="38" />
@@ -103,12 +102,6 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/PmtScheduleBackfiller/PmtScheduleBackfiller/Program.cs" timestamp="1508446684740">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-        <mark key="^" line="43" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/s/OFPL/ra.services.financialcalc/RA.ClientProxy.FinancialService/IFinancialCalcServiceProxy.cs" timestamp="1507244796762">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="33" column="99" />
@@ -119,9 +112,9 @@
       <file name="$USER_HOME$/RiderProjects/PmtScheduleBackfiller/PmtScheduleBackfiller/input" timestamp="1508439944261">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPAExportService.cs" timestamp="1508521563926">
         <mark key="'" line="37" column="8" />
@@ -245,7 +238,6 @@
         <mark key="." line="117" column="78" />
         <mark key="^" line="117" column="78" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/532157A3-AAE3-4025-8238-C2C7869562C5/55/426f8866/RAHttpClient.cs" timestamp="1508272723746" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1508271147975">
         <mark key="'" line="735" column="63" />
         <mark key="[" line="25" column="0" />
