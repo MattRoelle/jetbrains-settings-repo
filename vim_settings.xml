@@ -33,12 +33,24 @@
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="52" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem3.cs" timestamp="1508873260922">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/HPAServiceTests.cs" timestamp="1508272050344">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="14" />
         <mark key="^" line="42" column="14" />
         <mark key="." line="42" column="14" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem7.cs" timestamp="1508873699395">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/HPAFinancialSummaryDto.cs" timestamp="1508270862009">
         <mark key="[" line="8" column="19" />
@@ -88,6 +100,13 @@
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/BondService.cs" timestamp="1508351881614">
         <mark key="'" line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1508874474972">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1507579888758">
         <mark key="[" line="16" column="24" />
@@ -174,6 +193,12 @@
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem5.cs" timestamp="1508873122492">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/AlterGetPrincipalBalanceStoredProcForIndentureCAPI.sql" timestamp="1507678237356">
         <mark key="[" line="0" column="0" />
@@ -348,9 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="769" column="56" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="83" column="16" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="221" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="166" column="60" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="80" column="50" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/M20170922145430_ModifyGetPrincipalBalanceStoredProcToAccountForNoFATrans.sql" />
@@ -448,63 +470,65 @@
       <jump line="37" column="8" filename="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPAExportService.cs" />
       <jump line="43" column="114" filename="$USER_HOME$/RiderProjects/PmtScheduleBackfiller/PmtScheduleBackfiller/Program.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/PmtScheduleBackfiller/PmtScheduleBackfiller/input" />
+      <jump line="32" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="6" column="1062" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="16" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MzgyODQyCjM3MjU0NQozODA2OTMK</text>
+      <register name="&quot;" type="4">
+        <text>Insert</text>
       </register>
       <register name="-" type="4">
-        <text>loan</text>
+        <text>Insert</text>
       </register>
       <register name="/" type="4">
-        <text>Javas</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MzgyODQyCjM3MjU0NQozODA2OTMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsLkNhbGMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUobGdlc3RJZHgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY2FwaSA9IHBzLkNBUEkuR2V0VmFsdWVPckRlZmF1bHQoMG0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlcmVzdCArPSBjYXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKHZhciBpID0gbGdlc3RJZHgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY2FwaSA9IHBzLkNBUEkuR2V0VmFsdWVPckRlZmF1bHQoMG0pLlRvU3RyaW5nKCJOIik7CiAgICAgICAgICAgICAgICAgICAgdmFyIHRvdGFsID0gcHMuVG90YWxQYXltZW50LlZhbHVlOwogICAgICAgICAgICAgICAgICAgIHZhciBpbnRlcmVzdCA9IHBzLkludGVyZXN0LkdldFZhbHVlT3JEZWZhdWx0KDBtKTsKICAgICAgICAgICAgICAgICAgICB2YXIgcHJpbiA9IHRvdGFsIC0gaW50ZXJlc3Q7CiAgICAgICAgICAgICAgICAgICAgdmFyIGFkbWluID0gcHMuQWRtaW5GZWUuVmFsdWU7CiAgICAgICAgICAgICAgICAgICAgdmFyIGRhdGUgPSBwcy5QYXltZW50RGF0ZS5WYWx1ZS5Ub1N0cmluZygiZCIpOwogICAgICAgICAgICAgICAgICAgIC8vQ29uc29sZS5Xcml0ZUxpbmUoJCJ7ZGF0ZX1cdHtwcmlufVx0e2ludGVyZXN0fVx0e2NhcGl9XHR7YWRtaW59XHR7dG90YWx9Iik7CiAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoJCJ7cHMuUGF5bWVudERhdGUuVmFsdWUuVG9TdHJpbmcoImQiKX1cdHtwcy5Ub3RhbFBheW1lbnQuVmFsdWV9XHQke3BzLlByaW5jaXBhbC5WYWx1ZX1cdHtwcy5JbnRlcmVzdC5WYWx1ZX1cdHtwcy5DQVBJLlZhbHVlfSIpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcHJpbiA9IHBzLlByaW5jaXBhbC5HZXRWYWx1ZU9yRGVmYXVsdCgwbSkuVG9TdHJpbmcoIk4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaW50ZXJlc3QgPSBwcy5JbnRlcmVzdC5HZXRWYWx1ZU9yRGVmYXVsdCgwbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGdlc3RQcm9kdWN0ID0gbnVtcy5BZ2dyZWdhdGUoKHgsIHkpID0+IHggKiB5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKERhdGVUaW1lLk5vdyAtIChEYXRlVGltZSkgbGlua2VkTG9hbi5EYXRhLkZpbmFuY2luZ1Rlcm1zLkZ1bmRlZERhdGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5Ub3RhbERheXMgLyAzNjUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAodmFyIGogPSBpOyBqIDwgaSArIDEzOyBqKyspCiAgICAgICAgICAgICAgICB7CgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bVF1ZXVlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhwYUxvYW4uRmluYW5jaW5nVGVybXMuUmVtYWluaW5nVGVybSA9IChpbnQpIE1hdGguUm91bmQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5b2ZmSW5mby5UZXJtTGVuZ3RoIC0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKERhdGVUaW1lLk5vdyAtIChEYXRlVGltZSkgbGlua2VkTG9hbi5EYXRhLkZpbmFuY2luZ1Rlcm1zLkZ1bmRlZERhdGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5Ub3RhbERheXMgLyAzNjUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpICsgMTMgPiBTZWFyY2hUZXh0Lkxlbmd0aCkgYnJlYWs7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Javas</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>Javas</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace />
-      <last-substitute>Data\.</last-substitute>
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Ammend</entry>
         <entry>Amendrem</entry>
         <entry>Amendre</entry>
         <entry>Amend</entry>
@@ -518,16 +542,15 @@
         <entry>0</entry>
         <entry>uth</entry>
         <entry>raProxyMock.Setup</entry>
-        <entry>Data\.</entry>
         <entry>Logger</entry>
         <entry>NL</entry>
         <entry>response.Loan</entry>
         <entry>Source</entry>
         <entry>Javas</entry>
+        <entry>Data\.</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
-        <entry>split</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0FwcGxpZWRQcmluY2lwYWwvQW5udWFsUGF5bWVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL0FubnVhbC9Nb250aGx5L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
@@ -545,6 +568,8 @@
         <entry encoding="base64">JzwsJz5zL0RhdGFcLi8vZw==</entry>
         <entry>W</entry>
         <entry>qa</entry>
+        <entry>s</entry>
+        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
