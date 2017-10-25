@@ -203,6 +203,9 @@
         <mark key="." line="109" column="107" />
         <mark key="^" line="109" column="107" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" timestamp="1508956575998">
+        <mark key="'" line="12" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/ModifyCustomerInquiryTableInSupportOfSFIntegration.cs" timestamp="1507062184053">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="3" />
@@ -247,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="31" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
       <jump line="12" column="5" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
@@ -347,6 +349,7 @@
       <jump line="124" column="107" filename="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" />
       <jump line="91" column="65" filename="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" />
       <jump line="27" column="7" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="12" column="44" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -379,7 +382,7 @@
         <text>,,,,</text>
       </register>
       <register name="/" type="4">
-        <text>Monthly</text>
+        <text>ADMIN_RESERVE</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IH0s</text>
@@ -416,9 +419,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Monthly</last-search>
+      <last-search>ADMIN_RESERVE</last-search>
       <last-offset />
-      <last-pattern>Monthly</last-pattern>
+      <last-pattern>ADMIN_RESERVE</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -426,7 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Select</entry>
         <entry>services.Add</entry>
         <entry>OperationFilt</entry>
         <entry>ag</entry>
@@ -446,6 +448,7 @@
         <entry encoding="base64">IA==</entry>
         <entry>TotalMonthlyPayment</entry>
         <entry>Monthly</entry>
+        <entry>ADMIN_RESERVE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
