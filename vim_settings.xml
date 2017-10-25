@@ -131,12 +131,12 @@
       <file name="/Dummy.txt" timestamp="1508955074840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1508885618936">
-        <mark key="'" line="8" column="7" />
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="30" column="9" />
-        <mark key="." line="30" column="9" />
-        <mark key="^" line="30" column="9" />
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1508964686133">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1507579888758">
         <mark key="[" line="16" column="24" />
@@ -244,17 +244,14 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem12.cs" timestamp="1508964445407">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="5" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
-      <jump line="105" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
-      <jump line="11" column="5" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/BondController.cs" />
-      <jump line="15" column="5" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/HealthCheckController.cs" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/LoanController.cs" />
-      <jump line="12" column="5" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/LoanController.cs" />
-      <jump line="43" column="24" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/LockBoxController.cs" />
-      <jump line="12" column="5" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/LockBoxController.cs" />
       <jump line="32" column="29" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" />
       <jump line="9" column="5" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" />
       <jump line="58" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/LockBoxController.cs" />
@@ -338,7 +335,6 @@
       <jump line="16" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="43" column="17" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="30" column="20" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
-      <jump line="8" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="15" column="38" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="24" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem3.cs" />
       <jump line="122" column="77" filename="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" />
@@ -346,6 +342,16 @@
       <jump line="91" column="65" filename="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" />
       <jump line="27" column="7" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="12" column="44" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" />
+      <jump line="39" column="15" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="14" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="41" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="7" column="4" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="36" column="41" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="12" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="11" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="105" column="49" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="8" column="5087" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="23" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -375,10 +381,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,,,,</text>
+        <text>dFirstTriangleNumberWith500Divisors()</text>
       </register>
       <register name="/" type="4">
-        <text>ADMIN_RESERVE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IH0s</text>
@@ -387,38 +393,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHBhTG9hbi5GaW5hbmNpbmdUZXJtcy5PcmlnaW5hbEFtb3VudEZpbmFuY2VkID0gcGF5b2ZmSW5mby47Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHBhTG9hbi5GaW5hbmNpbmdUZXJtcy5PcmlnaW5hbEFtb3VudEZpbmFuY2VkID0gKGRlY2ltYWwpbGlua2VkTG9hbi5EYXRhLkZpbmFuY2luZ1Rlcm1zLkZ1bmRlZEFtb3VudDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyBsb25nIEZpcnN0VHJpYW5nbGVOdW1iZXJXaXRoNTAwRGl2aXNvcnMoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGkgPSAwOwogICAgICAgICAgICB3aGlsZSAodHJ1ZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHRyaU51bSA9IFRyaWFuZ2xlTnVtYmVyKGkpOwogICAgICAgICAgICAgICAgaWYgKE5EaXZpc29ycyh0cmlOdW0pID49IDUwMCkgcmV0dXJuIHRyaU51bTsKICAgICAgICAgICAgICAgIGkrKzsKICAgICAgICAgICAgfQogICAgICAgIH0KCgogICAgICAgIHB1YmxpYyBzdGF0aWMgbG9uZyBUcmlhbmdsZU51bWJlcihsb25nIG4pCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbiAqIChuICsgMSkgLyAyOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBpbnQgTkRpdmlzb3JzKGxvbmcgbikKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtYXggPSBNYXRoLlNxcnQobik7CiAgICAgICAgICAgIHZhciBkaXZpc29ycyA9IDA7CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAxOyBpIDwgbWF4OyBpKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmIChuICUgaSA9PSAwKSBkaXZpc29ycyArPSAyOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChuICUgbWF4ID09IDApIGRpdmlzb3JzKys7CiAgICAgICAgICAgIHJldHVybiBkaXZpc29yczsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG4pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKHZhciApCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBheW1lbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ADMIN_RESERVE</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>ADMIN_RESERVE</last-pattern>
-      <last-replace>,</last-replace>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
@@ -441,10 +447,10 @@
         <entry>Javas</entry>
         <entry>Data\.</entry>
         <entry>ayment</entry>
-        <entry encoding="base64">IA==</entry>
         <entry>TotalMonthlyPayment</entry>
         <entry>Monthly</entry>
         <entry>ADMIN_RESERVE</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
@@ -462,10 +468,10 @@
         <entry encoding="base64">JzwsJz5zL0RhdGFcLi8vZw==</entry>
         <entry>qa</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLyAvLC9n</entry>
         <entry>w3</entry>
+        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
