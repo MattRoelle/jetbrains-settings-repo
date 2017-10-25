@@ -83,6 +83,7 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Dto.HPA/PdfTemplateRequest.cs" timestamp="1508956001614" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="31" />
@@ -107,6 +108,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Dto.HPA/LoanDetailsDto.cs" timestamp="1508955127125">
+        <mark key="[" line="19" column="126" />
+        <mark key="]" line="19" column="129" />
+        <mark key="^" line="19" column="129" />
+        <mark key="." line="19" column="129" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem10.cs" timestamp="1508883503752">
         <mark key="[" line="8" column="27" />
@@ -173,14 +180,17 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" timestamp="1508884614752">
+      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" timestamp="1508955566980">
         <mark key="'" line="91" column="65" />
-        <mark key="[" line="121" column="86" />
-        <mark key="]" line="121" column="106" />
-        <mark key="." line="121" column="106" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
         <mark key="^" line="121" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/BaseTest.cs" timestamp="1508870915647" />
+      <file name="/Dummy.txt" timestamp="1508955074840">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI.cs" timestamp="1507679064967">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="9" column="36" />
@@ -362,53 +372,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IH0s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,,,,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Monthly</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IH0s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHBhTG9hbi5GaW5hbmNpbmdUZXJtcy5PcmlnaW5hbEFtb3VudEZpbmFuY2VkID0gcGF5b2ZmSW5mby47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHBhTG9hbi5GaW5hbmNpbmdUZXJtcy5PcmlnaW5hbEFtb3VudEZpbmFuY2VkID0gKGRlY2ltYWwpbGlua2VkTG9hbi5EYXRhLkZpbmFuY2luZ1Rlcm1zLkZ1bmRlZEFtb3VudDsK</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHBhTG9hbi5GaW5hbmNpbmdUZXJtcy5PcmlnaW5hbEFtb3VudEZpbmFuY2VkID0gcGF5b2ZmSW5mby47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBheW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHBhTG9hbi5GaW5hbmNpbmdUZXJtcy5PcmlnaW5hbEFtb3VudEZpbmFuY2VkID0gKGRlY2ltYWwpbGlua2VkTG9hbi5EYXRhLkZpbmFuY2luZ1Rlcm1zLkZ1bmRlZEFtb3VudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBheW1lbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoU3VtUHJpbWVzKDEwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoU3VtUHJpbWVzKDIwMDAwMDApKTsK</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>Monthly</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern>Monthly</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -416,8 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Amendre</entry>
-        <entry>Amend</entry>
         <entry>Select</entry>
         <entry>services.Add</entry>
         <entry>OperationFilt</entry>
@@ -436,6 +444,8 @@
         <entry>Data\.</entry>
         <entry>ayment</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>TotalMonthlyPayment</entry>
+        <entry>Monthly</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1ByaW5jaXBhbEJhbGFuY2UvQW5udWFsUGF5bWVudC9n</entry>
