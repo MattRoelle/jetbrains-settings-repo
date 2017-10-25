@@ -9,7 +9,7 @@
         <mark key="." line="49" column="90" />
         <mark key="^" line="49" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/HPAService.cs" timestamp="1508884103332">
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/HPAService.cs" timestamp="1508886869091">
         <mark key="[" line="69" column="58" />
         <mark key="]" line="69" column="70" />
         <mark key="." line="69" column="70" />
@@ -402,7 +402,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoU3VtUHJpbWVzKDIwMDAwMDApKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w3</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -456,8 +456,8 @@
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLyAvLC9n</entry>
-        <entry>w</entry>
         <entry>w3</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -489,6 +489,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
