@@ -63,12 +63,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509046662940">
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509047972589">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="68" column="22" />
-        <mark key="^" line="68" column="22" />
-        <mark key="." line="68" column="22" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1507579888758">
         <mark key="[" line="16" column="24" />
@@ -400,7 +399,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>class</text>
@@ -412,16 +411,16 @@
         <text encoding="base64">IH0s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -430,13 +429,13 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpYW5nbGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKHZhciBpID0gMDsgaSA8IHRyaWFuZ2xlLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJpYW5nbGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKHZhciBpID0gMDsgaSA8IHRyaWFuZ2xlLikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
