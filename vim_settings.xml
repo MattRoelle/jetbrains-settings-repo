@@ -123,10 +123,11 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" timestamp="1508955566980">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" timestamp="1509038348038">
+        <mark key="[" line="78" column="70" />
+        <mark key="]" line="78" column="70" />
+        <mark key="." line="78" column="70" />
+        <mark key="^" line="78" column="70" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem17.cs" timestamp="1508977970158">
         <mark key="[" line="10" column="27" />
@@ -411,11 +412,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoInQxIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHx8IGhwYUxvYW4uUHJvcGVydHkuQWRkcmVzcy5TdGF0ZSA9PSAiTU8iKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>RIGHT</text>
+        <text encoding="base64">IHx8IGhwYUxvYW4uUHJvcGVydHkuQWRkcmVzcy5TdGF0ZSA9PSAiTU8iKQ==</text>
       </register>
       <register name="/" type="4">
         <text>Xx</text>
