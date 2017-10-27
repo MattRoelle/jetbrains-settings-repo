@@ -57,6 +57,9 @@
         <mark key="." line="63" column="56" />
         <mark key="^" line="63" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlePolicy.cs" timestamp="1509136124760">
+        <mark key="'" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/HPAFinancialSummaryDto.cs" timestamp="1508884515707">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="58" />
@@ -123,12 +126,14 @@
         <mark key="." line="198" column="31" />
         <mark key="^" line="198" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/364155B4-F690-42F2-B102-B419BA74D640/73/edf4f735/IOperations2Proxy.cs" timestamp="1509039930773" />
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/attributes/datepicker.ts" timestamp="1509061903584">
         <mark key="'" line="5" column="1" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlingOptions.cs" timestamp="1509136861410" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" timestamp="1509059016557">
         <mark key="[" line="47" column="88" />
         <mark key="]" line="47" column="87" />
@@ -140,6 +145,14 @@
         <mark key="]" line="85" column="17" />
         <mark key="^" line="85" column="17" />
         <mark key="." line="85" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" timestamp="1509136755918">
+        <mark key="'" line="27" column="45" />
+        <mark key="[" line="34" column="0" />
+        <mark key="k" line="67" column="8" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="51" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
         <mark key="[" line="8" column="31" />
@@ -177,18 +190,6 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1509056053137">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="109" column="20" />
-        <mark key="]" line="109" column="20" />
-        <mark key="." line="109" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" timestamp="1509057248073">
-        <mark key="'" line="110" column="50" />
-        <mark key="[" line="261" column="16" />
-        <mark key="]" line="261" column="16" />
-        <mark key="." line="261" column="16" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem14.cs" timestamp="1508969180344">
         <mark key="[" line="9" column="27" />
@@ -308,6 +309,9 @@
         <mark key="." line="937" column="81" />
         <mark key="^" line="937" column="81" />
       </file>
+      <file name="/Dummy.txt" timestamp="1509136455725">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI.cs" timestamp="1507679064967">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="9" column="36" />
@@ -407,15 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="31" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" />
-      <jump line="25" column="36" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="47" column="20" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" />
-      <jump line="24" column="17" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/LockBoxServiceTests.cs" />
-      <jump line="529" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/LockBoxServiceTests.cs" />
-      <jump line="75" column="45" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/LockBoxServiceTests.cs" />
-      <jump line="110" column="50" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" />
       <jump line="76" column="24" filename="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" />
       <jump line="428" column="61" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/LockBoxServiceTests.cs" />
       <jump line="513" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/LockBoxServiceTests.cs" />
@@ -507,6 +502,15 @@
       <jump line="123" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="72" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="24" column="45" filename="$USER_HOME$/Documents/s/EPL/fsp.services.admin/FSP.Services.API.Admin/Web.config" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlePolicy.cs" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlePolicy.cs" />
+      <jump line="26" column="20" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
+      <jump line="65" column="16" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
+      <jump line="17" column="86" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
+      <jump line="19" column="22" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
+      <jump line="37" column="40" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
+      <jump line="27" column="45" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
+      <jump line="51" column="37" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -541,14 +545,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>SampleDefinition</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SampleDefinition</text>
       </register>
       <register name="/" type="4">
-        <text>onSel</text>
+        <text>ClientIp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZXF1aXJlIGZyb209Ii4uLy4uL3Jlc291cmNlcy9hdHRyaWJ1dGVzL2RhdGVwaWNrZXIiPjwvcmVxdWlyZT4KICAgIDxyZXF1aXJlIGZyb209Ii4uLy4uL3Jlc291cmNlcy9lbGVtZW50cy9zcGlubmVyL3NwaW5uZXIiPjwvcmVxdWlyZT4KICA8cmVxdWlyZSBmcm9tPSJmcmlkYXktcGlja2VyL2Nzcy9waWthZGF5LmNzcyI+PC9yZXF1aXJlPgo=</text>
@@ -560,34 +564,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gZmxhdHRlbmVyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH19Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gZmxhdHRlbmVyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3ROb2RlID0gQnVpbGRUcmlhbmdsZSh0cmlhbmdsZURlZmluaXRpb24pOwogICAgICAgICAgICByZXR1cm4gRmxhdHRlblRyZWUocm9vdE5vZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyaWFuZ2xlRGVmaW5pdGlvbiA9IEZpbGUuUmVhZEFsbFRleHQoIi4vRGF0YS9wcm9ibGVtNjcudHh0Iik7CiAgICAgICAgICAgIHZhciByb290Tm9kZSA9IEJ1aWxkVHJpYW5nbGUodHJpYW5nbGVEZWZpbml0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyBpbnQgRmxhdHRlblRyZWUoVHJpVHJlZU5vZGUgbm9kZSwgaW50IGRlcHRoID0gMCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChub2RlID09IG51bGwpIHJldHVybiAwOwogICAgICAgICAgICBpZiAobm9kZS5MZWZ0Q2hpbGQgPT0gbnVsbCAmJiBub2RlLlJpZ2h0Q2hpbGQgPT0gbnVsbCkgcmV0dXJuIG5vZGUuVmFsdWU7CgoKICAgICAgICAgICAgVHJpVHJlZU5vZGUgbmV3TGVmdCA9IG51bGwsIG5ld1JpZ2h0ID0gbnVsbDsKCiAgICAgICAgICAgIGlmIChub2RlLkxlZnRDaGlsZCAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXdMZWZ0ID0gbmV3IFRyaVRyZWVOb2RlKG5vZGUuVmFsdWUgKyBub2RlLkxlZnRDaGlsZC5WYWx1ZSk7CiAgICAgICAgICAgICAgICBuZXdMZWZ0LkxlZnRDaGlsZCA9IG5vZGUuTGVmdENoaWxkLkxlZnRDaGlsZDsKICAgICAgICAgICAgICAgIG5ld0xlZnQuUmlnaHRDaGlsZCA9IG5vZGUuTGVmdENoaWxkLlJpZ2h0Q2hpbGQ7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChub2RlLlJpZ2h0Q2hpbGQgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3UmlnaHQgPSBuZXcgVHJpVHJlZU5vZGUobm9kZS5WYWx1ZSArIG5vZGUuUmlnaHRDaGlsZC5WYWx1ZSk7CiAgICAgICAgICAgICAgICBuZXdSaWdodC5MZWZ0Q2hpbGQgPSBub2RlLlJpZ2h0Q2hpbGQuTGVmdENoaWxkOwogICAgICAgICAgICAgICAgbmV3UmlnaHQuUmlnaHRDaGlsZCA9IG5vZGUuUmlnaHRDaGlsZC5SaWdodENoaWxkOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gTWF0aC5NYXgoRmxhdHRlblRyZWUobmV3TGVmdCwgZGVwdGggKyAxKSwgRmxhdHRlblRyZWUobmV3UmlnaHQsIGRlcHRoICsgMSkpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBUcmlUcmVlTm9kZSBCdWlsZFRyaWFuZ2xlKHN0cmluZyBkZWYpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcm93cyA9IGRlZi5TcGxpdCgiXG4iKS5TZWxlY3QocyA9PiBzLlRyaW0oKSkuVG9BcnJheSgpOwogICAgICAgICAgICB2YXIgZGF0YSA9IG5ldyBpbnRbcm93cy5MZW5ndGhdW107CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcm93cy5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJvdyA9IHJvd3NbaV07CiAgICAgICAgICAgICAgICBkYXRhW2ldID0gcm93LlNwbGl0KCIgIikuU2VsZWN0KHMgPT4gQ29udmVydC5Ub0ludDMyKHMpKS5Ub0FycmF5KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBub2RlbWFwID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBUcmlUcmVlTm9kZT4oKTsKICAgICAgICAgICAgdmFyIHJvb3QgPSBCdWlsZFRyZWUoMCwgMCwgZGF0YSwgbm9kZW1hcCk7CiAgICAgICAgfQoKCiAgICAgICAgcHVibGljIHN0YXRpYyBUcmlUcmVlTm9kZSBCdWlsZFRyZWUoaW50IGksIGludCBqLCBpbnRbXVtdIGRhdGEsIERpY3Rpb25hcnk8c3RyaW5nLCBUcmlUcmVlTm9kZT4gZXhpc3RpbmdOb2RlcykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBrID0gJCJ7aX0te2p9IjsKCiAgICAgICAgICAgIGlmIChleGlzdGluZ05vZGVzLkNvbnRhaW5zS2V5KGspKSByZXR1cm4gZXhpc3RpbmdOb2Rlc1trXTsKCiAgICAgICAgICAgIHZhciBub2RlID0gbmV3IFRyaVRyZWVOb2RlKGRhdGFbaV1bal0pOwogICAgICAgICAgICBleGlzdGluZ05vZGVzW2tdID0gbm9kZTsKCiAgICAgICAgICAgIGlmIChpICsgMSA8IGRhdGEuTGVuZ3RoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBub2RlLkxlZnRDaGlsZCA9IEJ1aWxkVHJlZShpICsgMSwgaiwgZGF0YSwgZXhpc3RpbmdOb2Rlcyk7CiAgICAgICAgICAgICAgICBpZiAoaiArIDEgPCBkYXRhW2kgKyAxXS5MZW5ndGgpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbm9kZS5SaWdodENoaWxkID0gQnVpbGRUcmVlKGkgKyAxLCBqICsgMSwgZGF0YSwgZXhpc3RpbmdOb2Rlcyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBub2RlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3ROb2RlID0gQnVpbGRUcmlhbmdsZSh0cmlhbmdsZURlZmluaXRpb24pOwogICAgICAgICAgICByZXR1cm4gRmxhdHRlblRyZWUocm9vdE5vZGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onSel</last-search>
+      <last-search>ClientIp</last-search>
       <last-offset />
-      <last-pattern>onSel</last-pattern>
+      <last-pattern>ClientIp</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -595,9 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GetPrepaymentState</entry>
-        <entry>GetPrepaymentSatement(Payment</entry>
-        <entry>GetPrepaymentStat</entry>
         <entry>ayment</entry>
         <entry>input</entry>
         <entry>More O</entry>
@@ -615,6 +616,9 @@
         <entry>onBc</entry>
         <entry>bcd</entry>
         <entry>onSel</entry>
+        <entry>Handler</entry>
+        <entry>Name</entry>
+        <entry>ClientIp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vcy9YL1BheW1lbnRBbW91bnQv</entry>
@@ -627,7 +631,6 @@
         <entry>w3</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>ew</entry>
-        <entry>.w</entry>
         <entry>wqa</entry>
         <entry>ws</entry>
         <entry>qa</entry>
@@ -636,6 +639,7 @@
         <entry>LW</entry>
         <entry>we</entry>
         <entry>W</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
