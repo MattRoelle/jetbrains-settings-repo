@@ -98,10 +98,11 @@
         <mark key="^" line="87" column="82" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509126079672">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509132831401">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+        <mark key="^" line="44" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1509056091160">
         <mark key="[" line="17" column="0" />
@@ -133,6 +134,12 @@
         <mark key="]" line="47" column="87" />
         <mark key="." line="47" column="87" />
         <mark key="^" line="47" column="87" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem18.cs" timestamp="1509132061360">
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="17" />
+        <mark key="^" line="85" column="17" />
+        <mark key="." line="85" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
         <mark key="[" line="8" column="31" />
@@ -356,6 +363,11 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/problem67.txt" timestamp="1509129650295">
+        <mark key="[" line="99" column="299" />
+        <mark key="]" line="99" column="299" />
+        <mark key="." line="99" column="299" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507246568034">
         <mark key="[" line="27" column="51" />
         <mark key="]" line="27" column="63" />
@@ -395,11 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
-      <jump line="8" column="33" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
-      <jump line="797" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="35" column="17" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" />
       <jump line="206" column="58" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" />
       <jump line="30" column="31" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/LockBoxService.cs" />
@@ -495,6 +502,11 @@
       <jump line="44" column="55" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
       <jump line="80" column="19" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
       <jump line="70" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="69" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="114" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="48" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="123" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="72" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -529,11 +541,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vZGUgPSByb290Owo=</text>
+      <register name="&quot;" type="4">
+        <text>SampleDefinition</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5vZGVz</text>
+        <text>SampleDefinition</text>
       </register>
       <register name="/" type="4">
         <text>onSel</text>
@@ -542,31 +554,31 @@
         <text encoding="base64">ICAgIDxyZXF1aXJlIGZyb209Ii4uLy4uL3Jlc291cmNlcy9hdHRyaWJ1dGVzL2RhdGVwaWNrZXIiPjwvcmVxdWlyZT4KICAgIDxyZXF1aXJlIGZyb209Ii4uLy4uL3Jlc291cmNlcy9lbGVtZW50cy9zcGlubmVyL3NwaW5uZXIiPjwvcmVxdWlyZT4KICA8cmVxdWlyZSBmcm9tPSJmcmlkYXktcGlja2VyL2Nzcy9waWthZGF5LmNzcyI+PC9yZXF1aXJlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vZGUgPSByb290Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gZmxhdHRlbmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGsgPSAkImktaiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJpVHJlZU5vZGUgbm9kZTsKICAgICAgICAgICAgaWYgKG5vZGVzLkNvbnRhaW5zS2V5KGspKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBub2RlID0gbm9kZXNba107CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3ROb2RlID0gQnVpbGRUcmlhbmdsZSh0cmlhbmdsZURlZmluaXRpb24pOwogICAgICAgICAgICByZXR1cm4gRmxhdHRlblRyZWUocm9vdE5vZGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vZGVzID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBUcmlUcmVlTm9kZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyaWFuZ2xlRGVmaW5pdGlvbiA9IEZpbGUuUmVhZEFsbFRleHQoIi4vRGF0YS9wcm9ibGVtNjcudHh0Iik7CiAgICAgICAgICAgIHZhciByb290Tm9kZSA9IEJ1aWxkVHJpYW5nbGUodHJpYW5nbGVEZWZpbml0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVHJpVHJlZU5vZGUgUmlnaHRQYXJlbnQ7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyBpbnQgRmxhdHRlblRyZWUoVHJpVHJlZU5vZGUgbm9kZSwgaW50IGRlcHRoID0gMCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChub2RlID09IG51bGwpIHJldHVybiAwOwogICAgICAgICAgICBpZiAobm9kZS5MZWZ0Q2hpbGQgPT0gbnVsbCAmJiBub2RlLlJpZ2h0Q2hpbGQgPT0gbnVsbCkgcmV0dXJuIG5vZGUuVmFsdWU7CgoKICAgICAgICAgICAgVHJpVHJlZU5vZGUgbmV3TGVmdCA9IG51bGwsIG5ld1JpZ2h0ID0gbnVsbDsKCiAgICAgICAgICAgIGlmIChub2RlLkxlZnRDaGlsZCAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXdMZWZ0ID0gbmV3IFRyaVRyZWVOb2RlKG5vZGUuVmFsdWUgKyBub2RlLkxlZnRDaGlsZC5WYWx1ZSk7CiAgICAgICAgICAgICAgICBuZXdMZWZ0LkxlZnRDaGlsZCA9IG5vZGUuTGVmdENoaWxkLkxlZnRDaGlsZDsKICAgICAgICAgICAgICAgIG5ld0xlZnQuUmlnaHRDaGlsZCA9IG5vZGUuTGVmdENoaWxkLlJpZ2h0Q2hpbGQ7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChub2RlLlJpZ2h0Q2hpbGQgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3UmlnaHQgPSBuZXcgVHJpVHJlZU5vZGUobm9kZS5WYWx1ZSArIG5vZGUuUmlnaHRDaGlsZC5WYWx1ZSk7CiAgICAgICAgICAgICAgICBuZXdSaWdodC5MZWZ0Q2hpbGQgPSBub2RlLlJpZ2h0Q2hpbGQuTGVmdENoaWxkOwogICAgICAgICAgICAgICAgbmV3UmlnaHQuUmlnaHRDaGlsZCA9IG5vZGUuUmlnaHRDaGlsZC5SaWdodENoaWxkOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gTWF0aC5NYXgoRmxhdHRlblRyZWUobmV3TGVmdCwgZGVwdGggKyAxKSwgRmxhdHRlblRyZWUobmV3UmlnaHQsIGRlcHRoICsgMSkpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBUcmlUcmVlTm9kZSBCdWlsZFRyaWFuZ2xlKHN0cmluZyBkZWYpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcm93cyA9IGRlZi5TcGxpdCgiXG4iKS5TZWxlY3QocyA9PiBzLlRyaW0oKSkuVG9BcnJheSgpOwogICAgICAgICAgICB2YXIgZGF0YSA9IG5ldyBpbnRbcm93cy5MZW5ndGhdW107CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcm93cy5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJvdyA9IHJvd3NbaV07CiAgICAgICAgICAgICAgICBkYXRhW2ldID0gcm93LlNwbGl0KCIgIikuU2VsZWN0KHMgPT4gQ29udmVydC5Ub0ludDMyKHMpKS5Ub0FycmF5KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBub2RlbWFwID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBUcmlUcmVlTm9kZT4oKTsKICAgICAgICAgICAgdmFyIHJvb3QgPSBCdWlsZFRyZWUoMCwgMCwgZGF0YSwgbm9kZW1hcCk7CiAgICAgICAgfQoKCiAgICAgICAgcHVibGljIHN0YXRpYyBUcmlUcmVlTm9kZSBCdWlsZFRyZWUoaW50IGksIGludCBqLCBpbnRbXVtdIGRhdGEsIERpY3Rpb25hcnk8c3RyaW5nLCBUcmlUcmVlTm9kZT4gZXhpc3RpbmdOb2RlcykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBrID0gJCJ7aX0te2p9IjsKCiAgICAgICAgICAgIGlmIChleGlzdGluZ05vZGVzLkNvbnRhaW5zS2V5KGspKSByZXR1cm4gZXhpc3RpbmdOb2Rlc1trXTsKCiAgICAgICAgICAgIHZhciBub2RlID0gbmV3IFRyaVRyZWVOb2RlKGRhdGFbaV1bal0pOwogICAgICAgICAgICBleGlzdGluZ05vZGVzW2tdID0gbm9kZTsKCiAgICAgICAgICAgIGlmIChpICsgMSA8IGRhdGEuTGVuZ3RoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBub2RlLkxlZnRDaGlsZCA9IEJ1aWxkVHJlZShpICsgMSwgaiwgZGF0YSwgZXhpc3RpbmdOb2Rlcyk7CiAgICAgICAgICAgICAgICBpZiAoaiArIDEgPCBkYXRhW2kgKyAxXS5MZW5ndGgpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbm9kZS5SaWdodENoaWxkID0gQnVpbGRUcmVlKGkgKyAxLCBqICsgMSwgZGF0YSwgZXhpc3RpbmdOb2Rlcyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBub2RlOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -659,6 +671,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
