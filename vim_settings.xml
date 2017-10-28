@@ -76,7 +76,7 @@
         <mark key="." line="7" column="55" />
         <mark key="^" line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem67.cs" timestamp="1509139714758">
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem67.cs" timestamp="1509149657162">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="27" />
         <mark key="." line="35" column="27" />
@@ -117,11 +117,13 @@
         <mark key="^" line="87" column="82" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509145243117">
-        <mark key="[" line="22" column="0" />
-        <mark key="m" line="25" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509149859322">
+        <mark key="'" line="56" column="23" />
+        <mark key="[" line="56" column="29" />
+        <mark key="m" line="97" column="0" />
+        <mark key="]" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+        <mark key="^" line="56" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1509056091160">
         <mark key="[" line="17" column="0" />
@@ -142,7 +144,6 @@
         <mark key="." line="198" column="31" />
         <mark key="^" line="198" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/364155B4-F690-42F2-B102-B419BA74D640/73/edf4f735/IOperations2Proxy.cs" timestamp="1509039930773" />
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/attributes/datepicker.ts" timestamp="1509061903584">
         <mark key="'" line="5" column="1" />
         <mark key="[" line="19" column="0" />
@@ -156,7 +157,6 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlingOptions.cs" timestamp="1509136861410" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" timestamp="1509059016557">
         <mark key="[" line="47" column="88" />
         <mark key="]" line="47" column="87" />
@@ -211,7 +211,7 @@
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Services.HPA/Startup.cs" timestamp="1509136928718">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem10.cs" timestamp="1508883503752">
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem10.cs" timestamp="1509146111164">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
@@ -348,7 +348,7 @@
         <mark key="." line="937" column="81" />
         <mark key="^" line="937" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509143283266">
+      <file name="/Dummy.txt" timestamp="1509148929636">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
@@ -451,12 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
-      <jump line="22" column="11" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
-      <jump line="23" column="24" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
-      <jump line="24" column="28" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
-      <jump line="27" column="19" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
-      <jump line="32" column="5" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
       <jump line="33" column="5" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
       <jump line="41" column="18" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
       <jump line="46" column="16" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" />
@@ -551,6 +545,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/primes1.txt" />
       <jump line="249996" column="80" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/primes1.txt" />
       <jump line="9999" column="6" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/primes1.txt" />
+      <jump line="41" column="11" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="57" column="12" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="66" column="32" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="36" column="19" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="40" column="27" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="56" column="23" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -586,40 +586,40 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtleSA9ICQie01hdGguTWF4KG4sIG0pfS17TWF0aC5NaW4obiwgbSl9IjsK</text>
       </register>
       <register name="-" type="4">
-        <text>3000</text>
+        <text>, cache</text>
       </register>
       <register name="/" type="4">
-        <text>isInCAPI</text>
+        <text>p(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxyZXF1aXJlIGZyb209Ii4uLy4uL3Jlc291cmNlcy9hdHRyaWJ1dGVzL2RhdGVwaWNrZXIiPjwvcmVxdWlyZT4KICAgIDxyZXF1aXJlIGZyb209Ii4uLy4uL3Jlc291cmNlcy9lbGVtZW50cy9zcGlubmVyL3NwaW5uZXIiPjwvcmVxdWlyZT4KICA8cmVxdWlyZSBmcm9tPSJmcmlkYXktcGlja2VyL2Nzcy9waWthZGF5LmNzcyI+PC9yZXF1aXJlPgo=</text>
+      <register name="0" type="4">
+        <text>key = $&quot;{n},{m}&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtleSA9ICQie01hdGguTWF4KG4sIG0pfS17TWF0aC5NaW4obiwgbSl9IjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG4gPCBtKSBrZXkgPSAkIntufSx7bX0iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhY2hlID09IG51bGwpIGNhY2hlID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBsb25nPigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByaW1lcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bSA9IHN1bSArIHAobi1rLCBrKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtleSA9ICQie01hdGguTWF4KG4sIG0pfS17TWF0aC5NaW4obiwgbSl9IjsKICAgICAgICAgICAgaWYgKGFscmVhZHlDaGVja2VkLkNvbnRhaW5zS2V5KGtleSkpIHJldHVybiAwOwogICAgICAgICAgICBhbHJlYWR5Q2hlY2tlZFtrZXldID0gdHJ1ZTsKCiAgICAgICAgICAgIGlmIChtID4gbikgcmV0dXJuIHAobiwgbiwgYWxyZWFkeUNoZWNrZWQsIGNhY2hlKTsKCiAgICAgICAgICAgIHZhciBjYWNoZUtleSA9ICQie259LHttfSI7CiAgICAgICAgICAgIGlmIChjYWNoZS5Db250YWluc0tleShjYWNoZUtleSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBjYWNoZVtjYWNoZUtleV07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGxvbmcgc3VtID0gMDsKICAgICAgICAgICAgZm9yIChsb25nIGsgPSAxOyBrIDw9IG07IGsrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIG5rID0gbiAtIGs7CiAgICAgICAgICAgICAgICBpZiAoSXNQcmltZShrKSB8fCBJc1ByaW1lKG5rKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBzdW0gPSBzdW0gKyBwKG5rLCBrLCBhbHJlYWR5Q2hlY2tlZCwgY2FjaGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBjYWNoZVtjYWNoZUtleV0gPSBzdW07CgogICAgICAgICAgICByZXR1cm4gc3VtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoRXVsZXJVdGlscy5QcmltZXMoKVszXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAxNTQ4NTc4MyAgMTU0ODU4MDEgIDE1NDg1ODA3ICAxNTQ4NTgzNyAgMTU0ODU4NDMgIDE1NDg1ODQ5ICAxNTQ4NTg1NyAgMTU0ODU4NjMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG4gPD0gMSkgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -629,9 +629,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isInCAPI</last-search>
+      <last-search>p(</last-search>
       <last-offset />
-      <last-pattern>isInCAPI</last-pattern>
+      <last-pattern>p(</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -639,8 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>table</entry>
-        <entry>tableState</entry>
         <entry>spinner</entry>
         <entry>bcdChanged</entry>
         <entry>this.bcd =</entry>
@@ -659,13 +657,14 @@
         <entry>Throt</entry>
         <entry>Key</entry>
         <entry>isInCAPI</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>p(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1gvUGF5bWVudEFtb3VudC9n</entry>
         <entry encoding="base64">JzwsJz5zL1gvVGF4T3JDQVBJQ3JlZGl0cy9n</entry>
         <entry encoding="base64">JzwsJz5zLzAvbnVsbC9n</entry>
         <entry encoding="base64">JzwsJz5zL0RhdGFcLi8vZw==</entry>
-        <entry>s</entry>
         <entry encoding="base64">JzwsJz5zLyAvLC9n</entry>
         <entry>w3</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
@@ -676,10 +675,11 @@
         <entry>2w</entry>
         <entry>LW</entry>
         <entry>we</entry>
-        <entry>W</entry>
         <entry>.w</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>s</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
