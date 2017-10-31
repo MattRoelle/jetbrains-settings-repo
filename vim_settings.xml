@@ -71,11 +71,11 @@
         <mark key="." line="7" column="55" />
         <mark key="^" line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/lambda.tf" timestamp="1509475609986">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="13" column="48" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="13" column="48" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/lambda.tf" timestamp="1509478782383">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem67.cs" timestamp="1509149657162">
         <mark key="[" line="35" column="27" />
@@ -108,9 +108,6 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" timestamp="1509060810102">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem15.cs" timestamp="1508977480890">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
@@ -123,6 +120,13 @@
         <mark key="]" line="89" column="63" />
         <mark key="^" line="87" column="82" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" timestamp="1509481999290">
+        <mark key="'" line="44" column="7" />
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="64" column="19" />
+        <mark key="." line="64" column="19" />
+        <mark key="^" line="64" column="19" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509165014858">
         <mark key="'" line="56" column="23" />
@@ -215,9 +219,6 @@
         <mark key="^" line="19" column="129" />
         <mark key="." line="19" column="129" />
       </file>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Services.HPA/Startup.cs" timestamp="1509136928718">
-        <mark key="'" line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem10.cs" timestamp="1509146111164">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -292,12 +293,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" timestamp="1509475792053">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="32" column="17" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" timestamp="1509478760558">
+        <mark key="'" line="67" column="24" />
+        <mark key="[" line="73" column="33" />
+        <mark key="]" line="73" column="48" />
+        <mark key="^" line="73" column="48" />
+        <mark key="." line="73" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddAdminFeeToLoanAccountPaymentSchedule.cs" timestamp="1507571017366">
         <mark key="[" line="8" column="9" />
@@ -379,9 +380,6 @@
         <mark key="." line="109" column="107" />
         <mark key="^" line="109" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" timestamp="1508956575998">
-        <mark key="'" line="12" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/ApplyLockBoxPaymentDto.cs" timestamp="1509056105553">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="20" />
@@ -400,15 +398,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" timestamp="1509058552761">
-        <mark key="'" line="72" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" timestamp="1509477702532">
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" timestamp="1509478791983">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="41" column="2" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddNewCustomerInquiryTypesAndAdditionalFields.cs" timestamp="1507246406094">
         <mark key="[" line="12" column="42" />
@@ -429,11 +424,12 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/config.json" timestamp="1509475380905">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="28" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/config.json" timestamp="1509480584857">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507246568034">
         <mark key="[" line="27" column="51" />
@@ -474,20 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="16" column="40" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="17" column="137" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="36" column="19" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="34" column="4" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="25" column="82" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="659" column="44" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" />
-      <jump line="42" column="12" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="81" column="88" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="92" column="14" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
       <jump line="23" column="43" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
@@ -574,6 +556,20 @@
       <jump line="58" column="9" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="67" column="24" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="19" column="38" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="9" column="5" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/config.json" />
+      <jump line="28" column="101" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="41" column="60" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="52" column="69" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="53" column="65" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="46" column="19" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="56" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="60" column="26" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="63" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="33" column="26" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="36" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="44" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -609,52 +605,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>${aws_Iims_key.kms_lambda_key.arn}</text>
+        <text>056092588914-a-deploymentpackages</text>
       </register>
       <register name="/" type="4">
-        <text>p(</text>
+        <text>method</text>
       </register>
       <register name="0" type="4">
         <text>key = $&quot;{n},{m}&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJrbXM6RW5jcnlwdCIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJrbXM6RGVjcnlwdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAia21zOkVuY3J5cHQiLAogICAgICAgICAgICAgICAgImttczpEZWNyeXB0IgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiAiJHthd3NfSWltc19rZXkua21zX2xhbWJkYV9rZXkuYXJufSI=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAia21zOkVuY3J5cHQiLAogICAgICAgICAgICAgICAgImttczpEZWNyeXB0IgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiAiJHthd3NfSWltc19rZXkua21zX2xhbWJkYV9rZXkuYXJufSI=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAgICAgICAiQWN0aW9uIjogWwogICAgICAgICAgICAgICAgImNsb3Vkd2F0Y2g6RGVzY3JpYmUqIiwKICAgICAgICAgICAgICAgICJjbG91ZHdhdGNoOkdldCoiLAogICAgICAgICAgICAgICAgImNsb3Vkd2F0Y2g6TGlzdCoiCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJSZXNvdXJjZSI6ICIqIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICBtZXRoCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAgICAgICAiQWN0aW9uIjogWwogICAgICAgICAgICAgICAgInNuczpQdWJsaXNoIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiBbCiAgICAgICAgICAgICAgICAiJHthd3Nfc25zX3RvcGljLnNuc190b3BpYy5hcm59IgogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAgICAgICAiQWN0aW9uIjogWwogICAgICAgICAgICAgICAgImVjMjpDcmVhdGVOZXR3b3JrSW50ZXJmYWNlIiwKICAgICAgICAgICAgICAgICJlYzI6RGVsZXRlTmV0d29ya0ludGVyZmFjZSIsCiAgICAgICAgICAgICAgICAiZWMyOkRlc2NyaWJlTmV0d29ya0ludGVyZmFjZXMiCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJSZXNvdXJjZSI6ICIqIgogICAgICAgIH0sCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICByZXN0X2FwaV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXN0X2FwaS5sb2dnZXJhcGlfYXBpLmlkfSIKICByZXNvdXJjZV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXNvdXJjZS5sb2dnZXJhcGlfYXVkaXRfbG9nX3Jlc291cmNlLmlkfSIKICBodHRwX21ldGhvZCA9ICJQT1NUIgogIHVyaSA9ICJhcm46YXdzOmFwaWdhdGV3YXk6JHt2YXIucmVnaW9ufTpsYW1iZGE6cGF0aC8yMDE1LTAzLTMxL2Z1bmN0aW9ucy8ke3Zhci5sYW1iZGFfZnVuY3Rpb25fYXJufS9pbnZvY2F0aW9ucyIKICBpbnRlZ3JhdGlvbl9odHRwX21ldGhvZCA9ICJQT1NUIgogIGNyZWRlbnRpYWxzID0gIiR7YXdzX2lhbV9yb2xlLmxvZ2dlcmFwaV9yb2xlLmFybn0iCiAgdHlwZSA9ICJBV1MiCiAgcGFzc3Rocm91Z2hfYmVoYXZpb3IgPSAiV0hFTl9OT19URU1QTEFURVMi</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJFZmZlY3QiOiJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOlsic3FzOlNlbmRNZXNzYWdlIl0sCiAgICAgICAgICAgICJSZXNvdXJjZSI6IiR7YXdzX3Nxc19xdWV1ZS5zcXNfcHVic3ViX2RscS5hcm59IgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICAiRWZmZWN0IjoiQWxsb3ciLAogICAgICAgICAgICAiQWN0aW9uIjpbInMzOkdldE9iamVjdCJdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiIke2F3c19zM19idWNrZXQucmFfczNfcHVic3ViLmFybn0vKiIKICAgICAgICB9LAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICByZXN0X2FwaV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXN0X2FwaS5sb2dnZXJhcGlfYXBpLmlkfSIKICByZXNvdXJjZV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXNvdXJjZS5sb2dnZXJhcGlfYXVkaXRfbG9nX3Jlc291cmNlLmlkfSIKICBodHRwX21ldGhvZCA9ICJQT1NUIgogIHVyaSA9ICJhcm46YXdzOmFwaWdhdGV3YXk6JHt2YXIucmVnaW9ufTpsYW1iZGE6cGF0aC8yMDE1LTAzLTMxL2Z1bmN0aW9ucy8ke3Zhci5sYW1iZGFfZnVuY3Rpb25fYXJufS9pbnZvY2F0aW9ucyIKICBpbnRlZ3JhdGlvbl9odHRwX21ldGhvZCA9ICJQT1NUIgogIGNyZWRlbnRpYWxzID0gIiR7YXdzX2lhbV9yb2xlLmxvZ2dlcmFwaV9yb2xlLmFybn0iCiAgdHlwZSA9ICJBV1MiCiAgcGFzc3Rocm91Z2hfYmVoYXZpb3IgPSAiV0hFTl9OT19URU1QTEFURVMi</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHViU3ViUHJvY2Vzc29yQVJOID0gImFybjphd3M6bGFtYmRhOiR7dmFyLnJlZ2lvbn06JHt2YXIudGVycmFmb3JtX2FjY291bnRfaWR9OmZ1bmN0aW9uOiR7dmFyLm5hbWV9LXB1YnN1Yi1wcm9jZXNzb3IiLAogICAgICBzM1RvcGljQ29uZmlndXJhdGlvbkJ1Y2tldE5hbWUgPSAiJHthd3NfczNfYnVja2V0LnJhX3MzX3B1YnN1Yi5idWNrZXR9IiwKICAgICAgczNUb3BpY0NvbmZpZ3VyYXRpb25CdWNrZXRPYmplY3ROYW1lID0gIiR7YXdzX3MzX2J1Y2tldF9vYmplY3QuczNfdG9waWNfY29uZmlndXJhdGlvbi5rZXl9IiwKICAgICAgcmFTZWNyZXRLZXkgPSAiJHt2YXIucmFfc2VjcmV0X2tleX0iCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>p(</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>p(</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -662,12 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spinner</entry>
-        <entry>bcdChanged</entry>
-        <entry>this.bcd =</entry>
-        <entry>this.bcd</entry>
-        <entry>datepicker</entry>
-        <entry>this._bcd</entry>
         <entry>OnBcdChange</entry>
         <entry>onBc</entry>
         <entry>bcd</entry>
@@ -682,9 +672,14 @@
         <entry>isInCAPI</entry>
         <entry encoding="base64">IA==</entry>
         <entry>p(</entry>
+        <entry>pubsub</entry>
+        <entry>key</entry>
+        <entry>account</entry>
+        <entry>post_integration</entry>
+        <entry>POST</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1gvUGF5bWVudEFtb3VudC9n</entry>
         <entry encoding="base64">JzwsJz5zL1gvVGF4T3JDQVBJQ3JlZGl0cy9n</entry>
         <entry encoding="base64">JzwsJz5zLzAvbnVsbC9n</entry>
         <entry encoding="base64">JzwsJz5zL0RhdGFcLi8vZw==</entry>
@@ -701,8 +696,9 @@
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
-        <entry>W</entry>
         <entry>vsp</entry>
+        <entry>W</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
