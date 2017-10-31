@@ -102,11 +102,11 @@
         <mark key="^" line="432" column="4" />
         <mark key="." line="432" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/s3.tf" timestamp="1509475477212">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="25" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/s3.tf" timestamp="1509489197123">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem15.cs" timestamp="1508977480890">
         <mark key="[" line="10" column="27" />
@@ -604,10 +604,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${aws_s3_bucket.log_bucket.arn}</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>${aws_s3_bucket.log_bucket.arn}</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>loggerapi_role</text>
