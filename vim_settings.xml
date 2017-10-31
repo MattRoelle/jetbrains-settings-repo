@@ -71,11 +71,11 @@
         <mark key="." line="7" column="55" />
         <mark key="^" line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/lambda.tf" timestamp="1509478782383">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="2" column="47" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/lambda.tf" timestamp="1509487969778">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="13" column="60" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem67.cs" timestamp="1509149657162">
         <mark key="[" line="35" column="27" />
@@ -121,12 +121,11 @@
         <mark key="^" line="87" column="82" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" timestamp="1509481999290">
-        <mark key="'" line="44" column="7" />
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="64" column="19" />
-        <mark key="." line="64" column="19" />
-        <mark key="^" line="64" column="19" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" timestamp="1509487452682">
+        <mark key="'" line="90" column="27" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509165014858">
         <mark key="'" line="56" column="23" />
@@ -293,12 +292,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" timestamp="1509478760558">
-        <mark key="'" line="67" column="24" />
-        <mark key="[" line="73" column="33" />
-        <mark key="]" line="73" column="48" />
-        <mark key="^" line="73" column="48" />
-        <mark key="." line="73" column="48" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" timestamp="1509488291816">
+        <mark key="'" line="41" column="25" />
+        <mark key="[" line="34" column="80" />
+        <mark key="]" line="34" column="81" />
+        <mark key="^" line="34" column="81" />
+        <mark key="." line="34" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddAdminFeeToLoanAccountPaymentSchedule.cs" timestamp="1507571017366">
         <mark key="[" line="8" column="9" />
@@ -470,31 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="23" column="43" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.scss" />
-      <jump line="39" column="20" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.scss" />
-      <jump line="93" column="14" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="24" column="26" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="22" column="13" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="37" column="227" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="62" column="165" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="16" column="2" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
-      <jump line="27" column="13" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" />
-      <jump line="343" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" />
-      <jump line="120" column="25" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" />
-      <jump line="184" column="33" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" />
-      <jump line="60" column="10" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="69" column="25" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
-      <jump line="29" column="64" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="82" column="27" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="100" column="2" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="53" column="6" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="80" column="22" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="94" column="11" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
-      <jump line="98" column="4" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
       <jump line="48" column="10" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
       <jump line="121" column="22" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
       <jump line="1" column="46" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" />
@@ -557,19 +531,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
       <jump line="67" column="24" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="19" column="38" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="9" column="5" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/config.json" />
-      <jump line="28" column="101" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="41" column="60" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="52" column="69" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="53" column="65" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="46" column="19" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="56" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="60" column="26" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="63" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="33" column="26" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="36" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="44" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="16" column="78" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="28" column="4" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="40" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="55" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="88" column="30" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="39" column="31" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="63" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="5" column="39" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="27" column="43" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="54" column="11" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="7" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="22" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="33" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="48" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="106" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="45" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="89" column="27" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
+      <jump line="2" column="45" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="49" column="17" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="63" column="17" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="42" column="10" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="62" column="31" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="41" column="25" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
+      <jump line="90" column="27" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -604,71 +603,60 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>${aws_s3_bucket.log_bucket.arn}</text>
       </register>
       <register name="-" type="4">
-        <text>056092588914-a-deploymentpackages</text>
+        <text>${aws_s3_bucket.log_bucket.arn}</text>
       </register>
       <register name="/" type="4">
-        <text>method</text>
+        <text>loggerapi_role</text>
       </register>
       <register name="0" type="4">
         <text>key = $&quot;{n},{m}&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpYW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CnJlc291cmNlICJhd3NfbGFtYmRhX3Blcm1pc3Npb24iICJyYV9sYW1iZGFfcGVybWlzc2lvbl9yYV9kbV9kZWxldGVyX3JhX2RtX2FwaSIgewogIGZ1bmN0aW9uX25hbWUgPSAiJHthd3NfbGFtYmRhX2Z1bmN0aW9uLmxvZ2dlcmFwaV9sb2cuZnVuY3Rpb25fbmFtZX0iCiAgc3RhdGVtZW50X2lkICA9ICJBbGxvd0V4ZWN1dGlvbkZyb21BcGlHYXRld2F5IgogIGFjdGlvbiAgICAgICAgPSAibGFtYmRhOkludm9rZUZ1bmN0aW9uIgogIHByaW5jaXBhbCAgICAgPSAiYXBpZ2F0ZXdheS5hbWF6b25hd3MuY29tIgogIHNvdXJjZV9hcm4gICAgPSAiYXJuOmF3czpleGVjdXRlLWFwaToke3Zhci5yZWdpb259OiR7dmFyLnRlcnJhZm9ybV9hY2NvdW50X2lkfToke2F3c19hcGlfZ2F0ZXdheV9yZXN0X2FwaS5sb2dnZXJhcGlfYXBpLmlkfS8qLyovKiIKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19sYW1iZGFfcGVybWlzc2lvbiIgImxvZ2dlcmFwaV9sb2dfYXBpX2xhbWJkYV9wZXJtaXNzaW9uIiB7CiAgc3RhdGVtZW50X2lkID0gIiIKICBhY3Rpb24gPSAibGFtYmRhOkludm9rZUZ1bmN0aW9uIgogIGZ1bmN0aW9uX25hbWUgPSAiJHthd3NfbGFtYmRhX2Z1bmN0aW9uLmxvZ2dlcmFwaV9sb2cuZnVuY3Rpb25fbmFtZX0iCiAgcHJpbmNpcGFsID0gImFwaWdhdGV3YXkuYW1hem9uYXdzLmNvbSIKICBzb3VyY2VfYXJuID0gIiR7YXdzX2FwaV9nYXRld2F5X2ludGVncmF0aW9uLmxvZ2dlcmFwaV9hdWRpdF9sb2dfcG9zdF9pbnRlZ3JhdGlvbi5hcm59Igp9Cgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBzdGF0ZW1lbnRfaWQgPSAiIgogIGFjdGlvbiA9ICJsYW1iZGE6SW52b2tlRnVuY3Rpb24iCiAgZnVuY3Rpb25fbmFtZSA9ICIke2F3c19sYW1iZGFfZnVuY3Rpb24ubG9nZ2VyYXBpX2xvZy5mdW5jdGlvbl9uYW1lfSIKICBwcmluY2lwYWwgPSAiYXBpZ2F0ZXdheS5hbWF6b25hd3MuY29tIgogIHNvdXJjZV9hcm4gPSAiJHthd3NfYXBpX2dhdGV3YXlfcmVzb3VyY2UubG9nZ2VyYXBpX2F1ZGl0X2xvZ19yZXNvdXJjZS5wYXJlbnRfaWR9Ig==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpbnQK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBzdGF0ZW1lbnRfaWQgPSAiIgogIGFjdGlvbiA9ICJsYW1iZGE6SW52b2tlRnVuY3Rpb24iCiAgZnVuY3Rpb25fbmFtZSA9ICIke2F3c19sYW1iZGFfZnVuY3Rpb24ubG9nZ2VyYXBpX2xvZy5mdW5jdGlvbl9uYW1lfSIKICBwcmluY2lwYWwgPSAiYXBpZ2F0ZXdheS5hbWF6b25hd3MuY29tIgogIHNvdXJjZV9hcm4gPSAiJHthd3NfYXBpX2dhdGV3YXlfcmVzdF9hcGkubG9nZ2VyYXBpX2FwaS5hcm59Ig==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtZXRoCg==</text>
+        <text encoding="base64">ICAic3RhdGVtZW50X2kiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICByZXN0X2FwaV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXN0X2FwaS5sb2dnZXJhcGlfYXBpLmlkfSIKICByZXNvdXJjZV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXNvdXJjZS5sb2dnZXJhcGlfYXVkaXRfbG9nX3Jlc291cmNlLmlkfSIKICBodHRwX21ldGhvZCA9ICJQT1NUIgogIHVyaSA9ICJhcm46YXdzOmFwaWdhdGV3YXk6JHt2YXIucmVnaW9ufTpsYW1iZGE6cGF0aC8yMDE1LTAzLTMxL2Z1bmN0aW9ucy8ke3Zhci5sYW1iZGFfZnVuY3Rpb25fYXJufS9pbnZvY2F0aW9ucyIKICBpbnRlZ3JhdGlvbl9odHRwX21ldGhvZCA9ICJQT1NUIgogIGNyZWRlbnRpYWxzID0gIiR7YXdzX2lhbV9yb2xlLmxvZ2dlcmFwaV9yb2xlLmFybn0iCiAgdHlwZSA9ICJBV1MiCiAgcGFzc3Rocm91Z2hfYmVoYXZpb3IgPSAiV0hFTl9OT19URU1QTEFURVMi</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhc3MK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICByZXN0X2FwaV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXN0X2FwaS5sb2dnZXJhcGlfYXBpLmlkfSIKICByZXNvdXJjZV9pZCA9ICIke2F3c19hcGlfZ2F0ZXdheV9yZXNvdXJjZS5sb2dnZXJhcGlfYXVkaXRfbG9nX3Jlc291cmNlLmlkfSIKICBodHRwX21ldGhvZCA9ICJQT1NUIgogIHVyaSA9ICJhcm46YXdzOmFwaWdhdGV3YXk6JHt2YXIucmVnaW9ufTpsYW1iZGE6cGF0aC8yMDE1LTAzLTMxL2Z1bmN0aW9ucy8ke3Zhci5sYW1iZGFfZnVuY3Rpb25fYXJufS9pbnZvY2F0aW9ucyIKICBpbnRlZ3JhdGlvbl9odHRwX21ldGhvZCA9ICJQT1NUIgogIGNyZWRlbnRpYWxzID0gIiR7YXdzX2lhbV9yb2xlLmxvZ2dlcmFwaV9yb2xlLmFybn0iCiAgdHlwZSA9ICJBV1MiCiAgcGFzc3Rocm91Z2hfYmVoYXZpb3IgPSAiV0hFTl9OT19URU1QTEFURVMi</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBybwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBybwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>method</last-search>
+      <last-search>loggerapi_role</last-search>
       <last-offset />
-      <last-pattern>method</last-pattern>
+      <last-pattern>loggerapi_role</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">IA==</last-substitute>
+      <last-substitute>ra_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>OnBcdChange</entry>
-        <entry>onBc</entry>
-        <entry>bcd</entry>
-        <entry>onSel</entry>
-        <entry>Handler</entry>
-        <entry>Name</entry>
-        <entry>ClientIp</entry>
-        <entry>ottle</entry>
-        <entry>rottl</entry>
-        <entry>Throt</entry>
-        <entry>Key</entry>
         <entry>isInCAPI</entry>
         <entry encoding="base64">IA==</entry>
         <entry>p(</entry>
@@ -678,11 +666,19 @@
         <entry>post_integration</entry>
         <entry>POST</entry>
         <entry>method</entry>
+        <entry>proeprty</entry>
+        <entry>property</entry>
+        <entry>propertyprofile</entry>
+        <entry>ra_</entry>
+        <entry>var</entry>
+        <entry>deployment</entry>
+        <entry>loggerapi_api_deployment</entry>
+        <entry>depends_on</entry>
+        <entry>role</entry>
+        <entry>sts</entry>
+        <entry>loggerapi_role</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1gvVGF4T3JDQVBJQ3JlZGl0cy9n</entry>
-        <entry encoding="base64">JzwsJz5zLzAvbnVsbC9n</entry>
-        <entry encoding="base64">JzwsJz5zL0RhdGFcLi8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLyAvLC9n</entry>
         <entry>w3</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
@@ -699,6 +695,9 @@
         <entry>vsp</entry>
         <entry>W</entry>
         <entry>redo</entry>
+        <entry>%s/propertyprofile/loggerapi/g</entry>
+        <entry>%s/ra_//g</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
