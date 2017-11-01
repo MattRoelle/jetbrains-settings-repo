@@ -15,11 +15,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/PaymentResultDto.cs" timestamp="1509058177525">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="50" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem3.cs" timestamp="1508883031772">
         <mark key="'" line="24" column="8" />
         <mark key="[" line="24" column="0" />
@@ -94,11 +89,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/Startup.cs" timestamp="1509569931253">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="69" column="15" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="60" column="35" />
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/Startup.cs" timestamp="1509573361411">
+        <mark key="[" line="66" column="98" />
+        <mark key="]" line="66" column="98" />
+        <mark key="." line="66" column="98" />
+        <mark key="^" line="66" column="98" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem8.cs" timestamp="1508882589082">
         <mark key="[" line="6" column="10" />
@@ -181,11 +176,6 @@
         <mark key="^" line="9" column="104" />
         <mark key="." line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/AuditLoggerOptions.cs" timestamp="1509557471706">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddAdminFeeToLoanAccountPaymentSchedule.cs" timestamp="1507571017366">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="10" column="73" />
@@ -199,10 +189,8 @@
         <mark key="." line="427" column="93" />
         <mark key="^" line="427" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Dto.HPA/FinancialSummaryResponseDto.cs" timestamp="1508884519201">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" timestamp="1509573419836">
+        <mark key="'" line="0" column="71" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem17.cs" timestamp="1508977970158">
         <mark key="[" line="10" column="27" />
@@ -210,12 +198,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509570912482">
-        <mark key="'" line="81" column="15" />
-        <mark key="[" line="81" column="44" />
-        <mark key="]" line="83" column="37" />
-        <mark key="." line="83" column="37" />
-        <mark key="^" line="83" column="37" />
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509574121096">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="82" column="41" />
+        <mark key="]" line="83" column="46" />
+        <mark key="." line="83" column="46" />
+        <mark key="^" line="83" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI.cs" timestamp="1507679064967">
         <mark key="[" line="9" column="37" />
@@ -347,11 +335,6 @@
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" timestamp="1509060810102">
         <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/Class1.cs" timestamp="1509557379782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" timestamp="1509062087730">
         <mark key="'" line="80" column="19" />
@@ -495,6 +478,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-07-03.417Z.json" timestamp="1509574085083" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" timestamp="1508956575998">
         <mark key="'" line="12" column="44" />
       </file>
@@ -529,28 +513,16 @@
         <mark key="^" line="18" column="50" />
         <mark key="." line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/problem67.txt" timestamp="1509129650295">
-        <mark key="[" line="99" column="299" />
-        <mark key="]" line="99" column="299" />
-        <mark key="." line="99" column="299" />
-      </file>
+      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-58-31.593Z.json" timestamp="1509573534381" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/HPAController.cs" timestamp="1508274182239">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="15" />
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-59-33.994Z.json" timestamp="1509573613680" />
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
-      <jump line="72" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
-      <jump line="24" column="45" filename="$USER_HOME$/Documents/s/EPL/fsp.services.admin/FSP.Services.API.Admin/Web.config" />
-      <jump line="8" column="4" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlePolicy.cs" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlePolicy.cs" />
-      <jump line="26" column="20" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
-      <jump line="65" column="16" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
-      <jump line="17" column="86" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
-      <jump line="19" column="22" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
       <jump line="37" column="40" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
       <jump line="27" column="45" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.Web.WebAPI/Filters/ThrottleAttribute.cs" />
       <jump line="51" column="37" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" />
@@ -642,6 +614,15 @@
       <jump line="98" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
       <jump line="81" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
       <jump line="81" column="15" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="86" column="13" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="103" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="2" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="0" column="71" filename="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" />
+      <jump line="130" column="1" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="134" column="19" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="33" column="17" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="34" column="13" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="110" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -677,52 +658,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgcHVibGljIExpc3Q8S2V5VmFsdWVQYWlyPHN0cmluZywgc3RyaW5nPj4gUmVzcG9uc2VIZWFkZXJzIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0YXRl</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>OnCompleted</text>
+        <text>stopwatch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgcHVibGljIExpc3Q8S2V5VmFsdWVQYWlyPHN0cmluZywgc3RyaW5nPj4gUmVzcG9uc2VIZWFkZXJzIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHN0cmluZyByZXNwb25zZUJvZHk7CiAgICAgICAgICAgICB1c2luZyAodmFyIHNyID0gbmV3IFN0cmVhbVJlYWRlcihib2R5LCBFbmNvZGluZy5EZWZhdWx0LCB0cnVlLCAxMDI0LCB0cnVlKSkKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICByZXNwb25zZUJvZHkgPSBhd2FpdCBzci5SZWFkVG9FbmRBc3luYygpOwogICAgICAgICAgICAgfQogICAgICAgICAgICAgYm9keS5TZWVrKDAsIFNlZWtPcmlnaW4uQmVnaW4pOwoKICAgICAgICAgICAgIHZhciBvdXRwdXQgPSBuZXcgUmVxdWVzdEF1ZGl0T3V0cHV0CiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgUmVzcG9uc2VTdGF0dXNDb2RlID0gY29udGV4dC5SZXNwb25zZS5TdGF0dXNDb2RlLAogICAgICAgICAgICAgICAgIFJlc3BvbnNlQm9keSA9IHJlc3BvbnNlQm9keQogICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICByZXR1cm4gb3V0cHV0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBSZXNwb25zZUhlYWRlcnMgPSBoZWFkZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHZhciBoZWFkZXJzID0gbmV3IExpc3Q8S2V5VmFsdWVQYWlyPHN0cmluZywgc3RyaW5nPj4oKTsKICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBrdiBpbiBjb250ZXh0LlJlc3BvbnNlLkhlYWRlcnMpCiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgaGVhZGVycy5BZGQobmV3IEtleVZhbHVlUGFpcjxzdHJpbmcsIHN0cmluZz4oa3YuS2V5LCBrdi5WYWx1ZSkpOwogICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGF3YWl0IF9uZXh0KGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBvdXR1cHQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBpbnB1dC5SCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGF3YWl0IF9sb2dnZXIuTG9nKF9vcHRpb25zLlNlcnZpY2VBcmVhLCAiSFRUUF9SRVFVRVNUIiwgaW5wdXQsCiAgICAgICAgICAgICAgICAgYXdhaXQgQnVpbGRPdXRwdXQoY29udGV4dCksIHJhQ29udGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNvbnRleHQuUmVzcG9uc2UuT25Db21wbGV0ZWQoYXN5bmMgKCkgPT4KICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBzdG9wd2F0Y2guCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgcHVibGljIERhdGVUaW1lIFJlcXVlZGRzdFN0YXJ0ZWQgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OnCompleted</last-search>
+      <last-search>stopwatch</last-search>
       <last-offset />
-      <last-pattern>OnCompleted</last-pattern>
+      <last-pattern>stopwatch</last-pattern>
       <last-replace />
       <last-substitute>ra_</last-substitute>
       <last-dir>1</last-dir>
@@ -730,7 +711,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IA==</entry>
         <entry>p(</entry>
         <entry>pubsub</entry>
         <entry>key</entry>
@@ -750,6 +730,7 @@
         <entry>sts</entry>
         <entry>loggerapi_role</entry>
         <entry>OnCompleted</entry>
+        <entry>stopwatch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLC9n</entry>
