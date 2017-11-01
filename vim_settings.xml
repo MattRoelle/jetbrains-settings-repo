@@ -76,11 +76,11 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditOptions.cs" timestamp="1509564948515">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="4" column="44" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="44" />
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditOptions.cs" timestamp="1509567708047">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="7" column="63" />
+        <mark key="." line="7" column="63" />
+        <mark key="^" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/HPAFinancialSummaryDto.cs" timestamp="1508884515707">
         <mark key="[" line="4" column="0" />
@@ -160,7 +160,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/Startup.cs" timestamp="1509567002453">
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/Startup.cs" timestamp="1509567675460">
         <mark key="[" line="58" column="39" />
         <mark key="]" line="59" column="26" />
         <mark key="." line="59" column="26" />
@@ -342,7 +342,7 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLogger.cs" timestamp="1509557376350">
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLogger.cs" timestamp="1509567770140">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
@@ -382,11 +382,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509567112070">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509567792373">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem13.cs" timestamp="1508968753852">
         <mark key="[" line="9" column="27" />
@@ -649,10 +649,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>logger</text>
+        <text encoding="base64">IEF1ZGl0TG9nZ2Vy</text>
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text encoding="base64">IEF1ZGl0TG9nZ2Vy</text>
       </register>
       <register name="/" type="4">
         <text>loggerapi_role</text>
@@ -661,31 +661,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJQXVkaXRMb2dnZXIgX2xvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIF9sb2dnZXIgPSBsb2dnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJQXVkaXRMb2dnZXIgX2xvZ2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUF1Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUF1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTXZjKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTXZjKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU12YygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU12YygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
