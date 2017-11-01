@@ -62,6 +62,12 @@
         <mark key="." line="63" column="56" />
         <mark key="^" line="63" column="56" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditOptions.cs" timestamp="1509564948515">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/HPAFinancialSummaryDto.cs" timestamp="1508884515707">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="58" />
@@ -298,12 +304,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509564435708">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
-        <mark key="^" line="26" column="12" />
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509565938229">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem13.cs" timestamp="1508968753852">
         <mark key="[" line="9" column="27" />
@@ -341,12 +347,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" timestamp="1509478791983">
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" timestamp="1509565376016">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddNewCustomerInquiryTypesAndAdditionalFields.cs" timestamp="1507246406094">
         <mark key="[" line="12" column="42" />
@@ -539,10 +545,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFJlcXVlc3REZWxlZ2F0ZSBfbmV4dDsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFJlcXVlc3RVUkkgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgUmVxdWVzdE1ldGhvZCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBSZXF1ZXN0Qm9keSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>IMidawieware</text>
+        <text>dynamic</text>
       </register>
       <register name="/" type="4">
         <text>loggerapi_role</text>
@@ -551,35 +557,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFJlcXVlc3REZWxlZ2F0ZSBfbmV4dDsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFJlcXVlc3RVUkkgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgUmVxdWVzdE1ldGhvZCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBSZXF1ZXN0Qm9keSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIFJlcXVlc3RBdWRpdElucHV0CiAgICB7CiAgICAgICAgcHVibGljIHN0cmluZyBSZXF1ZXN0VVJJIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIFJlcXVlc3RNZXRob2QgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgUmVxdWVzdEJvZHkgeyBnZXQ7IHNldDsgfQogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>namespace RA.Infrastructure.NetStandard.Audit
-{
-    public class RAAuditMiddleware : IMiddleware
-    {
-        public RAAuditMiddleware(AuditLoggerOpti</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2coX29wdGlvbnMuU2VydmljZUFyZWEsICJIVFRQX1JFUVVFU1QiLCBpbnB1dCwgbnVsbCwgcmFDb250ZXh0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEF1ZGl0TG9nZ2VyT3B0aW9ucyBfb3B0aW9ucwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZHluYW1pYyBpbnB1dFBhcmFtcyA9IG51bGw7CiAgICAgICAgICAgIGlmIChjb250ZXh0LlJlcXVlc3QuTWV0aG9kID09IEh0dHBNZXRob2RzLlBvc3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlucHV0UGFyYW1zID0gSnNvbkNvbnZlcnQuU2VyaWFsaXplT2JqZWN0PGR5bmFtaWM+KGJvZHlDb250ZW50KTsKICAgICAgICAgICAgfQ==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgUkEuSW5mcmFzdHJ1Y3R1cmUuTmV0U3RhbmRhcmQuQXVkaXRMb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFJlcXVlc3RNZXRob2QgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -625,7 +627,6 @@
         <entry>wqa</entry>
         <entry>ws</entry>
         <entry>qa</entry>
-        <entry>2w</entry>
         <entry>LW</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -634,10 +635,11 @@
         <entry>%s/propertyprofile/loggerapi/g</entry>
         <entry>%s/ra_//g</entry>
         <entry>split</entry>
-        <entry>vsp</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>we</entry>
+        <entry>vsp</entry>
+        <entry>2w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
