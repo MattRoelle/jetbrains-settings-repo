@@ -298,7 +298,13 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509559376624" />
+      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" timestamp="1509564435708">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem13.cs" timestamp="1508968753852">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
@@ -398,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
       <jump line="45" column="73" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
       <jump line="62" column="18" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
       <jump line="44" column="55" filename="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" />
@@ -498,6 +503,7 @@
       <jump line="14" column="17" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLoggerOptions.cs" />
       <jump line="13" column="27" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="9" column="4" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="18" column="8" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -532,11 +538,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>AuditLoigger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFJlcXVlc3REZWxlZ2F0ZSBfbmV4dDsK</text>
       </register>
       <register name="-" type="4">
-        <text>AuditLoigger</text>
+        <text>IMidawieware</text>
       </register>
       <register name="/" type="4">
         <text>loggerapi_role</text>
@@ -545,31 +551,35 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFJlcXVlc3REZWxlZ2F0ZSBfbmV4dDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV4dCgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text>namespace RA.Infrastructure.NetStandard.Audit
+{
+    public class RAAuditMiddleware : IMiddleware
+    {
+        public RAAuditMiddleware(AuditLoggerOpti</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEF1ZGl0TG9nZ2VyT3B0aW9ucyBfb3B0aW9ucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYXNrIEludm9rZShIdHRwQ29udGV4dCBjb250ZXh0KQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuX25leHQK</text>
+        <text encoding="base64">dXNpbmcgUkEuSW5mcmFzdHJ1Y3R1cmUuTmV0U3RhbmRhcmQuQXVkaXRMb2dnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -617,7 +627,6 @@
         <entry>qa</entry>
         <entry>2w</entry>
         <entry>LW</entry>
-        <entry>we</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
@@ -628,6 +637,7 @@
         <entry>vsp</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>we</entry>
       </history-cmd>
       <history-expr />
       <history-input />
