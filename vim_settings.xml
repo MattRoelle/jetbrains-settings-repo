@@ -52,11 +52,11 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/s3.tf" timestamp="1509575965242">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/s3.tf" timestamp="1509646907241">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-07-03.417Z (1).json" timestamp="1509576147683">
         <mark key="'" line="16" column="13" />
@@ -183,11 +183,11 @@
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" timestamp="1509058552761">
         <mark key="'" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" timestamp="1509643361995">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="30" />
+      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" timestamp="1509646480178">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddNewCustomerInquiryTypesAndAdditionalFields.cs" timestamp="1507246406094">
         <mark key="[" line="12" column="42" />
@@ -540,11 +540,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlOiBpc29EYXRlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>.toISOString();</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
@@ -580,7 +580,7 @@
         <text encoding="base64">dmFyIEFXUyA9IHJlcXVpcmUoImF3cy1zZGsiKTsKdmFyIHMzID0gbmV3IEFXUy5TMygpOwoKZXhwb3J0cy5oYW5kbGVyID0gZnVuY3Rpb24oZXZlbnQsIGNvbnRleHQpIHsKICAgIHZhciBzMyA9IG5ldyBBV1MuUzMoKTsKICAgIHZhciBidWNrZXQgPSBwcm9jZXNzLmVudi5sb2dCdWNrZXQ7CiAgICB2YXIgc2VydmljZUFyZWEgPSBldmVudC5zZXJ2aWNlQXJlYTsKICAgIHZhciB0eXBlID0gZXZlbnQudHlwZTsKICAgIGlmKCFldmVudC5zZXJ2aWNlQXJlYSB8fCAhZXZlbnQudHlwZSl7CiAgICAgICAgY29uc29sZS5sb2coInNlcnZpY2VBcmVhIGFuZCB0eXBlIGFyZSByZXF1aXJlZCBwYXJhbWV0ZXJzIik7IC8vIGFuIGVycm9yIG9jY3VycmVkCiAgICAgICAgY29udGV4dC5kb25lKG51bGwsICJJbnZhbGlkIFJlcXVlc3Q6IHNlcnZpY2VBcmVhIGFuZCB0eXBlIGFyZSByZXF1aXJlZCBwYXJhbWV0ZXJzISIpOwogICAgICAgIHJldHVybjsKICAgIH0KICAgIHZhciBpbnB1dCA9IGV2ZW50LmlucHV0OwogICAgdmFyIG91dHB1dCA9IGV2ZW50Lm91dHB1dDsKICAgIHZhciByYWNvbnRleHQgPSBldmVudC5yYWNvbnRleHQ7CiAgICB2YXIgbWFjaGluZW5hbWUgPSBldmVudC5tYWNoaW5lbmFtZTsKICAgIHZhciBpc29EYXRlID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpOwogICAgdmFyIGtleSA9ICJhdWRpdC8iICsgc2VydmljZUFyZWEgKyAiLyIgKyB0eXBlLnRvU3RyaW5nKCkgKyAiXyIgKyBpc29EYXRlICsgIi5qc29uIjsKCiAgICB2YXIgYm9keSA9IHsKICAgICAgICBEYXRlOiBpc29EYXRlLAogICAgICAgIFNlcnZpY2VBcmVhOiBzZXJ2aWNlQXJlYSwKICAgICAgICBUeXBlOiB0eXBlLAogICAgICAgIElucHV0OiBpbnB1dCwKICAgICAgICBPdXRwdXQ6IG91dHB1dCwKICAgICAgICBSQUNvbnRleHQ6IHJhY29udGV4dCwKICAgICAgICBNYWNoaW5lbmFtZTogbWFjaGluZW5hbWUKICAgIH07CgogICAgdmFyIG9iamVjdERhdGEgPSBfZmxhdHRlbihib2R5LCB7CiAgICAgICAgZGVsaW1pdGVyOiAiXyIsCiAgICAgICAgbWF4RGVwdGg6IDIKICAgIH0pOwoKICAgIC8qCiAgICAgKiBGb3JtYXQgaGVhZGVycyBieSBrZXkgaW5zdGVhZCBvZiBpbmRleAogICAgICovCiAgICBpZiAoISFvYmplY3REYXRhWyJJbnB1dF9SZXF1ZXN0SGVhZGVycyJdKSB7CiAgICAgICAgZm9yKHZhciBoZWFkZXIgaW4gb2JqZWN0RGF0YVsiSW5wdXRfUmVxdWVzdEhlYWRlcnMiXSkgewogICAgICAgICAgICBvYmplY3REYXRhWyJJbnB1dF9SZXF1ZXN0SGVhZGVyc18iICsgaGVhZGVyLktleV0gPSBoZWFkZXIuVmFsdWU7CiAgICAgICAgfQogICAgICAgIGRlbGV0ZSBvYmplY3REYXRhWyJJbnB1dF9SZXF1ZXN0SGVhZGVycyJdOwogICAgfQoKICAgIHZhciB1cGxvYWRSZXF1ZXN0ID0ge0J1Y2tldDogYnVja2V0LCBLZXk6IGtleSwgQm9keTogSlNPTi5zdHJpbmdpZnkob2JqZWN0RGF0YSl9OwogICAgY29uc29sZS5sb2coInMzIik7CiAgICBzMy51cGxvYWQodXBsb2FkUmVxdWVzdCwgZnVuY3Rpb24oZXJyLCBkYXRhKSB7CiAgICAgICAgaWYgKGVycil7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyciwgZXJyLnN0YWNrKTsgLy8gYW4gZXJyb3Igb2NjdXJyZWQKICAgICAgICAgICAgY29udGV4dC5kb25lKGVycik7CiAgICAgICAgfQogICAgICAgIGVsc2V7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOyAgICAgICAgICAgLy8gc3VjY2Vzc2Z1bCByZXNwb25zZQogICAgICAgICAgICBjb250ZXh0LmRvbmUobnVsbCwgZGF0YSk7CiAgICAgICAgfQogICAgfSk7Cn07CgovKgogKiBCb3Jyb3dlZCBmcm9tIGh0dHBzOi8vZ2l0aHViLmNvbS9odWdoc2svZmxhdC9ibG9iL21hc3Rlci9pbmRleC5qcwogKi8KZnVuY3Rpb24gX2ZsYXR0ZW4gKHRhcmdldCwgb3B0cykgewogICAgb3B0cyA9IG9wdHMgfHwge30KCiAgICB2YXIgZGVsaW1pdGVyID0gb3B0cy5kZWxpbWl0ZXIgfHwgJy4nCiAgICB2YXIgbWF4RGVwdGggPSBvcHRzLm1heERlcHRoCiAgICB2YXIgb3V0cHV0ID0ge30KCiAgICBmdW5jdGlvbiBzdGVwIChvYmplY3QsIHByZXYsIGN1cnJlbnREZXB0aCkgewogICAgICAgIGN1cnJlbnREZXB0aCA9IGN1cnJlbnREZXB0aCB8fCAxCiAgICAgICAgT2JqZWN0LmtleXMob2JqZWN0KS5mb3JFYWNoKGZ1bmN0aW9uIChrZXkpIHsKICAgICAgICAgICAgdmFyIHZhbHVlID0gb2JqZWN0W2tleV0KICAgICAgICAgICAgdmFyIGlzYXJyYXkgPSBvcHRzLnNhZmUgJiYgQXJyYXkuaXNBcnJheSh2YWx1ZSkKICAgICAgICAgICAgdmFyIHR5cGUgPSBPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwodmFsdWUpCiAgICAgICAgICAgIHZhciBpc29iamVjdCA9ICgKICAgICAgICAgICAgICAgIHR5cGUgPT09ICdbb2JqZWN0IE9iamVjdF0nIHx8CiAgICAgICAgICAgICAgICB0eXBlID09PSAnW29iamVjdCBBcnJheV0nCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIHZhciBuZXdLZXkgPSBwcmV2CiAgICAgICAgICAgICAgICA/IHByZXYgKyBkZWxpbWl0ZXIgKyBrZXkKICAgICAgICAgICAgICAgIDoga2V5CgogICAgICAgICAgICBpZiAoIWlzYXJyYXkgJiYgaXNvYmplY3QgJiYgT2JqZWN0LmtleXModmFsdWUpLmxlbmd0aCAmJgogICAgICAgICAgICAgICAgKCFvcHRzLm1heERlcHRoIHx8IGN1cnJlbnREZXB0aCA8IG1heERlcHRoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHN0ZXAodmFsdWUsIG5ld0tleSwgY3VycmVudERlcHRoICsgMSkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3V0cHV0W25ld0tleV0gPSB2YWx1ZQogICAgICAgIH0pCiAgICB9CgogICAgc3RlcCh0YXJnZXQpCgogICAgcmV0dXJuIG91dHB1dAp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wqa</text>
       </register>
     </registers>
     <search>
@@ -619,7 +619,6 @@
         <entry>w3</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>ew</entry>
-        <entry>wqa</entry>
         <entry>ws</entry>
         <entry>qa</entry>
         <entry>LW</entry>
@@ -636,6 +635,7 @@
         <entry>vsp</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>w</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
