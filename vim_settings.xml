@@ -58,9 +58,6 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-07-03.417Z (1).json" timestamp="1509576147683">
-        <mark key="'" line="16" column="13" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem15.cs" timestamp="1508977480890">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
@@ -84,6 +81,11 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Audit/OperationsAPI2AuditStore.cs" timestamp="1509658205537">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" timestamp="1509059016557">
         <mark key="[" line="47" column="88" />
@@ -139,6 +141,9 @@
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" timestamp="1509656789617">
+        <mark key="'" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem9.cs" timestamp="1508883010254">
         <mark key="[" line="8" column="27" />
@@ -412,8 +417,6 @@
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-59-33.994Z.json" timestamp="1509573613680" />
     </filemarks>
     <jumps>
-      <jump line="5" column="9" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/EulerUtils.cs" />
-      <jump line="249997" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/primes1.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/primes1.txt" />
       <jump line="249996" column="80" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/primes1.txt" />
       <jump line="9999" column="6" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Data/primes1.txt" />
@@ -512,6 +515,8 @@
       <jump line="42" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" />
       <jump line="125" column="21" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="134" column="1" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
+      <jump line="112" column="50" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" />
+      <jump line="55" column="25" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -547,19 +552,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Cont</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text>Audit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -568,31 +573,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVlc3QK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2F1ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2F1ZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search>Audit</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern>Audit</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -600,8 +605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post_integration</entry>
-        <entry>POST</entry>
         <entry>method</entry>
         <entry>proeprty</entry>
         <entry>property</entry>
@@ -620,6 +623,8 @@
         <entry>isBuffer</entry>
         <entry>isbuffer</entry>
         <entry>-</entry>
+        <entry>audit</entry>
+        <entry>Audit</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
