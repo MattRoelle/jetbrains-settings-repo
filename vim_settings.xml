@@ -424,7 +424,6 @@
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-59-33.994Z.json" timestamp="1509573613680" />
     </filemarks>
     <jumps>
-      <jump line="58" column="9" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
       <jump line="67" column="24" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
@@ -524,6 +523,7 @@
       <jump line="106" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="129" column="232" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="141" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
+      <jump line="22" column="9" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
