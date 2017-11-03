@@ -73,6 +73,10 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/code_fragment.cls" timestamp="1509729221876">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/Startup.cs" timestamp="1509573361411">
         <mark key="[" line="66" column="98" />
         <mark key="]" line="66" column="98" />
@@ -297,12 +301,11 @@
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" timestamp="1509060810102">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509666985445">
-        <mark key="[" line="41" column="29" />
-        <mark key="m" line="59" column="0" />
-        <mark key="]" line="41" column="34" />
-        <mark key="^" line="41" column="34" />
-        <mark key="." line="41" column="34" />
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509729360604">
+        <mark key="[" line="31" column="0" />
+        <mark key="m" line="60" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1509056091160">
         <mark key="[" line="17" column="0" />
@@ -385,6 +388,10 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509570554402">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-07-03.417Z.json" timestamp="1509574085083" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" timestamp="1508956575998">
@@ -565,8 +572,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ToChar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlci4K</text>
       </register>
       <register name="-" type="4">
         <text>ToChar</text>
@@ -578,31 +585,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlci4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoQnJ1dGVGb3JjZVQoMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGQgPSBuZXcgQmlnSW50ZWdlcigxMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlci5FCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobCA8IDApIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoQnJ1dGVGb3JjZVQoMikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcy5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGMgPSBzW2ldOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobCA8IDApIGNvbnRpbnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
