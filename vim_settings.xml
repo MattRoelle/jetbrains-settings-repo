@@ -72,9 +72,6 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-07-03.417Z (1).json" timestamp="1509576147683">
-        <mark key="'" line="16" column="13" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem15.cs" timestamp="1508977480890">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
@@ -115,6 +112,13 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" timestamp="1509740112558">
+        <mark key="'" line="408" column="53" />
+        <mark key="[" line="405" column="37" />
+        <mark key="]" line="405" column="95" />
+        <mark key="." line="405" column="95" />
+        <mark key="^" line="405" column="95" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" timestamp="1509059016557">
         <mark key="[" line="47" column="88" />
         <mark key="]" line="47" column="87" />
@@ -127,12 +131,12 @@
         <mark key="^" line="85" column="17" />
         <mark key="." line="85" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" timestamp="1509730873198">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="49" column="44" />
-        <mark key="." line="49" column="44" />
-        <mark key="^" line="49" column="44" />
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" timestamp="1509740162501">
+        <mark key="'" line="94" column="20" />
+        <mark key="[" line="103" column="64" />
+        <mark key="]" line="103" column="68" />
+        <mark key="." line="103" column="68" />
+        <mark key="^" line="103" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
         <mark key="[" line="8" column="31" />
@@ -178,8 +182,12 @@
         <mark key="^" line="62" column="168" />
         <mark key="." line="62" column="168" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" timestamp="1509661562910">
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" timestamp="1509740146208">
         <mark key="'" line="55" column="25" />
+        <mark key="[" line="59" column="69" />
+        <mark key="]" line="59" column="80" />
+        <mark key="." line="59" column="80" />
+        <mark key="^" line="59" column="80" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem9.cs" timestamp="1508883010254">
         <mark key="[" line="8" column="27" />
@@ -238,12 +246,18 @@
         <mark key="." line="109" column="107" />
         <mark key="^" line="109" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" timestamp="1509731622270">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="72" column="136" />
-        <mark key="]" line="72" column="135" />
-        <mark key="^" line="72" column="135" />
-        <mark key="." line="72" column="135" />
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/App_Start/IocConfig.cs" timestamp="1509740155328">
+        <mark key="[" line="62" column="57" />
+        <mark key="]" line="62" column="68" />
+        <mark key="." line="62" column="68" />
+        <mark key="^" line="62" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" timestamp="1509739117292">
+        <mark key="'" line="46" column="60" />
+        <mark key="[" line="170" column="35" />
+        <mark key="]" line="170" column="56" />
+        <mark key="^" line="170" column="56" />
+        <mark key="." line="170" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" timestamp="1509058552761">
         <mark key="'" line="72" column="5" />
@@ -266,6 +280,12 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit.Test/HealthCheckController.cs" timestamp="1509737876413">
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="45" column="22" />
+        <mark key="." line="45" column="22" />
+        <mark key="^" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507246568034">
         <mark key="[" line="27" column="51" />
@@ -297,6 +317,9 @@
         <mark key="]" line="59" column="9" />
         <mark key="." line="59" column="9" />
         <mark key="^" line="59" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" timestamp="1509739624056">
+        <mark key="'" line="83" column="16" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem12.cs" timestamp="1508964445407">
         <mark key="[" line="8" column="27" />
@@ -394,16 +417,23 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit.Test/Startup.cs" timestamp="1509738878053">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="49" column="17" />
+        <mark key="." line="49" column="17" />
+        <mark key="^" line="49" column="17" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" timestamp="1509570476565">
         <mark key="'" line="81" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditOptions.cs" timestamp="1509731451342">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditOptions.cs" timestamp="1509738930954">
+        <mark key="'" line="49" column="12" />
+        <mark key="[" line="45" column="58" />
+        <mark key="]" line="45" column="58" />
+        <mark key="." line="45" column="58" />
+        <mark key="^" line="45" column="58" />
       </file>
+      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-03T19-31-46.581Z.json" timestamp="1509737534435" />
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/IFSPService.cs" timestamp="1508884528930">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="30" />
@@ -558,31 +588,6 @@
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-59-33.994Z.json" timestamp="1509573613680" />
     </filemarks>
     <jumps>
-      <jump line="40" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="55" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="88" column="30" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="39" column="31" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="63" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="5" column="39" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="27" column="43" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="54" column="11" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="7" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="22" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="33" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="48" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="106" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="45" column="2" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="89" column="27" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="2" column="45" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="49" column="17" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="63" column="17" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="42" column="10" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="62" column="31" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="41" column="25" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="90" column="27" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
       <jump line="14" column="17" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLogger.cs" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLogger.cs" />
@@ -658,6 +663,31 @@
       <jump line="56" column="12" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" />
       <jump line="40" column="12" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditOptions.cs" />
+      <jump line="94" column="20" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="17" column="29" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="215" column="58" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="182" column="8" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="195" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="197" column="45" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="199" column="58" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="203" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="205" column="45" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="207" column="58" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="211" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="213" column="45" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="152" column="15" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" />
+      <jump line="134" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" />
+      <jump line="46" column="60" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" />
+      <jump line="177" column="8" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="84" column="71" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="114" column="49" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="117" column="43" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="121" column="66" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="142" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="143" column="57" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="83" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
+      <jump line="54" column="36" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" />
+      <jump line="408" column="53" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -692,53 +722,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>OperationsAPI2AuditStore</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KF9leGNsdWRlZE1ldGhvZHMuSXNOb3ROdWxsT3JFbXB0eSgpICYmIF9leGNsdWRlZE1ldGhvZHMuQ29udGFpbnMocmVxdWVzdC5NZXRob2QpKQ==</text>
+        <text>OperationsAPI2AuditStore</text>
       </register>
       <register name="/" type="4">
-        <text>Logger</text>
+        <text>LoggerAP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
+      <register name="0" type="4">
+        <text>ConfigurationManager.AppSettings[&quot;&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1ZGl0U3RvcmUgPSBjb250YWluZXIuR2V0SW5zdGFuY2U8SUF1ZGl0U3RvcmU+KCkgYXMgT3BlcmF0aW9uc0FQSTJBdWRpdFN0b3JlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZgoKICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWxpZFJvdXRlID0gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJVcmxzLkxvZ2dlckFQSSIgdmFsdWU9Imh0dHBzOi8vaW50ZXJuYWxhcGkuZGV2Lmhlcm9wcm9ncmFtLmNvbTo1MDQ0OC9BY3Rpb25JdGVtLyIgLz4KICAgIDxhZGQga2V5PSJBUElHYXRld2F5LkxvZ2dlckFQSUtleSIgdmFsdWU9Imh0dHBzOi8vaW50ZXJuYWxhcGkuZGV2Lmhlcm9wcm9ncmFtLmNvbTo1MDQ0OC9BY3Rpb25JdGVtLyIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9ewo=</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJBUElHYXRld2F5LkxvZ2dlckFQSUtleSIgdmFsdWU9Imh0dHBzOi8vaW50ZXJuYWxhcGkuZGV2Lmhlcm9wcm9ncmFtLmNvbTo1MDQ0OC9BY3Rpb25JdGVtLyIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge30K</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJVcmxzLkxvZ2dlckFQSSIgdmFsdWU9Imh0dHBzOi8vaW50ZXJuYWxhcGkuZGV2Lmhlcm9wcm9ncmFtLmNvbTo1MDQ0OC9BY3Rpb25JdGVtLyIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRSb3V0ZSA9IGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJVcmxzLkFjdGlvbkl0ZW0iIHZhbHVlPSJodHRwczovL2ludGVybmFsYXBpLmRldi5oZXJvcHJvZ3JhbS5jb206NTA0NDgvQWN0aW9uSXRlbS8iIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGFpbmVyLlJlZ2lzdGVyV2ViQXBpUmVxdWVzdDxJQXVkaXRTdG9yZSwgT3BlcmF0aW9uc0FQSTJBdWRpdFN0b3JlPigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhbGlkUm91dGUgPSBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhbGlkUm91dGUgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGFpbmVyLlJlZ2lzdGVyV2ViQXBpUmVxdWVzdDxJQXVkaXRMb2dnZXIsIEF1ZGl0TG9nZ2VyPigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRSb3V0ZSA9IGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0T21pc3Npb25Sb3V0ZVBhdHRlcm5zID0gbmV3IExpc3Q8c3RyaW5nPigpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAiRG9jdW1lbnRNYW5hZ2VtZW50L1NhdmUiCiAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Logger</last-search>
+      <last-search>LoggerAP</last-search>
       <last-offset />
-      <last-pattern>Logger</last-pattern>
+      <last-pattern>LoggerAP</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -746,9 +776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>propertyprofile</entry>
-        <entry>ra_</entry>
-        <entry>var</entry>
         <entry>deployment</entry>
         <entry>loggerapi_api_deployment</entry>
         <entry>depends_on</entry>
@@ -765,10 +792,12 @@
         <entry>Audit</entry>
         <entry>Empty</entry>
         <entry>auditRecord</entry>
+        <entry>Save</entry>
+        <entry>Download</entry>
         <entry>Logger</entry>
+        <entry>LoggerAP</entry>
       </history-search>
       <history-cmd>
-        <entry>ws</entry>
         <entry>LW</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -776,17 +805,18 @@
         <entry>redo</entry>
         <entry>%s/propertyprofile/loggerapi/g</entry>
         <entry>%s/ra_//g</entry>
-        <entry>split</entry>
         <entry>2w</entry>
         <entry>W</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>wqa</entry>
         <entry>wj</entry>
         <entry encoding="base64">JzwsJz5zL2F1ZGl0UmVjb3JkL2VudHJ5L2c=</entry>
-        <entry>q</entry>
-        <entry>qa</entry>
-        <entry>vsp</entry>
         <entry>we</entry>
+        <entry>qa</entry>
+        <entry>wa</entry>
+        <entry>vsp</entry>
+        <entry>split</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
