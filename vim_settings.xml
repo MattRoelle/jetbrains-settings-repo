@@ -106,11 +106,12 @@
         <mark key="^" line="85" column="17" />
         <mark key="." line="85" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" timestamp="1509655129966">
-        <mark key="[" line="32" column="46" />
-        <mark key="]" line="33" column="60" />
-        <mark key="." line="33" column="60" />
-        <mark key="^" line="33" column="60" />
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" timestamp="1509730873198">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="49" column="44" />
+        <mark key="." line="49" column="44" />
+        <mark key="^" line="49" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
         <mark key="[" line="8" column="31" />
@@ -319,6 +320,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" timestamp="1509570476565">
         <mark key="'" line="81" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditOptions.cs" timestamp="1509730938244">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="56" />
+        <mark key="^" line="30" column="56" />
+        <mark key="." line="30" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/IFSPService.cs" timestamp="1508884528930">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="30" />
@@ -438,19 +445,6 @@
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-59-33.994Z.json" timestamp="1509573613680" />
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="67" column="24" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" />
-      <jump line="9" column="5" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/config.json" />
-      <jump line="41" column="60" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="52" column="69" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="53" column="65" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="46" column="19" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="56" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="60" column="26" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="36" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="44" column="7" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="16" column="78" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="28" column="4" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="40" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
@@ -538,6 +532,19 @@
       <jump line="141" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="22" column="9" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
       <jump line="21" column="11" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="99" column="16" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="65" column="41" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="2" column="19" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="6" column="29" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="15" column="44" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="25" column="46" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="27" column="32" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="68" column="20" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="56" column="12" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -572,62 +579,60 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlci4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="-" type="4">
-        <text>ToChar</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>Empty</text>
+        <text>Logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlci4K</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGQgPSBuZXcgQmlnSW50ZWdlcigxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuRXJyb3JFeGNlcHRpb24oX2xvZ2dlck5hbWUsICJFcnJvciBsb2dnaW5nIGF1ZGl0IHJlY29yZHMiLCBleCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZC4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlci5FCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoQnJ1dGVGb3JjZVQoMikpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF9hdWRpdExvZ2dlci5Mb2coX3NlcnZpY2VBcmVhLCAiSFRUUF9SRVFVRVNUIiwgbmV3CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVHJhY2tpbmdJZCA9IGVudHJ5LlRyYWNraW5nSWQsCiAgICAgICAgICAgICAgICAgICAgQ2FsbGVySWRlbnRpdHkgPSBlbnRyeS5DYWxsZXJJZGVudGl0eSwKICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0U3RhcnREYXRlID0gZW50cnkuUmVxdWVzdFN0YXJ0RGF0ZSwKICAgICAgICAgICAgICAgICAgICBWZXJiID0gZW50cnkuVmVyYiwKICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0VXJpID0gZW50cnkuUmVxdWVzdFVyaSwKICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0SGVhZGVycyA9IGVudHJ5LlJlcXVlc3RIZWFkZXJzLAogICAgICAgICAgICAgICAgICAgIFJlcXVlc3QgPSBlbnRyeS5SZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgIENsYWltc1ByaW5jaXBhbCA9IGVudHJ5LkNsYWltc1ByaW5jaXBhbAogICAgICAgICAgICAgICAgfSwgbmV3CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgUmVxdWVzdEVuZERhdGUgPSBlbnRyeS5SZXF1ZXN0RW5kRGF0ZSwKICAgICAgICAgICAgICAgICAgICBTdGF0dXNDb2RlID0gZW50cnkuU3RhdHVzQ29kZSwKICAgICAgICAgICAgICAgICAgICBSZXNwb25zZUhlYWRlcnMgPSBlbnRyeS5SZXNwb25zZUhlYWRlcnMsCiAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2VMZW5ndGggPSBlbnRyeS5SZXNwb25zZUxlbmd0aCwKICAgICAgICAgICAgICAgICAgICBSZXNwb25zZSA9IGVudHJ5LlJlc3BvbnNlLAogICAgICAgICAgICAgICAgICAgIENhbGxEdXJhdGlvbiA9IGVudHJ5LkNhbGxEdXJhdGlvbiwKICAgICAgICAgICAgICAgIH0sIF9yYUNvbnRleHQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNpbmcgTkxvZzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXJFeHRlbnNpb25zLkVycgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobCA8IDApIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Empty</last-search>
+      <last-search>Logger</last-search>
       <last-offset />
-      <last-pattern>Empty</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>Logger</last-pattern>
+      <last-replace>entry</last-replace>
+      <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>proeprty</entry>
-        <entry>property</entry>
         <entry>propertyprofile</entry>
         <entry>ra_</entry>
         <entry>var</entry>
@@ -646,13 +651,11 @@
         <entry>audit</entry>
         <entry>Audit</entry>
         <entry>Empty</entry>
+        <entry>auditRecord</entry>
+        <entry>Logger</entry>
       </history-search>
       <history-cmd>
-        <entry>w3</entry>
-        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
-        <entry>ew</entry>
         <entry>ws</entry>
-        <entry>qa</entry>
         <entry>LW</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -663,10 +666,14 @@
         <entry>split</entry>
         <entry>2w</entry>
         <entry>W</entry>
-        <entry>we</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>wqa</entry>
+        <entry>wj</entry>
+        <entry encoding="base64">JzwsJz5zL2F1ZGl0UmVjb3JkL2VudHJ5L2c=</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
         <entry>vsp</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
