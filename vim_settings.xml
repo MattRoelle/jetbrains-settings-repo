@@ -41,7 +41,6 @@
         <mark key="." line="7" column="63" />
         <mark key="^" line="7" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.MVC/Middleware/RAContextMiddlewareExtensions.cs" timestamp="1509569020229" />
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem67.cs" timestamp="1509149657162">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="27" />
@@ -182,7 +181,7 @@
         <mark key="^" line="62" column="168" />
         <mark key="." line="62" column="168" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" timestamp="1509740146208">
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" timestamp="1509742769787">
         <mark key="'" line="55" column="25" />
         <mark key="[" line="59" column="69" />
         <mark key="]" line="59" column="80" />
@@ -217,7 +216,6 @@
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" timestamp="1509573419836">
         <mark key="'" line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/s/HS/hero/Services/RA.Services.DP/RA.Services.DP.Tests.Integration/BasicDocumentGeneration.feature" timestamp="1509663648532" />
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem17.cs" timestamp="1508977970158">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
@@ -252,12 +250,12 @@
         <mark key="." line="62" column="68" />
         <mark key="^" line="62" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" timestamp="1509739117292">
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" timestamp="1509742630762">
         <mark key="'" line="46" column="60" />
-        <mark key="[" line="170" column="35" />
-        <mark key="]" line="170" column="56" />
-        <mark key="^" line="170" column="56" />
-        <mark key="." line="170" column="56" />
+        <mark key="[" line="168" column="17" />
+        <mark key="]" line="168" column="15" />
+        <mark key="^" line="168" column="15" />
+        <mark key="." line="168" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" timestamp="1509058552761">
         <mark key="'" line="72" column="5" />
@@ -339,7 +337,6 @@
         <mark key="^" line="66" column="58" />
         <mark key="." line="66" column="58" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-56-58.532Z.json" timestamp="1509577037295" />
       <file name="$USER_HOME$/Documents/s/EPL/fsp.services.admin/FSP.Services.API.Admin/Web.config" timestamp="1509057364790">
         <mark key="[" line="28" column="49" />
         <mark key="]" line="28" column="52" />
@@ -376,7 +373,6 @@
         <mark key="." line="7" column="55" />
         <mark key="^" line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.MVC/Middleware/RAContextMiddleware.cs" timestamp="1509569033978" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/LockBoxServiceTests.cs" timestamp="1509057497226">
         <mark key="'" line="511" column="0" />
         <mark key="[" line="431" column="9" />
@@ -384,7 +380,6 @@
         <mark key="^" line="432" column="4" />
         <mark key="." line="432" column="4" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-47-23.031Z.json" timestamp="1509576454717" />
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" timestamp="1509060810102">
         <mark key="'" line="1" column="0" />
       </file>
@@ -433,7 +428,6 @@
         <mark key="." line="45" column="58" />
         <mark key="^" line="45" column="58" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-03T19-31-46.581Z.json" timestamp="1509737534435" />
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/IFSPService.cs" timestamp="1508884528930">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="30" />
@@ -543,7 +537,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-07-03.417Z.json" timestamp="1509574085083" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" timestamp="1508956575998">
         <mark key="'" line="12" column="44" />
       </file>
@@ -578,14 +571,13 @@
         <mark key="^" line="18" column="50" />
         <mark key="." line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-58-31.593Z.json" timestamp="1509573534381" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/HPAController.cs" timestamp="1508274182239">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="15" />
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-59-33.994Z.json" timestamp="1509573613680" />
+      <file name="$USER_HOME$/Documents/s/HS/hero/Frameworks/RA.Frameworks.DP/BondSeriesPayloadConvertor.cs" timestamp="1509742418734" />
     </filemarks>
     <jumps>
       <jump line="112" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
@@ -729,7 +721,7 @@
         <text>OperationsAPI2AuditStore</text>
       </register>
       <register name="/" type="4">
-        <text>LoggerAP</text>
+        <text>health</text>
       </register>
       <register name="0" type="4">
         <text>ConfigurationManager.AppSettings[&quot;&quot;]</text>
@@ -766,9 +758,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LoggerAP</last-search>
+      <last-search>health</last-search>
       <last-offset />
-      <last-pattern>LoggerAP</last-pattern>
+      <last-pattern>health</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -776,7 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deployment</entry>
         <entry>loggerapi_api_deployment</entry>
         <entry>depends_on</entry>
         <entry>role</entry>
@@ -796,6 +787,7 @@
         <entry>Download</entry>
         <entry>Logger</entry>
         <entry>LoggerAP</entry>
+        <entry>health</entry>
       </history-search>
       <history-cmd>
         <entry>LW</entry>
