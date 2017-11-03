@@ -15,11 +15,25 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem3.cs" timestamp="1508883031772">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/Class1.cs" timestamp="1509558278075">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="13" column="37" />
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.throttling/RA.Infrastructure.Throttling/RAThrottlePolicy.cs" timestamp="1509142765104">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="8" />
       </file>
       <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditOptions.cs" timestamp="1509567708047">
         <mark key="[" line="6" column="47" />
@@ -89,6 +103,13 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/CustomerInquiryServiceTests.cs" timestamp="1509056461146">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="198" column="29" />
+        <mark key="]" line="198" column="31" />
+        <mark key="." line="198" column="31" />
+        <mark key="^" line="198" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Audit/OperationsAPI2AuditStore.cs" timestamp="1509659515550">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -150,6 +171,13 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/log-payment/log-payment-dialog.html" timestamp="1509060778795">
+        <mark key="'" line="1" column="46" />
+        <mark key="[" line="62" column="169" />
+        <mark key="]" line="62" column="168" />
+        <mark key="^" line="62" column="168" />
+        <mark key="." line="62" column="168" />
+      </file>
       <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Startup.cs" timestamp="1509661562910">
         <mark key="'" line="55" column="25" />
       </file>
@@ -170,6 +198,13 @@
         <mark key="]" line="10" column="73" />
         <mark key="." line="10" column="73" />
         <mark key="^" line="10" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/PaymentProcessorTests.cs" timestamp="1509057876217">
+        <mark key="'" line="214" column="12" />
+        <mark key="[" line="427" column="91" />
+        <mark key="]" line="427" column="93" />
+        <mark key="." line="427" column="93" />
+        <mark key="^" line="427" column="93" />
       </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" timestamp="1509573419836">
         <mark key="'" line="0" column="71" />
@@ -203,6 +238,13 @@
         <mark key="." line="109" column="107" />
         <mark key="^" line="109" column="107" />
       </file>
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" timestamp="1509731622270">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="72" column="136" />
+        <mark key="]" line="72" column="135" />
+        <mark key="^" line="72" column="135" />
+        <mark key="." line="72" column="135" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" timestamp="1509058552761">
         <mark key="'" line="72" column="5" />
       </file>
@@ -217,6 +259,13 @@
         <mark key="]" line="12" column="51" />
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/EulerUtils.cs" timestamp="1509144938404">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507246568034">
         <mark key="[" line="27" column="51" />
@@ -241,6 +290,13 @@
         <mark key="]" line="10" column="81" />
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.ts" timestamp="1509061929455">
+        <mark key="'" line="49" column="55" />
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="59" column="9" />
+        <mark key="." line="59" column="9" />
+        <mark key="^" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem12.cs" timestamp="1508964445407">
         <mark key="[" line="8" column="27" />
@@ -298,9 +354,23 @@
         <mark key="^" line="7" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.MVC/Middleware/RAContextMiddleware.cs" timestamp="1509569033978" />
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/LockBoxServiceTests.cs" timestamp="1509057497226">
+        <mark key="'" line="511" column="0" />
+        <mark key="[" line="431" column="9" />
+        <mark key="]" line="432" column="4" />
+        <mark key="^" line="432" column="4" />
+        <mark key="." line="432" column="4" />
+      </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T22-47-23.031Z.json" timestamp="1509576454717" />
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/routes/apply-payment-detail/apply-payment-detail.ts" timestamp="1509060810102">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.html" timestamp="1509062087730">
+        <mark key="'" line="80" column="19" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="63" />
+        <mark key="^" line="87" column="82" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509729360604">
         <mark key="[" line="31" column="0" />
@@ -317,20 +387,35 @@
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T23-23-05.802Z.json" timestamp="1509578601180">
         <mark key="'" line="17" column="47" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/294f4992-2743-408a-bcd4-7311b140a417/console.sql" timestamp="1509144339039">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" timestamp="1509570476565">
         <mark key="'" line="81" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditOptions.cs" timestamp="1509730938244">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="56" />
-        <mark key="^" line="30" column="56" />
-        <mark key="." line="30" column="56" />
+      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditOptions.cs" timestamp="1509731451342">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="37" column="25" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/IFSPService.cs" timestamp="1508884528930">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1509567057748">
+        <mark key="'" line="33" column="39" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="98" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Services.HPA/Startup.cs" timestamp="1509136928718">
         <mark key="'" line="13" column="0" />
@@ -340,6 +425,13 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/dialogs/apply-payment/apply-payment-dialog.scss" timestamp="1509059773548">
+        <mark key="'" line="39" column="20" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/calculator-service.ts" timestamp="1509060214501">
         <mark key="[" line="26" column="27" />
@@ -378,11 +470,25 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Services.HPA/Controllers/LookupToolController.cs" timestamp="1509136943643">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddOngoingAdminFeeFieldToRenovatePaceLoanTable.cs" timestamp="1507568571141">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="10" column="81" />
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/HPALoanService.cs" timestamp="1509040415221">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="78" column="70" />
+        <mark key="]" line="78" column="70" />
+        <mark key="." line="78" column="70" />
+        <mark key="^" line="78" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/variables.tf" timestamp="1509475557753">
         <mark key="[" line="21" column="1" />
@@ -395,6 +501,13 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/Payments/PaymentProcessor.cs" timestamp="1509144596558">
+        <mark key="'" line="755" column="22" />
+        <mark key="[" line="937" column="43" />
+        <mark key="]" line="937" column="81" />
+        <mark key="." line="937" column="81" />
+        <mark key="^" line="937" column="81" />
       </file>
       <file name="/Dummy.txt" timestamp="1509570554402">
         <mark key="[" line="0" column="0" />
@@ -445,8 +558,6 @@
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-59-33.994Z.json" timestamp="1509573613680" />
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="40" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="55" column="35" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
       <jump line="88" column="30" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/apigateway.tf" />
@@ -545,6 +656,8 @@
       <jump line="68" column="20" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
       <jump line="115" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
       <jump line="56" column="12" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/Storage/S3AuditStore.cs" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" />
+      <jump line="40" column="12" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditOptions.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -579,11 +692,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text encoding="base64">KF9leGNsdWRlZE1ldGhvZHMuSXNOb3ROdWxsT3JFbXB0eSgpICYmIF9leGNsdWRlZE1ldGhvZHMuQ29udGFpbnMocmVxdWVzdC5NZXRob2QpKQ==</text>
       </register>
       <register name="/" type="4">
         <text>Logger</text>
@@ -592,31 +705,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBdWRpdExvZ2dlck9wdGlvbnMKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIExvZ2dlckFwaUJhc2VVcmwgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTG9nZ2VyQXBpS2V5IHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuRXJyb3JFeGNlcHRpb24oX2xvZ2dlck5hbWUsICJFcnJvciBsb2dnaW5nIGF1ZGl0IHJlY29yZHMiLCBleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZgoKICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWxpZFJvdXRlID0gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9ewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF9hdWRpdExvZ2dlci5Mb2coX3NlcnZpY2VBcmVhLCAiSFRUUF9SRVFVRVNUIiwgbmV3CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVHJhY2tpbmdJZCA9IGVudHJ5LlRyYWNraW5nSWQsCiAgICAgICAgICAgICAgICAgICAgQ2FsbGVySWRlbnRpdHkgPSBlbnRyeS5DYWxsZXJJZGVudGl0eSwKICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0U3RhcnREYXRlID0gZW50cnkuUmVxdWVzdFN0YXJ0RGF0ZSwKICAgICAgICAgICAgICAgICAgICBWZXJiID0gZW50cnkuVmVyYiwKICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0VXJpID0gZW50cnkuUmVxdWVzdFVyaSwKICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0SGVhZGVycyA9IGVudHJ5LlJlcXVlc3RIZWFkZXJzLAogICAgICAgICAgICAgICAgICAgIFJlcXVlc3QgPSBlbnRyeS5SZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgIENsYWltc1ByaW5jaXBhbCA9IGVudHJ5LkNsYWltc1ByaW5jaXBhbAogICAgICAgICAgICAgICAgfSwgbmV3CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgUmVxdWVzdEVuZERhdGUgPSBlbnRyeS5SZXF1ZXN0RW5kRGF0ZSwKICAgICAgICAgICAgICAgICAgICBTdGF0dXNDb2RlID0gZW50cnkuU3RhdHVzQ29kZSwKICAgICAgICAgICAgICAgICAgICBSZXNwb25zZUhlYWRlcnMgPSBlbnRyeS5SZXNwb25zZUhlYWRlcnMsCiAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2VMZW5ndGggPSBlbnRyeS5SZXNwb25zZUxlbmd0aCwKICAgICAgICAgICAgICAgICAgICBSZXNwb25zZSA9IGVudHJ5LlJlc3BvbnNlLAogICAgICAgICAgICAgICAgICAgIENhbGxEdXJhdGlvbiA9IGVudHJ5LkNhbGxEdXJhdGlvbiwKICAgICAgICAgICAgICAgIH0sIF9yYUNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTkxvZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRSb3V0ZSA9IGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXJFeHRlbnNpb25zLkVycgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhbGlkUm91dGUgPSBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhbGlkUm91dGUgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRSb3V0ZSA9IGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
