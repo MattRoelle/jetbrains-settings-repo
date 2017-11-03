@@ -390,12 +390,13 @@
         <mark key="^" line="87" column="82" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509749166516">
-        <mark key="[" line="20" column="38" />
-        <mark key="m" line="83" column="0" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="20" column="38" />
+      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" timestamp="1509752195723">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="22" column="27" />
+        <mark key="m" line="174" column="0" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="22" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1509056091160">
         <mark key="[" line="17" column="0" />
@@ -582,17 +583,6 @@
       <file name="$USER_HOME$/Documents/s/HS/hero/Frameworks/RA.Frameworks.DP/BondSeriesPayloadConvertor.cs" timestamp="1509742418734" />
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" />
-      <jump line="14" column="17" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLogger.cs" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLogger.cs" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/Class1.cs" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/Class1.cs" />
-      <jump line="9" column="21" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/IAuditLogger.cs" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/IAuditLogger.cs" />
-      <jump line="2" column="21" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/IAuditLogger.cs" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/IAuditLogger.cs" />
-      <jump line="14" column="17" filename="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.AuditLogger/AuditLoggerOptions.cs" />
-      <jump line="13" column="27" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="9" column="4" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="18" column="8" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="33" column="39" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" />
@@ -682,6 +672,17 @@
       <jump line="83" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
       <jump line="54" column="36" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" />
       <jump line="408" column="53" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" />
+      <jump line="99" column="4" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="41" column="20" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="107" column="7" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="42" column="23" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="106" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="46" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="112" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="64" column="20" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="53" column="42" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="50" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
+      <jump line="120" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -717,10 +718,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Math.Min(i + 5, s.Length)</text>
+        <text>&quot;pow&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Math.Min(i + 5, s.Length)</text>
+        <text>&quot;pow&quot;</text>
       </register>
       <register name="/" type="4">
         <text>health</text>
@@ -729,31 +730,31 @@
         <text>ConfigurationManager.AppSettings[&quot;&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbi5Ub1N0cmluZygpLkdldEVudW1lcmF0b3IoKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZS5Xcml0ZUFsbFRleHQoIi4vYS5jc3YiLCBzYi5Ub1N0cmluZygpKTsKICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImRvbmUiKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhczEwc3ViID0gZmFsc2U0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoYXMxMHN1YnN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgdmFyIGZvcm1hdHRlZFN1YnN0cmluZ3MgPSBuZXcgTGlzdDxUZW5TdWJzdHJpbmc+KCk7CiAgICAgICAgICAgIHZhciBtYXhGcmllbmRzID0gMDsKICAgICAgICAgICAgZm9yICh2YXIgaSA9IGZyaWVuZGx5TnVtcy5Db3VudCAtIDE7IGkgPj0gMDsgaS0tKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgbmkgPSBmcmllbmRseU51bXNbaV07CiAgICAgICAgICAgICAgICB2YXIgc3Vic3QgPSBuZXcgVGVuU3Vic3RyaW5nKG5pKTsKICAgICAgICAgICAgICAgIGZvciAodmFyIGogPSAwOyBqIDwgaTsgaisrKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBuaiA9IGZyaWVuZGx5TnVtc1tqXTsKICAgICAgICAgICAgICAgICAgICBpZiAobmkuQ29udGFpbnMobmopKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3Vic3QuRnJpZW5kcy5BZGQobmopOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmb3JtYXR0ZWRTdWJzdHJpbmdzLkFkZChzdWJzdCk7CgogICAgICAgICAgICAgICAgaWYgKHN1YnN0Lk5GcmllbmRzID4gbWF4RnJpZW5kcykgbWF4RnJpZW5kcyA9IHN1YnN0Lk5GcmllbmRzOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwoKICAgICAgICAgICAgc2IuQXBwZW5kTGluZSgkIkFsbCAxMCBzdWJzdHJpbmcgZnJpZW5kbHkgbnVtYmVycyBiZWxvdyB7bWF4fSIpOwogICAgICAgICAgICBzYi5BcHBlbmRMaW5lKCQiTkZyaWVuZHMsTixGcmllbmRzLi4uIik7CgogICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IGZvcm1hdHRlZFN1YnN0cmluZ3MuQ291bnQ7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZm9yICh2YXIgaiA9IC0yOyBqIDwgbWF4RnJpZW5kczsgaisrKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBzdWJzdCA9IGZvcm1hdHRlZFN1YnN0cmluZ3NbaV07CgogICAgICAgICAgICAgICAgICAgIGlmIChqID09IC0yKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2IuQXBwZW5kKHN1YnN0Lk5GcmllbmRzKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZSBpZiAoaiA9PSAtMSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNiLkFwcGVuZChzdWJzdC5TKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGogPCBzdWJzdC5ORnJpZW5kcykKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2IuQXBwZW5kKHN1YnN0LkZyaWVuZHNbal0pOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHNiLkFwcGVuZCgiLCIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2IuQXBwZW5kKCJcbiIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoQnJ1dGVGb3JjZVQoMikpOwogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShCcnV0ZUZvcmNlVCg1KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBvdyA9IDQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1ZGl0U3RvcmUgPSBjb250YWluZXIuR2V0SW5zdGFuY2U8SUF1ZGl0U3RvcmU+KCkgYXMgT3BlcmF0aW9uc0FQSTJBdWRpdFN0b3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -805,12 +806,12 @@
         <entry>wqa</entry>
         <entry>wj</entry>
         <entry encoding="base64">JzwsJz5zL2F1ZGl0UmVjb3JkL2VudHJ5L2c=</entry>
-        <entry>we</entry>
         <entry>qa</entry>
         <entry>wa</entry>
         <entry>vsp</entry>
         <entry>split</entry>
         <entry>q</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
