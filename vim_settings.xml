@@ -77,6 +77,7 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsMigration.cs" timestamp="1510004320434" />
       <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/IAuditLogger.cs" timestamp="1509557489781">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -156,6 +157,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/Enums/DPTemplateSetTypeTypes.cs" timestamp="1510005291032">
+        <mark key="[" line="434" column="9" />
+        <mark key="]" line="434" column="4" />
+        <mark key="." line="434" column="4" />
+        <mark key="^" line="434" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1509490393436">
         <mark key="'" line="114" column="0" />
         <mark key="[" line="73" column="153" />
@@ -183,6 +190,7 @@
         <mark key="." line="59" column="80" />
         <mark key="^" line="59" column="80" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/M20171106134630_CreateRAFAPayoffStatementTemplateSetType.cs" timestamp="1510004942427" />
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem9.cs" timestamp="1508883010254">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -208,6 +216,7 @@
         <mark key="." line="427" column="93" />
         <mark key="^" line="427" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/M20171018101948_Insert_Next_Gen_Fin_Estimate_Global.cs" timestamp="1510004560039" />
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" timestamp="1509573419836">
         <mark key="'" line="0" column="71" />
       </file>
@@ -454,13 +463,17 @@
         <mark key="." line="39" column="20" />
         <mark key="^" line="39" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/CreateRAFAPayoffStatementTemplateSetType.cs" timestamp="1510004924929">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/calculator-service.ts" timestamp="1509060214501">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="27" column="23" />
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-03T21-27-37.390Z.json" timestamp="1509745496757" />
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem5.cs" timestamp="1508873122492">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -518,6 +531,7 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsNextGenFinancingEstimate.cs" timestamp="1510004499857" />
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem13.cs" timestamp="1508968753852">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
@@ -572,16 +586,21 @@
         <mark key="^" line="18" column="50" />
         <mark key="." line="18" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" timestamp="1510005359240">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="19" column="85" />
+        <mark key="]" line="19" column="85" />
+        <mark key="." line="19" column="85" />
+        <mark key="^" line="19" column="85" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/HPAController.cs" timestamp="1508274182239">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="15" />
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/s/HS/hero/Frameworks/RA.Frameworks.DP/BondSeriesPayloadConvertor.cs" timestamp="1509742418734" />
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/appsettings.json" />
       <jump line="16" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/appsettings.json" />
       <jump line="89" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
       <jump line="96" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
@@ -681,6 +700,7 @@
       <jump line="52" column="42" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="22" column="17" filename="$USER_HOME$/Documents/s/HS/hero/BusinessObjects/RA.BusinessObjects.DP/Payload.cs" />
       <jump line="1413" column="9" filename="$USER_HOME$/Documents/s/HS/hero/BusinessObjects/RA.BusinessObjects.DP/Payload.cs" />
+      <jump line="24" column="22" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -715,53 +735,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SingleDocFinancingSummary</text>
       </register>
       <register name="-" type="4">
-        <text>col</text>
+        <text>SingleDocFinancingSummary</text>
       </register>
       <register name="/" type="4">
-        <text>FieldFormat</text>
+        <text encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>ConfigurationManager.AppSettings[&quot;&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKHZhciBqID0gMDsgaiA8IHJvdy5Db3VudDsgaisrKQo=</text>
+        <text encoding="base64">CQkJLy8vIDxzdW1tYXJ5PkVtYWlsIC0gUHJvamVjdCBDb21wbGV0ZTwvc3VtbWFyeT4KCQkJcHVibGljIGNvbnN0IGludCBFbWFpbFByb2plY3RDb21wbGV0ZSA9IDE2MjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmouCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmouTAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG5qLkxlbmd0aCA9PSBwb3cgJiYgbmouU3RhcnRzV2l0aChpLlRvU3RyaW5nKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKHZhciBqID0gMDsgaiA8IHJvdy5Db3VudDsgaisrKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKHZhciBqID0gMDsgaiA8IGZyaWVuZGx5TnVtcy5Db3VudDsgaisrKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG5qID0gZnJpZW5kbHlOdW1zW2pdOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>FieldFormat</last-search>
+      <last-search encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>FieldFormat</last-pattern>
+      <last-pattern encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -769,7 +789,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depends_on</entry>
         <entry>role</entry>
         <entry>sts</entry>
         <entry>loggerapi_role</entry>
@@ -789,13 +808,13 @@
         <entry>LoggerAP</entry>
         <entry>health</entry>
         <entry>FieldFormat</entry>
+        <entry encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>LW</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
-        <entry>redo</entry>
         <entry>%s/propertyprofile/loggerapi/g</entry>
         <entry>%s/ra_//g</entry>
         <entry>2w</entry>
@@ -810,6 +829,7 @@
         <entry>split</entry>
         <entry>q</entry>
         <entry>we</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
