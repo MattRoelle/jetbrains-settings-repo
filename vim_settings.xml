@@ -107,6 +107,12 @@
         <mark key="." line="198" column="31" />
         <mark key="^" line="198" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/Constants/Payloads.cs" timestamp="1510006695686">
+        <mark key="[" line="18" column="64" />
+        <mark key="]" line="18" column="73" />
+        <mark key="." line="18" column="73" />
+        <mark key="^" line="18" column="73" />
+      </file>
       <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" timestamp="1509740112558">
         <mark key="'" line="408" column="53" />
         <mark key="[" line="405" column="37" />
@@ -119,6 +125,12 @@
         <mark key="]" line="47" column="87" />
         <mark key="." line="47" column="87" />
         <mark key="^" line="47" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/HS/hero/BusinessObjects/RA.BusinessObjects.DP/FSPPayload.cs" timestamp="1510006664604">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem18.cs" timestamp="1509132061360">
         <mark key="[" line="85" column="19" />
@@ -216,7 +228,11 @@
         <mark key="." line="427" column="93" />
         <mark key="^" line="427" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/M20171018101948_Insert_Next_Gen_Fin_Estimate_Global.cs" timestamp="1510004560039" />
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/M20171018101948_Insert_Next_Gen_Fin_Estimate_Global.cs" timestamp="1510005853071">
+        <mark key="'" line="19" column="14" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="63" column="12" />
+      </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" timestamp="1509573419836">
         <mark key="'" line="0" column="71" />
       </file>
@@ -545,6 +561,13 @@
         <mark key="." line="937" column="81" />
         <mark key="^" line="937" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" timestamp="1510006705580">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="62" column="52" />
+        <mark key="]" line="62" column="61" />
+        <mark key="." line="62" column="61" />
+        <mark key="^" line="62" column="61" />
+      </file>
       <file name="/Dummy.txt" timestamp="1509997444589">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
@@ -586,12 +609,12 @@
         <mark key="^" line="18" column="50" />
         <mark key="." line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" timestamp="1510005359240">
-        <mark key="'" line="24" column="22" />
-        <mark key="[" line="19" column="85" />
-        <mark key="]" line="19" column="85" />
-        <mark key="." line="19" column="85" />
-        <mark key="^" line="19" column="85" />
+      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" timestamp="1510006698325">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="102" column="246" />
+        <mark key="]" line="102" column="245" />
+        <mark key="^" line="102" column="245" />
+        <mark key="." line="102" column="245" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/HPAController.cs" timestamp="1508274182239">
         <mark key="[" line="21" column="9" />
@@ -601,18 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/appsettings.json" />
-      <jump line="89" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
-      <jump line="96" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
-      <jump line="98" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
-      <jump line="81" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" />
-      <jump line="81" column="15" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
-      <jump line="86" column="13" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
-      <jump line="103" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
-      <jump line="2" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
-      <jump line="0" column="71" filename="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" />
-      <jump line="130" column="1" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
-      <jump line="33" column="17" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="34" column="13" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="110" column="0" filename="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditMiddleware.cs" />
       <jump line="2" column="21" filename="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" />
@@ -701,6 +712,18 @@
       <jump line="22" column="17" filename="$USER_HOME$/Documents/s/HS/hero/BusinessObjects/RA.BusinessObjects.DP/Payload.cs" />
       <jump line="1413" column="9" filename="$USER_HOME$/Documents/s/HS/hero/BusinessObjects/RA.BusinessObjects.DP/Payload.cs" />
       <jump line="24" column="22" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
+      <jump line="128" column="123" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
+      <jump line="126" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
+      <jump line="26" column="34" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
+      <jump line="123" column="17" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
+      <jump line="19" column="14" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/M20171018101948_Insert_Next_Gen_Fin_Estimate_Global.cs" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
+      <jump line="27" column="20" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
+      <jump line="20" column="21" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
+      <jump line="24" column="20" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
+      <jump line="122" column="48" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -736,52 +759,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SingleDocFinancingSummary</text>
+        <text>LoanPayload</text>
       </register>
       <register name="-" type="4">
-        <text>SingleDocFinancingSummary</text>
+        <text>LoanPayload</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</text>
+        <text>arcode</text>
       </register>
-      <register name="0" type="4">
-        <text>ConfigurationManager.AppSettings[&quot;&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGludD8gdGVtcGxhdGVDb25maWdJZDsKICAgICAgICAgICAgICAgIHVzaW5nIChJRGJDb25uZWN0aW9uIHNxbENvbm5lY3Rpb24gPSBuZXcgU3FsQ29ubmVjdGlvbihDb25uZWN0aW9uU3RyaW5nKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBzcWxDb25uZWN0aW9uLk9wZW4oKTsKICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZUNvbmZpZ0lkID0gc3FsQ29ubmVjdGlvbi5RdWVyeTxpbnQ+KCQiU0VMRUNUIERQVGVtcGxhdGVDb25maWd1cmF0aW9uSWQgRlJPTSB7VGFibGVzLkRQVGVtcGxhdGVDb25maWd1cmF0aW9ufSBXSEVSRSBbUGF0aF0gPSAnc3A6Ly9OZXh0LUdlbmVyYXRpb24tRmluYW5jaW5nLUVzdGltYXRlLnhtbCciKS5TaW5nbGVPckRlZmF1bHQoKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBpZiAodGVtcGxhdGVDb25maWdJZC5HZXRWYWx1ZU9yRGVmYXVsdCgpID09IDApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGNyZWF0ZWRCeSA9ICJTUFJJTlQgNzAiOwogICAgICAgICAgICAgICAgICAgIHZhciBub3cgPSBEYXRlVGltZS5Ob3c7CiAgICAgICAgICAgICAgICAgICAgdmFyIG5hbWUgPSAiTmV4dCBHZW4gRmluYW5jaW5nIEVzdGltYXRlIjsKICAgICAgICAgICAgICAgICAgICB2YXIgbmV4dFJ1bGVJZCA9IDIzOTsKICAgICAgICAgICAgICAgICAgICB2YXIgbmV4dFRlbXBsYXRlU2V0SWQgPSAzMzU7CiAgICAgICAgICAgICAgICAgICAgdmFyIG5leHRUZW1wbGF0ZUlkID0gNTQyOwogICAgICAgICAgICAgICAgICAgIHZhciBldmFsdWF0aW9uT3JkZXIgPSAyMDA7CiAgICAgICAgICAgICAgICAgICAgdmFyIHByZWZlcnJlZFBheWxvYWRUeXBlID0gUGF5bG9hZHMuTG9hblBheWxvYWQ7CiAgICAgICAgICAgICAgICAgICAgdmFyIHRlbXBsYXRlUGF0aCA9ICJzcDovL05leHQtR2VuZXJhdGlvbi1GaW5hbmNpbmctRXN0aW1hdGUueG1sIjsKICAgICAgICAgICAgICAgICAgICB2YXIgdGVtcGxhdGVUeXBlSWQgPSAoaW50KURQVGVtcGxhdGVUeXBlVHlwZXMuRmluYW5jaW5nU3VtbWFyeTsKCiAgICAgICAgICAgICAgICAgICAgdmFyIHJ1bGVTZXQgPSBuZXcgUnVsZUltcGxlbWVudGF0aW9uU2V0KCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFJ1bGVzID0gbmV3IExpc3Q8UnVsZUltcGxlbWVudGF0aW9uPigpCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBSdWxlSW1wbGVtZW50YXRpb24oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEltcGxlbWVudGF0aW9uQ2xhc3MgPSBSdWxlQ2xhc3Nlcy5BbHdheXNUcnVlVGVtcGxhdGVTZXRSdWxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9OwoKICAgICAgICAgICAgICAgICAgICB0aGlzLkluaXRpYWxpemUoY3JlYXRlZEJ5LCBub3csIG5vdywgbmFtZSwgbmFtZSwgbmFtZSwgbmV4dFJ1bGVJZCwgcnVsZVNldCwKICAgICAgICAgICAgICAgICAgICAgICAgZXZhbHVhdGlvbk9yZGVyLCBuZXh0VGVtcGxhdGVTZXRJZCwgcHJlZmVycmVkUGF5bG9hZFR5cGUsIG5leHRUZW1wbGF0ZUlkLCBuYW1lLCBuYW1lLAogICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZVBhdGgsIHRlbXBsYXRlVHlwZUlkKTsKCiAgICAgICAgICAgICAgICAgICAgdGhpcy5FeGVjdXRlTWlncmF0aW9uKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIkVycm9yOiAiICsgZXguVG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIFByb3Bvc2FsUGF5bG9hZCA9ICJSQS5CdXNpbmVzc09iamVjdHMuRFAuUHJvcG9zYWxQYXlsb2FkIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8vIDxzdW1tYXJ5PkVtYWlsIC0gUHJvamVjdCBDb21wbGV0ZTwvc3VtbWFyeT4KCQkJcHVibGljIGNvbnN0IGludCBFbWFpbFByb2plY3RDb21wbGV0ZSA9IDE2MjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh0VGVtcGxhdGVJZCA9CiAgICAgICAgICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnk8aW50PigkIlNFTEVDVCBtYXgoRFBUZW1wbGF0ZUNvbmZpZ3VyYXRpb25JZCkgRlJPTSB7VGFibGVzLkRQVGVtcGxhdGVDb25maWd1cmF0aW9ufSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCkgKyAxOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuZXh0VGVtcGxhdGVJZCA9IDU0MjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuZXh0UnVsZUlkID0gMjM5OwogICAgICAgICAgICAgICAgdmFyIG5leHRUZW1wbGF0ZVNldElkID0gMzM1Owo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">OwoKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh0VGVtcGxhdGVJZCA9CiAgICAgICAgICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnk8aW50PigkIlNFTEVDVCBtYXgoRFBUZW1wbGF0ZUNvbmZpZ3VyYXRpb25JZCkgRlJPTSB7VGFibGVzLkRQVGVtcGxhdGVDb25maWd1cmF0aW9ufSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCkgKyAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKHZhciBqID0gMDsgaiA8IHJvdy5Db3VudDsgaisrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZVR5cGVJZCA9CiAgICAgICAgICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnk8aW50PigkIlNFTEVDVCBtYXgoRFBUZW1wbGF0ZVR5cGVJZCkgRlJPTSB7VGFibGVzLkRQVGVtcGxhdGVUeXBlfSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCkgKyAxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZVR5cGVJZCA9CiAgICAgICAgICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnk8aW50PigkIlNFTEVDVCBtYXgoRFBUZW1wbGF0ZVR5cGVJZCkgRlJPTSB7VGFibGVzLkRQVGVtcGxhdGVUeXBlfSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCkgKyAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</last-search>
+      <last-search>arcode</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</last-pattern>
+      <last-pattern>arcode</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -789,10 +812,6 @@
     </search>
     <history>
       <history-search>
-        <entry>role</entry>
-        <entry>sts</entry>
-        <entry>loggerapi_role</entry>
-        <entry>OnCompleted</entry>
         <entry>stopwatch</entry>
         <entry>'</entry>
         <entry>isBuffer</entry>
@@ -809,6 +828,10 @@
         <entry>health</entry>
         <entry>FieldFormat</entry>
         <entry encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</entry>
+        <entry>Barcode</entry>
+        <entry>templateConfigId</entry>
+        <entry>Barco</entry>
+        <entry>arcode</entry>
       </history-search>
       <history-cmd>
         <entry>LW</entry>
@@ -823,13 +846,13 @@
         <entry>wqa</entry>
         <entry>wj</entry>
         <entry encoding="base64">JzwsJz5zL2F1ZGl0UmVjb3JkL2VudHJ5L2c=</entry>
-        <entry>qa</entry>
         <entry>wa</entry>
-        <entry>vsp</entry>
         <entry>split</entry>
         <entry>q</entry>
         <entry>we</entry>
         <entry>redo</entry>
+        <entry>qa</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
