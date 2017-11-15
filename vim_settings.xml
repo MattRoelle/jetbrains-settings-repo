@@ -236,11 +236,6 @@
         <mark key="." line="427" column="93" />
         <mark key="^" line="427" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/M20171018101948_Insert_Next_Gen_Fin_Estimate_Global.cs" timestamp="1510005853071">
-        <mark key="'" line="19" column="14" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="63" column="12" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem17.cs" timestamp="1508977970158">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
@@ -267,8 +262,13 @@
         <mark key="." line="109" column="107" />
         <mark key="^" line="109" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" timestamp="1510177770801">
-        <mark key="'" line="290" column="84" />
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" timestamp="1510772106605">
+        <mark key="'" line="610" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/Repositories/Database/PaceAssessmentDatabaseRepository.cs" timestamp="1510772159348">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/App_Start/IocConfig.cs" timestamp="1509740155328">
         <mark key="[" line="62" column="57" />
@@ -604,7 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="89" column="232" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="102" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="106" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
@@ -704,6 +703,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/RA.Domain.Dto.Dream/Models/SecuritizationModel.cs" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/RA.Domain.Dto.Dream/Models/SecuritizationModel.cs" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/RA.Domain.Dto.Dream/Models/SecuritizationModel.cs" />
+      <jump line="610" column="1" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
