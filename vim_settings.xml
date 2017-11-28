@@ -117,12 +117,11 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" timestamp="1509740112558">
-        <mark key="'" line="408" column="53" />
-        <mark key="[" line="405" column="37" />
-        <mark key="]" line="405" column="95" />
-        <mark key="." line="405" column="95" />
-        <mark key="^" line="405" column="95" />
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" timestamp="1511891017626">
+        <mark key="'" line="421" column="18" />
+        <mark key="[" line="409" column="0" />
+        <mark key="]" line="410" column="90" />
+        <mark key="." line="409" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" timestamp="1509059016557">
         <mark key="[" line="47" column="88" />
@@ -481,6 +480,7 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-03T21-27-37.390Z.json" timestamp="1511890981892" />
       <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem5.cs" timestamp="1508873122492">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -604,7 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="232" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="102" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="106" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
       <jump line="129" column="232" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" />
@@ -704,6 +703,7 @@
       <jump line="32" column="0" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/RA.Domain.Dto.Dream/Models/SecuritizationModel.cs" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/RA.Domain.Dto.Dream/Models/SecuritizationModel.cs" />
       <jump line="610" column="1" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" />
+      <jump line="417" column="18" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Web.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,53 +721,53 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJVcmxzLkxvZ2dlckFQSSIgdmFsdWU9Imh0dHBzOi8vN3N4bDBldzN0bC5leGVjdXRlLWFwaS51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS8wXzAvIiAvPgogICAgPGFkZCBrZXk9IkFQSUdhdGV3YXkuTG9nZ2VyQVBJS2V5IiB2YWx1ZT0iMXNYQm9ZWVV1QzdpbWRzZXBzdjZ3NVQwb2E0cGNlOUsyU2lpS2hhRiIgLz4K</text>
       </register>
       <register name="-" type="4">
         <text>CustomerInquiryRequestDto_TargetMonthlyPmt()</text>
       </register>
       <register name="/" type="4">
-        <text>Dbrs</text>
+        <text>Logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGZvcm1hdHRlZFN1YnN0cmluZ3MgPSBuZXcgTGlzdDxUZW5TdWJzdHJpbmc+KCk7CiAgICAgICAgICAgIHZhciBtYXhGcmllbmRzID0gMDsKICAgICAgICAgICAgZm9yICh2YXIgaSA9IGZyaWVuZGx5TnVtcy5Db3VudCAtIDE7IGkgPj0gMDsgaS0tKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgbmkgPSBmcmllbmRseU51bXNbaV07CiAgICAgICAgICAgICAgICB2YXIgc3Vic3QgPSBuZXcgVGVuU3Vic3RyaW5nKG5pKTsKICAgICAgICAgICAgICAgIGZvciAodmFyIGogPSAwOyBqIDwgaTsgaisrKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBuaiA9IGZyaWVuZGx5TnVtc1tqXTsKICAgICAgICAgICAgICAgICAgICBpZiAobmkuQ29udGFpbnMobmopKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3Vic3QuRnJpZW5kcy5BZGQobmopOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmb3JtYXR0ZWRTdWJzdHJpbmdzLkFkZChzdWJzdCk7CgogICAgICAgICAgICAgICAgaWYgKHN1YnN0Lk5GcmllbmRzID4gbWF4RnJpZW5kcykgbWF4RnJpZW5kcyA9IHN1YnN0Lk5GcmllbmRzOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwoKICAgICAgICAgICAgc2IuQXBwZW5kTGluZSgkIkFsbCAxMCBzdWJzdHJpbmcgZnJpZW5kbHkgbnVtYmVycyBiZWxvdyB7bWF4fSIpOwogICAgICAgICAgICBzYi5BcHBlbmRMaW5lKCQiTkZyaWVuZHMsTixGcmllbmRzLi4uIik7CgogICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IGZvcm1hdHRlZFN1YnN0cmluZ3MuQ291bnQ7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZm9yICh2YXIgaiA9IC0yOyBqIDwgbWF4RnJpZW5kczsgaisrKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBzdWJzdCA9IGZvcm1hdHRlZFN1YnN0cmluZ3NbaV07CgogICAgICAgICAgICAgICAgICAgIGlmIChqID09IC0yKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2IuQXBwZW5kKHN1YnN0Lk5GcmllbmRzKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZSBpZiAoaiA9PSAtMSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNiLkFwcGVuZChzdWJzdC5TKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGogPCBzdWJzdC5ORnJpZW5kcykKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2IuQXBwZW5kKHN1YnN0LkZyaWVuZHNbal0pOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHNiLkFwcGVuZCgiLCIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2IuQXBwZW5kKCJcbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJVcmxzLkxvZ2dlckFQSSIgdmFsdWU9Imh0dHBzOi8vN3N4bDBldzN0bC5leGVjdXRlLWFwaS51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS8wXzAvIiAvPgogICAgPGFkZCBrZXk9IkFQSUdhdGV3YXkuTG9nZ2VyQVBJS2V5IiB2YWx1ZT0iMXNYQm9ZWVV1QzdpbWRzZXBzdjZ3NVQwb2E0cGNlOUsyU2lpS2hhRiIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBheW1lbnRBbW91bnQgPSA1MDAwLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBheW1lbnRBbW91bnQgPSA1MDAwLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBheW1lbnRBbW91bnQgPSA1MDAwLAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>CustomerInquiryRequestDto_TargetPrin()
             {</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDdXN0b21lcklucXVpcnlFeGFtcGxlUHJvdmlkZXJfVGFyZ2V0QW5udWFsUG10IDogSUV4YW1wbGVzUHJvdmlkZXIKICAgewogICAgICAgIHB1YmxpYyBvYmplY3QgR2V0RXhhbXBsZXMoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBDdXN0b21lcklucXVpcnlSZXF1ZXN0RHRvX1RhcmdldEFubnVhbFBtdCgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEVtYWlsID0gIm1yb2VsbGVAcmVub3ZhdGVhbWVyaWNhLmNvbSIsCiAgICAgICAgICAgICAgICBGYXggPSAiOTk5OTk5OTk5OSIsCiAgICAgICAgICAgICAgICBQaG9uZSA9ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgICAgIEZpcnN0TmFtZSA9ICJKb2huIiwKICAgICAgICAgICAgICAgIExhc3ROYW1lID0gIlNtaXRoIiwKICAgICAgICAgICAgICAgIEZyb20gPSAiQUJDIEVzY3JvdyIsCiAgICAgICAgICAgICAgICBHb29kVGhyb3VnaERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgMTAsIDI1KSwKICAgICAgICAgICAgICAgIFRhcmdldFBheW1lbnQgPSA4MDAsCiAgICAgICAgICAgICAgICBCb25kQ2FsbERhdGUgPSBuZXcgRGF0ZVRpbWUoMjAxNywgMTEsIDIpLAogICAgICAgICAgICAgICAgUmVmZXJlbmNlTnVtYmVyID0gIk1PMTgzMTA4MjU0IgogICAgICAgICAgICB9OwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDdXN0b21lcklucXVpcnlFeGFtcGxlUHJvdmlkZXJfVGFyZ2V0UHJpbiA6IElFeGFtcGxlc1Byb3ZpZGVyCiAgIHsKICAgICAgICBwdWJsaWMgb2JqZWN0IEdldEV4YW1wbGVzKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQ3VzdG9tZXJJbnF1aXJ5UmVxdWVzdER0b19UYXJnZXRQcmluKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRW1haWwgPSAibXJvZWxsZUByZW5vdmF0ZWFtZXJpY2EuY29tIiwKICAgICAgICAgICAgICAgIEZheCA9ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgICAgIFBob25lID0gIjk5OTk5OTk5OTkiLAogICAgICAgICAgICAgICAgRmlyc3ROYW1lID0gIkpvaG4iLAogICAgICAgICAgICAgICAgTGFzdE5hbWUgPSAiU21pdGgiLAogICAgICAgICAgICAgICAgRnJvbSA9ICJBQkMgRXNjcm93IiwKICAgICAgICAgICAgICAgIEdvb2RUaHJvdWdoRGF0ZSA9IG5ldyBEYXRlVGltZSgyMDE3LCAxMCwgMjUpLAogICAgICAgICAgICAgICAgVGFyZ2V0UHJpbmNpcGFsID0gNTAwMCwKICAgICAgICAgICAgICAgIEJvbmRDYWxsRGF0ZSA9IG5ldyBEYXRlVGltZSgyMDE3LCAxMSwgMiksCiAgICAgICAgICAgICAgICBSZWZlcmVuY2VOdW1iZXIgPSAiTU8xODMxMDgyNTQiCiAgICAgICAgICAgIH07CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJvbmRDYWxsRGF0ZSA9IG5ldyBEYXRlVGltZSgyMDE3LCAxMSwgMiksCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBheW1lbnRBbW91bnQgPSA0MDAwLAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5xYQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>Dbrs</last-search>
+      <last-search>Logger</last-search>
       <last-offset />
-      <last-pattern>Dbrs</last-pattern>
+      <last-pattern>Logger</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -784,7 +784,6 @@
         <entry>auditRecord</entry>
         <entry>Save</entry>
         <entry>Download</entry>
-        <entry>Logger</entry>
         <entry>LoggerAP</entry>
         <entry>health</entry>
         <entry>FieldFormat</entry>
@@ -795,6 +794,7 @@
         <entry>arcode</entry>
         <entry>new</entry>
         <entry>Dbrs</entry>
+        <entry>Logger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -814,9 +814,9 @@
         <entry>vsp</entry>
         <entry>wk</entry>
         <entry>split</entry>
-        <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5xYQ==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
