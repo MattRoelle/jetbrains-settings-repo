@@ -221,8 +221,10 @@
         <mark key="." line="109" column="107" />
         <mark key="^" line="109" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" timestamp="1510772106605">
-        <mark key="'" line="610" column="1" />
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" timestamp="1511908010930">
+        <mark key="'" line="222" column="13" />
+        <mark key="[" line="221" column="12" />
+        <mark key="." line="221" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/Repositories/Database/PaceAssessmentDatabaseRepository.cs" timestamp="1510772159348">
         <mark key="[" line="35" column="15" />
@@ -516,8 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="0" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" />
-      <jump line="46" column="60" filename="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit/AuditMiddleware.cs" />
       <jump line="177" column="8" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
       <jump line="84" column="71" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
       <jump line="114" column="49" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" />
@@ -616,6 +616,8 @@
       <jump line="1810" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero/RA.Database.Migrator.RAHERO/Scripts/M20171128132330_AddEETypeConditionRecordsForCoolRoofsExcludingMOAndFL.sql" />
       <jump line="2715" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero/RA.Database.Migrator.RAHERO/Scripts/M20171128132330_AddEETypeConditionRecordsForCoolRoofsExcludingMOAndFL.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero/RA.Database.Migrator.RAHERO/Scripts/M20171128132330_AddEETypeConditionRecordsForCoolRoofsExcludingMOAndFL.sql" />
+      <jump line="75" column="20" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" />
+      <jump line="222" column="13" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -628,7 +630,7 @@
         <text encoding="base64">Miwg</text>
       </register>
       <register name="/" type="4">
-        <text>INSERT</text>
+        <text>fee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gRUVUeXBlQ29uZGl0aW9uCihFRVR5cGVJZCwgQ29uZGl0aW9uVHlwZUlkLCBUYXhSYXRlQXJlYUlkLCBGaW5hbmNlT3JnYW5pemF0aW9uSWQsIFtSZXF1aXJlZF0pClZBTFVFUwo=</text>
@@ -665,9 +667,9 @@
       </register>
     </registers>
     <search>
-      <last-search>INSERT</last-search>
+      <last-search>fee</last-search>
       <last-offset />
-      <last-pattern>INSERT</last-pattern>
+      <last-pattern>fee</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -675,8 +677,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Empty</entry>
-        <entry>auditRecord</entry>
         <entry>Save</entry>
         <entry>Download</entry>
         <entry>LoggerAP</entry>
@@ -695,6 +695,8 @@
         <entry>GetRe</entry>
         <entry>_mapper</entry>
         <entry>INSERT</entry>
+        <entry>Run</entry>
+        <entry>fee</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
