@@ -84,7 +84,9 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Common/Utilities/MathUtility.cs" timestamp="1511914478751" />
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Common/Utilities/MathUtility.cs" timestamp="1511979796221">
+        <mark key="'" line="115" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/IAuditLogger.cs" timestamp="1509557489781">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -531,7 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="7" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="42" column="23" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="106" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="112" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
@@ -631,6 +632,7 @@
       <jump line="124" column="42" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/ProjectedCashFlows/ProjectedCashFlowLogic.cs" />
       <jump line="33" column="45" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/Valuation/CashFlowGenerationInput.cs" />
       <jump line="69" column="45" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/Valuation/CashFlowGenerationInput.cs" />
+      <jump line="115" column="21" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Common/Utilities/MathUtility.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -643,7 +645,7 @@
         <text encoding="base64">Miwg</text>
       </register>
       <register name="/" type="4">
-        <text>Separate</text>
+        <text>Payment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gRUVUeXBlQ29uZGl0aW9uCihFRVR5cGVJZCwgQ29uZGl0aW9uVHlwZUlkLCBUYXhSYXRlQXJlYUlkLCBGaW5hbmNlT3JnYW5pemF0aW9uSWQsIFtSZXF1aXJlZF0pClZBTFVFUwo=</text>
@@ -680,9 +682,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Separate</last-search>
+      <last-search>Payment</last-search>
       <last-offset />
-      <last-pattern>Separate</last-pattern>
+      <last-pattern>Payment</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -690,9 +692,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWZhdWx0RG9jdW1lbnRHZW5lcmF0aW9uT3B0aW9uXD4=</entry>
-        <entry>Barcode</entry>
-        <entry>templateConfigId</entry>
         <entry>Barco</entry>
         <entry>arcode</entry>
         <entry>new</entry>
@@ -710,6 +709,9 @@
         <entry>Prep</entry>
         <entry>Prepayment =</entry>
         <entry>Separate</entry>
+        <entry>PMT</entry>
+        <entry>Pmt</entry>
+        <entry>Payment</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
