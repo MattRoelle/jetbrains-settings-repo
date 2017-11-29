@@ -5,44 +5,14 @@
       <mark key="S" line="33" column="20" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/Valuation/CashFlowGenerationInput.cs" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/FSPService.cs" timestamp="1508884569165">
-        <mark key="[" line="49" column="64" />
-        <mark key="]" line="49" column="90" />
-        <mark key="." line="49" column="90" />
-        <mark key="^" line="49" column="90" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/appsettings.json" timestamp="1509568684778">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/Class1.cs" timestamp="1509558278075">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/Valuation/CashFlowGenerationInput.cs" timestamp="1511913522924">
         <mark key="'" line="69" column="45" />
         <mark key="[" line="33" column="45" />
         <mark key="]" line="33" column="46" />
         <mark key="." line="33" column="46" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditOptions.cs" timestamp="1509567708047">
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="7" column="63" />
-        <mark key="." line="7" column="63" />
-        <mark key="^" line="7" column="63" />
-      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20170519113726_CreateInitialLoanSchema.cs" timestamp="1511893372103">
         <mark key="'" line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem67.cs" timestamp="1509149657162">
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="35" column="27" />
-        <mark key="." line="35" column="27" />
-        <mark key="^" line="35" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.ConsoleApp/Program.cs" timestamp="1510174923324" />
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" timestamp="1510176272620">
@@ -52,12 +22,6 @@
         <mark key="^" line="115" column="34" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/BondServiceTests.cs" timestamp="1509055946091">
-        <mark key="[" line="78" column="113" />
-        <mark key="]" line="78" column="126" />
-        <mark key="^" line="78" column="126" />
-        <mark key="." line="78" column="126" />
-      </file>
       <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/RA.Domain.Dto.Dream/Models/SecuritizationModel.cs" timestamp="1510181438563">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="0" column="13" />
@@ -65,109 +29,17 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/AuditLogger.cs" timestamp="1509559175351">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/Containers/CashFlows/ContractualCashFlow.cs" timestamp="1511919659044" />
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/s3.tf" timestamp="1509646907241">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem15.cs" timestamp="1508977480890">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Common/Utilities/MathUtility.cs" timestamp="1511979796221">
-        <mark key="'" line="115" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables/RA.Infrastructure.NetStandard.AuditLogger/IAuditLogger.cs" timestamp="1509557489781">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Common/Utilities/MathUtility.cs" timestamp="1511995517256">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="/code_fragment.cls" timestamp="1509729221876">
         <mark key="[" line="0" column="0" />
         <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit.TestWebAPI/Startup.cs" timestamp="1509573361411">
-        <mark key="[" line="66" column="98" />
-        <mark key="]" line="66" column="98" />
-        <mark key="." line="66" column="98" />
-        <mark key="^" line="66" column="98" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem8.cs" timestamp="1508882589082">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/Constants/Payloads.cs" timestamp="1510006695686">
-        <mark key="[" line="18" column="64" />
-        <mark key="]" line="18" column="73" />
-        <mark key="." line="18" column="73" />
-        <mark key="^" line="18" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/PaymentController.cs" timestamp="1509059016557">
-        <mark key="[" line="47" column="88" />
-        <mark key="]" line="47" column="87" />
-        <mark key="." line="47" column="87" />
-        <mark key="^" line="47" column="87" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/HS/hero/BusinessObjects/RA.BusinessObjects.DP/FSPPayload.cs" timestamp="1510006664604">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="4" column="50" />
-        <mark key="^" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem18.cs" timestamp="1509132061360">
-        <mark key="[" line="85" column="19" />
-        <mark key="]" line="85" column="17" />
-        <mark key="^" line="85" column="17" />
-        <mark key="." line="85" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model.Enums/CustomerInquiryType.cs" timestamp="1507246712499">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI.sql" timestamp="1508963093316">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Dto.HPA/LoanDetailsDto.cs" timestamp="1508955127125">
-        <mark key="[" line="19" column="126" />
-        <mark key="]" line="19" column="129" />
-        <mark key="^" line="19" column="129" />
-        <mark key="." line="19" column="129" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/294f4992-2743-408a-bcd4-7311b140a417/console_1.sql" timestamp="1511893617778">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="74" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem10.cs" timestamp="1509146111164">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/Enums/DPTemplateSetTypeTypes.cs" timestamp="1510005291032">
-        <mark key="[" line="434" column="9" />
-        <mark key="]" line="434" column="4" />
-        <mark key="." line="434" column="4" />
-        <mark key="^" line="434" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/CustomerInquiryService.cs" timestamp="1510175823991">
         <mark key="'" line="114" column="0" />
@@ -176,93 +48,28 @@
         <mark key="." line="74" column="86" />
         <mark key="^" line="74" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/PaymentScheduleDto.cs" timestamp="1507579673613">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/LoanStages/FixedRateAmortizingLoanStage.cs" timestamp="1511994732491" />
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/LoanStages/FixedRateAmortizingLoanStage.cs" timestamp="1511995445355" />
       <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero/RA.Database.Migrator.RAHERO/M20171128132330_AddEETypeConditionRecordsForCoolRoofsExcludingMOAndFL.cs" timestamp="1511904397677">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="9" column="51" />
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem9.cs" timestamp="1508883010254">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AlterGetPrincipalBalanceStoredProcforIndentureCAPI .cs" timestamp="1507678475958">
-        <mark key="[" line="9" column="101" />
-        <mark key="]" line="9" column="104" />
-        <mark key="^" line="9" column="104" />
-        <mark key="." line="9" column="104" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddAdminFeeToLoanAccountPaymentSchedule.cs" timestamp="1507571017366">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="10" column="73" />
-        <mark key="." line="10" column="73" />
-        <mark key="^" line="10" column="73" />
-      </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T21-56-19.775Z.json" timestamp="1509573419836">
         <mark key="'" line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem17.cs" timestamp="1508977970158">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-      </file>
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/ProductTypes/FixedRateLoan.cs" timestamp="1511995751254" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A2FD96E-4F70-4831-A0A6-0E37669D611F/76/0e021fd2/String.cs" timestamp="1509661210541">
         <mark key="'" line="141" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.IO/Database/SQL/SecuritizationEngineContext/1_SubsequentRelease/1_Tables/ReserveAccountsDetail.Table.sql" timestamp="1510178101045" />
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/M20171010162953_AlterGetPrincipalBalanceStoredProcforIndentureCAPI.cs" timestamp="1507679064967">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/RAProxy.cs" timestamp="1507245288397">
-        <mark key="[" line="109" column="108" />
-        <mark key="]" line="109" column="107" />
-        <mark key="." line="109" column="107" />
-        <mark key="^" line="109" column="107" />
-      </file>
       <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/SecuritizationEngine/Securitization.cs" timestamp="1511908010930">
         <mark key="'" line="222" column="13" />
         <mark key="[" line="221" column="12" />
         <mark key="." line="221" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/App_Start/IocConfig.cs" timestamp="1509740155328">
-        <mark key="[" line="62" column="57" />
-        <mark key="]" line="62" column="68" />
-        <mark key="." line="62" column="68" />
-        <mark key="^" line="62" column="68" />
-      </file>
       <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/loan-service.ts" timestamp="1509058552761">
         <mark key="'" line="72" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/code/lambda/loggerapi-log/index.js" timestamp="1510100858589">
-        <mark key="[" line="21" column="81" />
-        <mark key="]" line="21" column="83" />
-        <mark key="." line="21" column="83" />
-        <mark key="^" line="21" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddNewCustomerInquiryTypesAndAdditionalFields.cs" timestamp="1507246406094">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="51" />
-        <mark key="." line="12" column="51" />
-        <mark key="^" line="12" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit.Test/HealthCheckController.cs" timestamp="1509737876413">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="22" />
-        <mark key="." line="45" column="22" />
-        <mark key="^" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" timestamp="1510176217194">
         <mark key="'" line="52" column="8" />
@@ -271,86 +78,8 @@
         <mark key="^" line="93" column="127" />
         <mark key="." line="93" column="127" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/CustomerInquiry.cs" timestamp="1507246568034">
-        <mark key="[" line="27" column="51" />
-        <mark key="]" line="27" column="63" />
-        <mark key="." line="27" column="63" />
-        <mark key="^" line="27" column="63" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/RA.Redistributables.NetStandard.Audit/RA.Infrastructure.NetStandard.Audit/RAAuditExtensions.cs" timestamp="1509568480966">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/FundAccountTransaction.cs" timestamp="1507569459340">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/IIndentureStrategy.cs" timestamp="1507569531874">
-        <mark key="[" line="10" column="70" />
-        <mark key="]" line="10" column="81" />
-        <mark key="^" line="10" column="81" />
-        <mark key="." line="10" column="81" />
-      </file>
       <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.API.Operations2/Controllers/DocumentManagementController.cs" timestamp="1509739624056">
         <mark key="'" line="83" column="16" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem12.cs" timestamp="1508964445407">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/HPAService.cs" timestamp="1509144545283">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="42" column="11" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="42" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/RA/UniversalPrepayment.cs" timestamp="1507752250615">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="42" column="4" />
-        <mark key="^" line="66" column="58" />
-        <mark key="." line="66" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/fsp.services.admin/FSP.Services.API.Admin/Web.config" timestamp="1509057364790">
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="28" column="52" />
-        <mark key="." line="28" column="52" />
-        <mark key="^" line="28" column="52" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4dd35349-d64c-43d5-972a-39bb450e0372/console.sql" timestamp="1509491741403">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Model/LoanAccountPaymentSchedule.cs" timestamp="1507571217029">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="52" />
-        <mark key="." line="16" column="52" />
-        <mark key="^" line="16" column="52" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem7.cs" timestamp="1508873699395">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Tests.Unit/DomainService/HPAServiceTests.cs" timestamp="1509056698715">
-        <mark key="[" line="63" column="56" />
-        <mark key="]" line="63" column="56" />
-        <mark key="." line="63" column="56" />
-        <mark key="^" line="63" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/HPAFinancialSummaryDto.cs" timestamp="1508884515707">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="7" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4dd35349-d64c-43d5-972a-39bb450e0372/console_1.sql" timestamp="1511905482580">
         <mark key="'" line="6" column="7" />
@@ -370,12 +99,6 @@
         <mark key="]" line="38" column="97" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/CustomerInquiryRequestDto.cs" timestamp="1510175436881">
-        <mark key="[" line="29" column="52" />
-        <mark key="]" line="29" column="54" />
-        <mark key="." line="29" column="54" />
-        <mark key="^" line="29" column="54" />
-      </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-01T23-23-05.802Z.json" timestamp="1509578601180">
         <mark key="'" line="17" column="47" />
       </file>
@@ -386,20 +109,8 @@
         <mark key="." line="5" column="94" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/s/RR/ra.redistributables.audit/RA.Infrastructure.Audit.Test/Startup.cs" timestamp="1509738878053">
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="17" />
-        <mark key="." line="49" column="17" />
-        <mark key="^" line="49" column="17" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7237752A-EC9B-4D4A-B3E3-9AE7881979E1/0a/c98963a5/HttpResponse.cs" timestamp="1509570476565">
         <mark key="'" line="81" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Domain.Services.HPA/IFSPService.cs" timestamp="1508884528930">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Startup.cs" timestamp="1511893492560">
         <mark key="'" line="33" column="39" />
@@ -413,36 +124,12 @@
       <file name="$USER_HOME$/Documents/s/HPAPL/ra.services.hpa/RA.Services.HPA/Startup.cs" timestamp="1509136928718">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem14.cs" timestamp="1508969180344">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/CreateRAFAPayoffStatementTemplateSetType.cs" timestamp="1510004924929">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/src/resources/services/calculator-service.ts" timestamp="1509060214501">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-      </file>
       <file name="$USER_HOME$/Downloads/HTTP_REQUEST_2017-11-03T21-27-37.390Z.json" timestamp="1511890981892" />
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem5.cs" timestamp="1508873122492">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/Scripts/AlterGetPrincipalBalanceStoredProcForIndentureCAPI.sql" timestamp="1507678237356">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/RenovatePaceLoanDto.cs" timestamp="1511893705280">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="34" column="9" />
@@ -450,37 +137,7 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddBondIdToFundAccountTransactionTable.cs" timestamp="1507571030381">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="14" column="57" />
-        <mark key="." line="14" column="57" />
-        <mark key="^" line="14" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AlterGetPrincipalBalanceStoredProcforIndentureCAPI.cs" timestamp="1507678290498">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AddOngoingAdminFeeFieldToRenovatePaceLoanTable.cs" timestamp="1507568571141">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="10" column="81" />
-        <mark key="^" line="10" column="81" />
-        <mark key="." line="10" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/variables.tf" timestamp="1509475557753">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Problem13.cs" timestamp="1508968753852">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1511913533136">
+      <file name="/Dummy.txt" timestamp="1511996016972">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
@@ -496,47 +153,17 @@
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/IndentureStrategy/MCEDIndentureStrategy.cs" timestamp="1508956575998">
         <mark key="'" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Dto/ApplyLockBoxPaymentDto.cs" timestamp="1509056105553">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/ModifyCustomerInquiryTableInSupportOfSFIntegration.cs" timestamp="1507062184053">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/fsp.web.admin/aurelia_project/environments/dev.ts" timestamp="1509058976190">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero/RA.Database.Migrator.RAHERO/Scripts/M20171128132330_AddEETypeConditionRecordsForCoolRoofsExcludingMOAndFL.sql" timestamp="1511905248355">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFC3303A-AA9B-478D-B838-DF710C4BB567/15/f5c93927/FinancialSummaryResponseDto.cs" timestamp="1508884499540">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/HPAController.cs" timestamp="1508274182239">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/ProductTypes/Pace/PaceAssessment.cs" timestamp="1511995711467">
+        <mark key="'" line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
-      <jump line="106" column="8" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
-      <jump line="112" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="64" column="20" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="50" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="120" column="0" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
@@ -634,19 +261,22 @@
       <jump line="33" column="45" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/Valuation/CashFlowGenerationInput.cs" />
       <jump line="69" column="45" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/Valuation/CashFlowGenerationInput.cs" />
       <jump line="115" column="21" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Common/Utilities/MathUtility.cs" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/ProductTypes/Pace/PaceAssessment.cs" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Core/BusinessLogic/ProductTypes/Pace/PaceAssessment.cs" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/s/dream/ra.services.dream/Dream.Common/Utilities/MathUtility.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>^lvlldj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbCBDaGVja0RpdmlzaWJpbGl0eU9mSW50ZWdlcnMoaW50IG51bWJlciwgaW50IGRpdmlzb3Ip</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Miwg</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbCBDaGVja0RpdmlzaWJpbGl0eU9mSW50ZWdlcnMoaW50IG51bWJlciwgaW50IGRpdmlzb3Ip</text>
       </register>
       <register name="/" type="4">
-        <text>Payment</text>
+        <text>LoanStage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gRUVUeXBlQ29uZGl0aW9uCihFRVR5cGVJZCwgQ29uZGl0aW9uVHlwZUlkLCBUYXhSYXRlQXJlYUlkLCBGaW5hbmNlT3JnYW5pemF0aW9uSWQsIFtSZXF1aXJlZF0pClZBTFVFUwo=</text>
@@ -683,9 +313,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Payment</last-search>
+      <last-search>LoanStage</last-search>
       <last-offset />
-      <last-pattern>Payment</last-pattern>
+      <last-pattern>LoanStage</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -693,7 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Barco</entry>
         <entry>arcode</entry>
         <entry>new</entry>
         <entry>Dbrs</entry>
@@ -713,9 +342,9 @@
         <entry>PMT</entry>
         <entry>Pmt</entry>
         <entry>Payment</entry>
+        <entry>LoanStage</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
         <entry>%s/propertyprofile/loggerapi/g</entry>
         <entry>%s/ra_//g</entry>
@@ -729,11 +358,12 @@
         <entry>redo</entry>
         <entry>wk</entry>
         <entry>split</entry>
-        <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
         <entry>W</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5RQQ==</entry>
+        <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>vsp</entry>
       </history-cmd>
       <history-expr />
