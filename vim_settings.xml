@@ -335,11 +335,13 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" timestamp="1512073803620">
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="57" column="9" />
-        <mark key="." line="57" column="9" />
-        <mark key="^" line="57" column="9" />
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" timestamp="1512153297873">
+        <mark key="a" line="1355" column="16" />
+        <mark key="'" line="1198" column="184" />
+        <mark key="[" line="482" column="20" />
+        <mark key="]" line="482" column="19" />
+        <mark key="." line="482" column="19" />
+        <mark key="^" line="482" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Domain.FSP.Services/HPAService.cs" timestamp="1509144545283">
         <mark key="[" line="41" column="13" />
@@ -483,6 +485,13 @@
         <mark key="." line="14" column="57" />
         <mark key="^" line="14" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Views/Operations/Directives/ConfirmTerms/FirstPayment.cshtml" timestamp="1512153634117">
+        <mark key="'" line="45" column="27" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/s/EPL/ra.database.fsp/RA.Database.Migrator.FSP/AlterGetPrincipalBalanceStoredProcforIndentureCAPI.cs" timestamp="1507678290498">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="9" column="8" />
@@ -507,7 +516,7 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512153108617">
+      <file name="/Dummy.txt" timestamp="1512153449258">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
@@ -564,18 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
-      <jump line="26" column="34" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
-      <jump line="123" column="17" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
-      <jump line="19" column="14" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/M20171018101948_Insert_Next_Gen_Fin_Estimate_Global.cs" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
-      <jump line="27" column="20" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
-      <jump line="20" column="21" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
-      <jump line="24" column="20" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
-      <jump line="122" column="48" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/MigrationExtensions/CreateDPRecordsRAFAPayoffRequest.cs" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/s/DB/ra.database.migrator.rahero.dp/RA.Database.Migrator.RAHERO.DP/InsertRecordsForRAFAPayoffStatementTemplate.cs" />
-      <jump line="53" column="31" filename="$USER_HOME$/RiderProjects/ProjectEuler/ProjectEuler/Program.cs" />
       <jump line="52" column="8" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/Controllers/CustomerInquiryController.cs" />
       <jump line="27" column="53" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" />
       <jump line="43" column="55" filename="$USER_HOME$/Documents/s/EPL/ra.cloud.fsp/RA.Services.FSP/APIDocumentation/CustomerInquiryExampleProvider.cs" />
@@ -664,6 +661,18 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Static/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Static/index.html" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Static/index.html" />
+      <jump line="63" column="34" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="448" column="131" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="1355" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="1381" column="276" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="473" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="1380" column="16" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="482" column="237" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="1118" column="78" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="1146" column="81" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="1198" column="184" filename="$USER_HOME$/Documents/s/OUPL/ra.api.operations2/RA.Domain.Services/Loans/ConfirmTerms/ConfirmTerms.json" />
+      <jump line="59" column="24" filename="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Views/Operations/Directives/ConfirmTerms/FirstPayment.cshtml" />
+      <jump line="45" column="27" filename="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Views/Operations/Directives/ConfirmTerms/FirstPayment.cshtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -694,7 +703,7 @@
         <text encoding="base64">dmFyIG1vbnRobHlQZXJpb2QgPSAwOyBtb250aGx5UGVyaW9kIDwgU3RhZ2VEdXJhdGlvbkluTW9udGhzOyBtb250aGx5UGVyaW9kKys=</text>
       </register>
       <register name="/" type="4">
-        <text>LoanStage</text>
+        <text>saving</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJyZWZyZXNoX3Rva2VuIjogIjBlNjgzODI2NjM5YzRlYzRhZDA2Y2YxNWY1N2E1NmM2IiwK</text>
@@ -739,9 +748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LoanStage</last-search>
+      <last-search>saving</last-search>
       <last-offset />
-      <last-pattern>LoanStage</last-pattern>
+      <last-pattern>saving</last-pattern>
       <last-replace>entry</last-replace>
       <last-substitute>auditRecord</last-substitute>
       <last-dir>1</last-dir>
@@ -749,13 +758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>arcode</entry>
-        <entry>new</entry>
-        <entry>Dbrs</entry>
-        <entry>Logger</entry>
-        <entry>Decimal</entry>
-        <entry>original_capi</entry>
-        <entry>GetRe</entry>
         <entry>_mapper</entry>
         <entry>INSERT</entry>
         <entry>Run</entry>
@@ -769,6 +771,13 @@
         <entry>Pmt</entry>
         <entry>Payment</entry>
         <entry>LoanStage</entry>
+        <entry>mortgage s</entry>
+        <entry>ortgage s</entry>
+        <entry>taxes</entry>
+        <entry>impound</entry>
+        <entry>escrow</entry>
+        <entry>make se</entry>
+        <entry>saving</entry>
       </history-search>
       <history-cmd>
         <entry>wj</entry>
