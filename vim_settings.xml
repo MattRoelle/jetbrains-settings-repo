@@ -586,12 +586,12 @@
         <mark key="." line="14" column="57" />
         <mark key="^" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Views/Operations/Directives/ConfirmTerms/FirstPayment.cshtml" timestamp="1512158693294">
+      <file name="$USER_HOME$/Documents/s/OUPL/ra.web.operations/RA.Web.Operations2/Views/Operations/Directives/ConfirmTerms/FirstPayment.cshtml" timestamp="1512169502725">
         <mark key="'" line="48" column="27" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="31" column="71" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="35" column="62" />
+        <mark key="]" line="35" column="63" />
+        <mark key="^" line="35" column="63" />
+        <mark key="." line="35" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/s/RS/ra.cloud.loggerapi/infrastructure/iam.tf" timestamp="1509488291816">
         <mark key="'" line="41" column="25" />
@@ -846,11 +846,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FL</text>
       </register>
       <register name="-" type="4">
-        <text>CA</text>
+        <text>FL</text>
       </register>
       <register name="/" type="4">
         <text>parameters</text>
